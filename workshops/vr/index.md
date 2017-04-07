@@ -139,6 +139,7 @@ When you are ready, export your amazing creation to `Obj` format - save it somew
 
 
 
+
 # PlayCanvas
 
 Now we want to share our work with the world and put it into a VR environment!
@@ -155,10 +156,150 @@ One way to do that is to use [PlayCanvas][pc].  [PlayCanvas][pc] is a full featu
 🚀 PlayCanvas allows you to remix other public projects. Let's **Fork** our [VR starter project](https://playcanvas.com/project/473127/overview/dali-tutorial).
 
 
+[![](imgs/fork.jpg){: .small .fancy}](https://playcanvas.com/project/473127/overview/dali-tutorial)
+
+
+## Get Familiar with the interface
+
+PlayCanvas has similar controls to MagicaVoxel.  Here's a rundown of the interface.
+
+![](imgs/editor-annotated.jpg){: .medium .fancy}
+
+* **Menu:** The menu contains all the commands available in the Editor. If you can't find the button or remember the hotkey, use the menu.
+* **Toolbar:** Commonly used commands are available on the toolbar for quick access.
+* **Hierarchy:** A hierarchical view of the Entities that make up the open Scene. Use this to select, delete and re-parent Entities.
+* **Inspector:** Detailed properties of the selected Entity, Asset or Component.
+* **Viewport:** A 3D view onto your scene, use this view to select, position and orientate Entities.
+* **Assets:** A view of all the Assets in the current Project. You can search for assets by name, filter by type and also drag and drop assets to various slots or in the Design View.
+
+
+## Let's Import!
+
+🚀 Open the `Workshop 1` folder in the Assets Pane and right click inside it to **upload** your model.
+
+![](imgs/import.jpg){: .small .fancy}
+
+Select all **3** of the files you exported earlier.
+
+![](imgs/select.jpg){: .small .fancy}
+
+PlayCanvas will upload and then create 2 more files in the Assets area.
+
+* `.json`: this is the actual model used by the webgl viewer that is created from the `.obj` file.
+* `defaultMat`: this is the material that will be loaded onto the model.
+
+When you first upload the `defaultMat` will appear grey.  You will need to assign the `png` file to the `DIFFUSE` channel in the Inspector (on the right side).
+
+🚀 Select the `defaultMat` and open the `DIFFUSE` channel.
+🚀 Drag the `.png` file onto it.
+
+![](imgs/material.jpg){: .medium .fancy}
+
+🚀 Now to place your model into the scene just drag the `.json` file onto the scene.  If you can't see the model just hit `f` and you zoom into it.  `f` always centers the view on the selected object.
+
+🚀 Then use the translate, scale, and rotate tools to move your object around.
+
+![](imgs/translate.png){: .medium .fancy}
+
+
+## Test It With Cardboard
+
+You can test play your scene with or without Google Cardboard.
+
+To test without just click the play button!
+
+![](imgs/play.png){: .fancy}
+
+To test it with the cardboard you'll need to do an extra step and publish it.
+
+![](imgs/publish.jpg){: .tiny .fancy}
+
+Then just go to the generated published URL on your phone and you should be able to experience your world in all of its VR wonder.
+
+![](imgs/publish_url.png){: .medium .fancy}
 
 
 
+## Code
 
+The next thing to play with is adding functionality through code!   PlayCanvas has a large API and you can script pretty much anything in your scene.
+
+Let's add a collision detector to your object and have it react to touches!
+
+🚀 In your Assets folder, right click and create 2 new *Scripts*.
+
+Name one `pickerRaycast` and then double click and add the following code.
+
+```javascript
+var PickerRaycast = pc.createScript('pickerRaycast');
+
+// initialize code called once per entity
+PickerRaycast.prototype.initialize = function() {
+    this.app.mouse.on(pc.EVENT_MOUSEDOWN, this.onSelect, this);
+};
+
+PickerRaycast.prototype.onSelect = function (e) {
+    var from = this.entity.camera.screenToWorld(e.x, e.y, this.entity.camera.nearClip);
+    var to = this.entity.camera.screenToWorld(e.x, e.y, this.entity.camera.farClip);
+
+    this.app.systems.rigidbody.raycastFirst(from, to, function (result) {
+        var pickedEntity = result.entity;
+
+        pickedEntity.script.pulse.pulse();
+    });
+};
+```
+
+Then do the same with another script named `pulse`.
+
+
+```javascript
+var Pulse = pc.createScript('pulse');
+
+// initialize code called once per entity
+Pulse.prototype.initialize = function() {
+    this.originalScale = this.entity.getLocalScale().x;
+    this.factor = 0;
+    this.entity.on('controllertrigger:activated', this.pulse, this);
+    this.entity.on('object:interact', this.pulse, this);
+
+};
+
+Pulse.prototype.pulse = function () {
+    this.factor = 1;
+};
+
+// update code called every frame
+Pulse.prototype.update = function(dt) {
+    if (this.factor > 0) {
+        this.factor -= dt;
+        var s = this.originalScale + Math.sin(this.factor * 30) * this.factor;
+        this.entity.setLocalScale(s, s, s);
+    }
+};
+```
+
+🚀 Find the Camera object and add the `pickerRaycast` script to it.
+
+![](imgs/pickerRaycast.png){: .medium .fancy}
+
+🚀 In the same way add the `pulse` script to any object in the scene that you want to pulse.
+
+Once you've done that you will also need to add a Collision component to those objects.
+
+🚀 Select your object, click *Add Component*, choose Collision, set the *Type* to Mesh and drag in your objects `.json` file into the Asset field.
+
+![](imgs/collision.jpg){: .small .fancy}
+
+Now if you test scene you should be able to click or select and object and it'll giggle at you!
+
+
+Here's [more about getting started with coding](http://developer.playcanvas.com/en/getting-started/) in PlayCanvas.
+
+## More Stuff To Try
+
+* Try incorporating an [explosion](https://playcanvas.com/project/439297/overview/explosion-particle-effect) somewhere!
+* [Lots More Tutorials](http://developer.playcanvas.com/en/tutorials/)
 
 
 #### References
