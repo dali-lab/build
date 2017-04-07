@@ -23,21 +23,21 @@ What is a game without some cool environment and assets?  So first thing we'll p
 3D scenes and models using *voxels* (i.e., blocks). MagicaVoxel makes modeling super
 easy, similar to building in Minecraft.
 
-![magicavoxel](https://i.imgur.com/XYYXjIn.jpg)
+![magicavoxel](https://i.imgur.com/XYYXjIn.jpg){: .medium .fancy}
 
 ## Installation
 
-MagicaVoxel works on Windows and OS X. On the [MagicaVoxel
+🚀 MagicaVoxel works on Windows and OS X. On the [MagicaVoxel
 homepage][magicavoxel], click the *Download* button and install the application:
 
-![magicavoxel install](https://i.imgur.com/GmgdyHs.jpg)
+![magicavoxel install](https://i.imgur.com/GmgdyHs.jpg){: .medium .fancy}
 
 On macOS, open the MagicVoxel app file by clicking on it in Finder. Initially,
 you will see a message noting that you cannot open applications from
 unidentified developers. After dismissing that message, open the
 *Security & Privacy* settings pane and click "Open Anyway" on the MagicVoxel app:
 
-![osx security](http://i.imgur.com/DAsjv4F.png)
+![osx security](http://i.imgur.com/DAsjv4F.png){: .medium_small .fancy}
 
 Alternatively, you can find the MagicVoxel app file in Finder, right click on it,
 and then choose "Open" from the shortcut menu. In the subsequent dialogue
@@ -50,7 +50,7 @@ The author quickly runs through many basic features in 10 minutes:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PPu7SJ1_bwc" frameborder="0" allowfullscreen></iframe>
 
-The best way to learn the MagicaVoxel UI is to click around, play with application controls,
+🚀 The best way to learn the MagicaVoxel UI is to click around, play with application controls,
 and pay attention to the tooltips on hover. Many developers are able to create their first
 scene within a half hour!  Given the absence of official tutorials, however,
 the following serves as a quick guide to navigating the UI.
@@ -67,7 +67,7 @@ viewport our mouse/trackpad or the `wasd` keys:
 - **Zoom**: Scroll up and down with the mouse or trackpad, or press one of the
   `<w>` or `<s>` keys.
 
-![magicavoxel viewport](http://imgur.com/vq34Mkk.jpg)
+![magicavoxel viewport](http://imgur.com/vq34Mkk.jpg){: .medium .fancy}
 
 The top right corner of the viewport allows you to change the bounding dimensions
 of the model. Note that in MagicaVoxel, the XY plane is horizontal and the Z
@@ -81,7 +81,7 @@ so if you change from the palette a color that a voxel is using, the voxel will
 update its color. At the bottom, there are tools to define your own color with
 sliders or via copying and pasting hex or rgb values:
 
-![magicavoxel color palette](https://i.imgur.com/vq34Mkk.jpg)
+![magicavoxel color palette](https://i.imgur.com/vq34Mkk.jpg){: .medium .fancy}
 
 ### Brushes
 
@@ -89,7 +89,7 @@ The brushes panel is to the right of the color palette. Brushes add, erase, or
 paint voxels in various shapes, sizes, and patterns. With a brush selected,
 simply click in the viewport on your model to use it:
 
-![magicavoxel brushes](https://i.imgur.com/pqrUAFT.gif)
+![magicavoxel brushes](https://i.imgur.com/pqrUAFT.gif){: .medium .fancy}
 
 There are six brushes:
 
@@ -114,83 +114,54 @@ There are four actions that work in conjunction with the brush type:
 - **Move**: Moves entire model. Unfortunately, there is no way to select
   individual voxel(s) to move.
 
-![magicavoxel actions](https://i.imgur.com/uLQcQrT.gif)
+![magicavoxel actions](https://i.imgur.com/uLQcQrT.gif){: .medium .fancy}
 
 Below the actions are three color picking tools to pick, remove, and place
 color. It is useful to know the `<alt> + <click>` shortcut to select a color by
 clicking on a voxel.
 
-## Exporting to A-Frame
+## Make Something
 
-After creating your model, you can export it to an A-Frame scene for the world
-to see! We recommend exporting to either the `.PLY` or `.OBJ` formats.
+Now that you have some idea of how to use MagicaVoxel try making something, or preload a model and alter it!
 
-### `.PLY` (with Baked Shadows)
+![](imgs/sword-char.jpg){: .medium .fancy}
 
-![magicavoxel ply](https://i.imgur.com/OIdqrSH.jpg)
 
-[ply]: https://wikipedia.org/wiki/PLY_(file_format)
+## Export Your Creation
 
-The [PLY][ply] format produces a large file size but includes *baked
-shadows*, meaning the rendered shadow colors are stored in the file. The
-A-Frame scenes shown above produce a ~5MB file size with baked shadows.
-It depends on your desired constraints whether or not file sizes on this order
-is tolerable, but exporting with baked shadows will look visually great in
-A-Frame.
+When you are ready, export your amazing creation to `Obj` format - save it somewhere you can find. This will generate 3 files for you.  
 
-[aframe-extras]: https://github.com/donmccurdy/aframe-extras/
+* `.obj` is the 3D object as a set of vertices and faces
+* `.mtl` is the material for the object, and contains how the texture should map to the surface of your object
+* `.png` is the texture, in this case an image with lots of different color corresponding to the colors of the voxels.
 
-To see the `.PLY` model in A-Frame, use the `ply-model` component found
-in Don McCurdy's [aframe-extras][aframe-extras]. Currently the model must be
-rotated by `-90 0 0` to display properly:
+![](imgs/export.jpg){: .medium .fancy}
 
-```html
-<html>
-  <head>
-    <script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script>
-    <script src="https://rawgit.com/donmccurdy/aframe-extras/v2.1.1/dist/aframe-extras.loaders.min.js"></script>
-  </head>
-  <body>
-    <a-scene>
-      <a-assets>
-        <a-asset-item id="myPlyModel" src="myModel.ply"></a-asset-item>
-      </a-assets>
 
-      <a-entity ply-model="src: #myPlyModel" rotation="-90 0 0"></a-entity>
-    </a-scene>
-  </body>
-</html>
-```
 
-### `.OBJ`
+# PlayCanvas
 
-The `.OBJ` format produces a much smaller file size than `.PLY`, but
-MagicaVoxel does not support baked exports to `.OBJ`. Exporting to `.OBJ` will
-also produce a `.MTL` for the colors and textures. You will need to include both
-and put them in the same directory as each other.
+Now we want to share our work with the world and put it into a VR environment!
 
-To render a `.OBJ` in A-Frame with HTML:
+[pc]: http://playcanvas.com
 
-```html
-<html>
-  <head>
-    <script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script>
-    <script src="https://rawgit.com/donmccurdy/aframe-extras/v2.1.1/dist/aframe-extras.loaders.min.js"></script>
-  </head>
-  <body>
-    <a-scene>
-      <a-assets>
-        <a-asset-item id="myModelObj" src="myModel.obj"></a-asset-item>
-        <a-asset-item id="myModelMtl" src="myModel.mtl"></a-asset-item>
-      </a-assets>
 
-      <a-entity obj-model="obj: #myModelObj; mtl: #myModelMtl"></a-entity>
-    </a-scene>
-  </body>
-</html>
-```
+One way to do that is to use [PlayCanvas][pc].  [PlayCanvas][pc] is a full featured 2d/3d game engine for creating interactive content for the web.  They recently added WebVR support and will do very nicely for our purposes.
 
-[blender]: https://www.blender.org/
+<iframe src="https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/Ppfa6E7q/index.html" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" allowvr="" width="640" height="360" id="playcanv"></iframe>
 
-We will later try to produce guides to baking lightmaps and shadowmaps into the
-`.OBJ` using [Blender][blender].
+🚀 Go create an account now (free)!
+
+🚀 PlayCanvas allows you to remix other public projects. Let's **Fork** our [VR starter project](https://playcanvas.com/project/473127/overview/dali-tutorial).
+
+
+
+
+
+
+
+
+#### References
+
+* MagicaVoxel section remixed from [aframe.io](https://aframe.io/docs/0.5.0/guides/building-with-magicavoxel.html), aframe is another WebVR platform that is up and coming. It isn't as full featured of a game engine as PlayCanvas though.
+* PlayCanvas [Manual](http://developer.playcanvas.com/en/user-manual/vr/)
