@@ -64,7 +64,6 @@ title: DALI Milestones
   MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Science fair style. Open to public.
   * Everyone: show off your work! gather feedback and record usage observations.
 
-
 ## Continuing Term Project Milestones
 
 * **Planning Meeting** (week 1):<br>
