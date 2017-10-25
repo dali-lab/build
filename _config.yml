@@ -6,19 +6,19 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: DALI Workshops
-tagline: All The Cool Stuff 
-email: tim@dali.dartmouth.edu
+title: DALI Build
+tagline: resources, workshops, etc
+email: staff@dali.dartmouth.edu
 # About/contact
 author:
-  name:       Tim Tregubov
-  url:        "http://www.zingweb.com"
+  name:       DALI Lab
+  url:        "http://build.dali.dartmouth.edu"
 description: > # this means to ignore newlines until "baseurl:"
-  All The Cool Stuff 
+  resources, workshops, etc
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://dali-lab.github.io" # the base hostname & protocol for your site
-twitter_username: 
-github_username: 
+url: "http://build.dali.dartmouth.edu" # the base hostname & protocol for your site
+twitter_username: dali_lab
+github_username:
 
 # Build settings
 markdown: kramdown
