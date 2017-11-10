@@ -6,9 +6,16 @@ title: DALI Milestones
 
 ## First Term Project Milestones
 
-* **[Welcome, Kick-off Meeting ](week1)** (week 1):<br>
-  Have partner kick-off meeting and start on Discovery Phase.
-  * Everyone: kick-off meeting, work on discovery worksheet.
+* **Welcome, Kick-off Meeting** (step 1):<br>
+  Have partner kick-off meeting and complete discovery worksheet to determine the problem and anticipate needs (e.g. data, assets, etc.).
+  * Everyone:
+    * [kick-off meeting](w1_kickoff)
+    * [discovery worksheet](w1_discovery_worksheet)
+      * “What problem are we solving?”
+      * “What role does this product play in the user’s daily life?"
+      * “How do they react emotionally and physically to it?”
+      * “How does this new feature align with the business goals?”
+      * “How are we going to measure success?”
 
 * **[Discover & Dev Experiment 1](week2)** (week 2):<br>
   Do user and prior work research to determine the problem statement, as well as start dev experiments.
@@ -18,7 +25,7 @@ title: DALI Milestones
 
 * **[Define Project Proposal & Dev Experiment 2](week3)** (week 3):<br>
   Define the concept and core components of your project and create a walk-though of your project from the users perspective and continue dev experiments.
-  * Everyone: feature spec
+  * All: feature spec
   * PM:  project proposal
   * Des: paper sketches
   * Dev: dev experiment 2
