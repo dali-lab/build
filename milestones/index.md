@@ -6,72 +6,39 @@ title: DALI Milestones
 
 ## First Term Project Milestones
 
-* **Welcome, Kick-off Meeting** (step 1):<br>
-  Have partner kick-off meeting and complete discovery worksheet to determine the problem and anticipate needs (e.g. data, assets, etc.).
-  * Everyone:
-    * [kick-off meeting](w1_kickoff)
-    * [discovery worksheet](w1_discovery_worksheet)
-      * “What problem are we solving?”
-      * “What role does this product play in the user’s daily life?"
-      * “How do they react emotionally and physically to it?”
-      * “How does this new feature align with the business goals?”
-      * “How are we going to measure success?”
+* [**Step 0: Welcome, Kick-off Meeting**](step00/):<br>
+In Step 0, work with your partner and team to understand the problem, stakeholder and partner requirements, and the project scope.
 
-* **[Discover & Dev Experiment 1](week2)** (week 2):<br>
-  Do user and prior work research to determine the problem statement, as well as start dev experiments.
-  * Everyone: research, discovery worksheet
-  * Des: inspiration board
-  * Devs: code experiment related to the project
+* [**Step 1: Research and Code Experiment**](step01/):<br>
+Take time in Step 2 to research products and users, and create personas. Conduct code experiment 1.
 
-* **[Define Project Proposal & Dev Experiment 2](week3)** (week 3):<br>
-  Define the concept and core components of your project and create a walk-though of your project from the users perspective and continue dev experiments.
-  * All: feature spec
-  * PM:  project proposal
-  * Des: paper sketches
-  * Dev: dev experiment 2
+* [**Step 2: Define, Feature Spec, Code Experiements**](step02/):<br>
+Define the core components of your project, create a walk-through of your project from the user perspective, and develop lightweight sketches of critical features. Continue dev experiments.
 
-* **[Mockups & Data Models & Scaffolding](week4)** (week 4):<br>
-  Create sketches of the user experience and mockups of each main interaction / view. Setup initial code scaffolding with tools and frameworks chosen.
-  * PM: github issues, milestones
-  * Des: initial mockups and site map
-  * Dev: code scaffolding
+* [**Step 3: Greyscales, Code Scaffolding**](step03/):<br>
+Create grayscales for each main interaction and screen, and conduct rapid user testing to validate design solutions. Setup initial code scaffolding with tools and frameworks chosen.
 
-* **[HiFi Mockups & data wiring](week5)** (week 5):<br>
-  Work on high fideltiy mockups and wire all necessary code components together. Rudimentary functionality in place and  components are connected and exchange data.
-  * PM: github issues, milestones
-  * Des: high-fidelity mockups
-  * Dev: data and component wiring
+* [**Step 4: Style Guide, Rudimentary Functionality**](step04/):<br>
+Settle on a style guide and apply to all screens, including insights gained from user testing. Connect all necessary code components together. Rudimentary functionality in place and components are connected and exchange data.
 
-* **[Interactive Mockup & Dev Progress](week6)** (week 6):<br>
-  Finish interactive mockup and have basic functionality in place.
-  * PM: github issues, milestones
-  * Des: interactive mockups
-  * Dev: basic functionality
+* [**Step 5: More Testing and Functionality**](step05/):<br>
+Second round of user testing and have basic functionality in place.
 
-* **[Testable Prototype](week7)** (week 7):<br>
-  Focus on function over form and main MVP functionality complete. Start internal testing (dog-fooding) with a buddy team.
-  * Everyone: assist in testing
-  * PM: testing plan
-  * Des: testing plan, start on style guide
-  * Dev: mvp functionality
+* [**Step 6: Delight, Dog-Fooding**](step06/):<br>
+Solidify designs from testing and add in delightful features and interactions. Focus on function over form to get MVP functionality complete. Start internal QA testing (dog-fooding) with a buddy team.
 
-* **[Bug Hunt](week8)** (week 8):<br>
-  Finish MVP functionality and participate in a bughunt. Help other teams find bugs in the demos!
-  * Everyone: bughunt!
-  * PM: gather/prioritize/consolidate feedback
+* [**Step 7: MVP and Bughunt**](step07/):<br>
+Finish MVP functionality and participate in a bughunt. Help other teams find bugs in the demos!
 
-* **[Design Documentation & Bug Fixing](week9)** (week 9):<br>
-  Create design documentation such as style guides and demo videos.  Iterate fixing bugs from bughunt.
-  * Everyone: prioritize remaining tasks
-  * PM: project documentation/handoff
-  * Des: final design documentation, project showcase materials
-  * Dev: bugfixing and refinement
+* [**Step 8: Design Docs and Bug Fixes**](step08/):<br>
+Create design documentation such as style guides and demo videos. Iterate fixing bugs from bug-hunt.
 
-* **[Term Demos and Testing](week10)** (week 10):<br>
-  MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Science fair style. Open to public.
-  * Everyone: show off your work! gather feedback and record usage observations.
+* [**Step 9: DEMOS and User Feedback**](step09/):<br>
+MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Science fair style. Open to public.
 
-## Continuing Term Project Milestones
+
+<!--
+## Continuing Term Project Milestones TBD
 
 * **Planning Meeting** (week 1):<br>
   Incorporate feedback and user testing from previous term into a cohesive milestone plan for the term.
@@ -104,3 +71,5 @@ title: DALI Milestones
 
 * **Term Demos and Testing** (week 10):<br>
   MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Science fair style. Open to public.
+
+  -->
