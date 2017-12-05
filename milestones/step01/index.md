@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Step 1: Research and Code Experiment
+title: Step 1
 published: true
 ---
 
 
-## Overview
+## Research and Code Experiment
 
 Take time in Step 2 to research products and users, and create personas. Conduct code experiment 1.
 

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Step 8: Design Docs and Bug Fixes
+title: Step 8
 published: true
 ---
 
 
-## Overview
+## Design Docs and Bug Fixes
 
 Create design documentation such as style guides and demo videos. Iterate fixing bugs from bug-hunt.
 

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Step 0: Welcome, Kick-off Meeting
+title: Step 0
 published: true
 ---
 
 
-## Overview
+## Welcome, Kick-off Meeting
 
 In Step 0, work with your partner and team to understand the problem, stakeholder and partner requirements, and the project scope.
 

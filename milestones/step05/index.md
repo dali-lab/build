@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Step 5: More Testing and Functionality
+title: Step 5
 published: true
 ---
 
 
-## Overview
+## More Testing and Functionality
 
 Second round of user testing and have basic functionality in place.
 

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Step 7: MVP and Bughunt
+title: Step 7
 published: true
 ---
 
 
-## Overview
+## MVP and Bughunt
 Finish MVP functionality and participate in a bughunt. Help other teams find bugs in the demos!
 
 ### Everyone:

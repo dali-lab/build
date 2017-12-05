@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Step 2: Define, Feature Spec, Code Experiments
+title: Step 2
 published: true
 ---
 
 
-## Overview
+## Define, Feature Spec, Code Experiments
 
 Define the core components of your project, create a walk-through of your project from the user perspective, and develop lightweight sketches of critical features. Continue dev experiments.
 

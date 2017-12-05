@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Step 3: Greyscales, Code Scaffolding
+title: Step 3
 published: true
 ---
 
 
-## Overview
+## Greyscales, Code Scaffolding
 
 Create grayscales for each main interaction and screen, and conduct rapid user testing to validate design solutions. Setup initial code scaffolding with tools and frameworks chosen.
 
