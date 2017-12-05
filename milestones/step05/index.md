@@ -10,7 +10,10 @@ published: true
 Second round of user testing and have basic functionality in place.
 
 ### PM:
-* [ ] Github issues, milestones
+* [ ] Team Retrospective
+* [ ] Follow-up on an issues raised during retrospective
+* [ ] Create testing plan
+
 
 ### Dev:
 * [ ] [Basic functionality](basic-functionality.md)
