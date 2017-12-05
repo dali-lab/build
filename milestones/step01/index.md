@@ -10,7 +10,9 @@ published: true
 Take time in Step 2 to research products and users, and create personas. Conduct code experiment 1.
 
 ### PM:
-* [ ] Scheduling (team check-ins, partner meetings, mentor meetings)
+* [ ] Define long-term project goals
+* [ ] Define detailed goals for the next three weeks
+* [ ] Set up User Research for next week
 * [ ] Follow up with partner on any pending questions and needs
 
 ### Dev:
