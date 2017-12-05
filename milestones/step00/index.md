@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome, Kick-off Meeting
+title: Step 0: Welcome, Kick-off Meeting
 published: true
 ---
 

@@ -12,7 +12,7 @@ In Step 0, work with your partner and team to understand the problem, stakeholde
 * [**Step 1: Research and Code Experiment**](step01/):<br>
 Take time in Step 2 to research products and users, and create personas. Conduct code experiment 1.
 
-* [**Step 2: Define, Feature Spec, Code Experiements**](step02/):<br>
+* [**Step 2: Define, Feature Spec, Code Experiments**](step02/):<br>
 Define the core components of your project, create a walk-through of your project from the user perspective, and develop lightweight sketches of critical features. Continue dev experiments.
 
 * [**Step 3: Greyscales, Code Scaffolding**](step03/):<br>

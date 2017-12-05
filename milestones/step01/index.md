@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome, Kick-off Meeting
+title: Step 1: Research and Code Experiment
 published: true
 ---
 
