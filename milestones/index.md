@@ -15,7 +15,7 @@ Take time in Step 2 to research products and users, and create personas. Conduct
 * [**Step 2: Define, Feature Spec, Code Experiments**](step02/):<br>
 Define the core components of your project, create a walk-through of your project from the user perspective, and develop lightweight sketches of critical features. Continue dev experiments.
 
-* [**Step 3: Greyscales, Code Scaffolding**](step03/):<br>
+* [**Step 3: Grayscales, Code Scaffolding**](step03/):<br>
 Create grayscales for each main interaction and screen, and conduct rapid user testing to validate design solutions. Setup initial code scaffolding with tools and frameworks chosen.
 
 * [**Step 4: Style Guide, Rudimentary Functionality**](step04/):<br>

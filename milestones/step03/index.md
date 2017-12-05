@@ -17,5 +17,5 @@ Create greyscales for each main interaction and screen, and conduct rapid user t
 * [ ] [Code scaffolding](code-scaffolding.md)
 
 ### Des:
-* [ ] [Grayscales](grayscales.md)
+* [ ] [Grayscales™](grayscales.md)
 * [ ] [Rapid User Testing](rapid-user-testing.md)
