@@ -13,12 +13,12 @@ MVP demos and testing of the projects for this term. The main focus will be on g
 * [ ] Show off your work!
 
 ### PM:
-* Prep for DALI Demos
-* Final Partner Meeting
-* Finishing any lingering issues
-* Wrap up handoff documents
-* Send Handoff documents to partner
-* Celebrate and post-mortem with the team
+* [ ] Prep for DALI Demos
+* [ ] Final Partner Meeting
+* [ ] Finishing any lingering issues
+* [ ] Wrap up handoff documents
+* [ ] Send Handoff documents to partner
+* [ ] Celebrate and post-mortem with the team
 
 MVP demos and testing of the projects for this term.  The main focus will be on getting user feedback.  You are welcome to invite friends, there will be food!
 
