@@ -11,19 +11,48 @@ In Step 0, work with your partner and team to understand the problem, stakeholde
 
 * Everyone:
   * [ ] [Brief yourself](#brief-yourself)
+  * [ ] [Team meeting](#team-meeting)
+  * [ ] [Project Briefing meeting](#briefing-meeting)
   * [ ] [Kickoff meeting](#kickoff-meeting)
   * [ ] [Reframe the problem](#reframe-the-problem)
   * [ ] [Competitive/Comparative Research](#competitivecomparative-research)
+  
+* PM:
+  * [ ] Populate backlog with tasks for the next two weeks 
+  * [ ] Set up a team meeting(#team-meeting)
+  * [ ] Set up a meeting with staff for a project briefing(#briefing-meeting)
+  * [ ] Set a up a Kickoff meeting with the partner(#kickoff-meeting)
 
 
 ## Brief Yourself
 Review the DALI Partner Information Form (an email from Staff)
 
+## Meet Your Team
+* Do something fun together or get a meal.
+* Get to know everyone’s strengths, weaknesses, and interests
+* Establish norms for meetings and team culture
+* Set long-term goals for the team
+* Introduce everyone to Zenhub
+* Decide which pipelines you will use
+* Define ‘done’
+* Select weekly meeting times
+    * 3hrs/wk: for best results, meet in two 1.5hr chunks
+    * Define what these weekly meetings will look like (and review at the first all-team meeting)
+
+## Project Briefing
+* Prep by reading existing partner communication/application
+* Write down the questions the team has for the partner?
+* Based on this current understanding of the problem and project, what do you see as solutions? What would you keep/change?
+
+
 ## Kickoff Meeting
-Meet with your partner as a team and complete this worksheet together.
+Meet with your partner as a team and use the Discovery Phase Worksheet to guide you through the questions. Remember to ask the questions you collected during the project briefing if they are not answered as the partner explains their vision. Complete the worksheet as a team.
 DALI Staff and your group’s mentor must be invited to your initial partner meeting.
 
-I. Understand the Partner’s Vision
+I. Introductions
+Who's who on your team, who are the partners?
+
+II. Understand the Partner’s Vision
 Your partner may not know what the best solution is, but they will likely have some idea of what they’d like. Ask about the problem and what they have in mind, but keep an open mind to all solutions.
 
 * Who makes up your team? Who is the primary contact person?
@@ -34,13 +63,13 @@ fun, etc.)
 * Partner’s idea of solution (if applicable):
 
 
-II. Identify Users
+III. Identify Users
 
 * Who are the users of your project? Identify at least two types.
 * What are their particular needs and challenges?
 
 
-III. Communication
+IV. Communication
 
 * DALI PMs send weekly email updates to partners updating our progress. How else
 would you like to communicate (skype, in-person), and with what frequency?
@@ -48,7 +77,7 @@ would you like to communicate (skype, in-person), and with what frequency?
 provide us with a means to access it? How will content be accessed in the future?
 
 
-IV. Communication
+V. Communication
 * DALI PMs will follow up for any additional information, questions, or considerations. Make note of them and who will providing that information.
 
 ## Reframe the Problem
