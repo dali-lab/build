@@ -6,9 +6,11 @@ Source for the website for DALI Workshops and Resources.  Updated periodically. 
 
 Built with: [Jekyll](https://jekyllrb.com/), [GitHub Pages](https://pages.github.com/), and [Remarkjs](https://github.com/gnab/remark)
 
-### Local installation
+### Local installation on OSX
 
-`gem install bundle`
+`brew install ruby`
+
+`gem install bundler`
 
 `bundle install`
 
@@ -18,7 +20,6 @@ Built with: [Jekyll](https://jekyllrb.com/), [GitHub Pages](https://pages.github
 ### Slide Integration
 
 uses [remarkjs](https://github.com/gnab/remark) for building slides - if you use the
-
 
 
 ```
