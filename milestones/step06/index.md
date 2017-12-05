@@ -10,7 +10,10 @@ published: true
 Solidify designs from testing and add in delightful features and interactions. Focus on function over form to get MVP functionality complete. Start internal QA testing (dog-fooding) with a buddy team.
 
 ### PM:
-* [ ] [QA testing plan](qa-testing-plan.md)
+* [ ] Triage bugs that arose from dogfooding
+* [ ] Address any scope questions and/or changes
+* [ ] Prep for user testing
+
 
 ### Dev:
 * [ ] [MVP functionality](mvp-functionality.md)
