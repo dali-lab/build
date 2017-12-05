@@ -7,15 +7,15 @@ published: true
 
 ## Greyscales, Code Scaffolding
 
-Create grayscales for each main interaction and screen, and conduct rapid user testing to validate design solutions. Setup initial code scaffolding with tools and frameworks chosen.
+Create greyscales for each main interaction and screen, and conduct rapid user testing to validate design solutions. Setup initial code scaffolding with tools and frameworks chosen.
 
 ### PM:
-* [ ] Github issues
-* [ ] Milestone check in
+* [ ] [Github issues](github-issues.md)
+* [ ] [Milestone check in](milestone-check-in.md)
 
 ### Dev:
-* [ ] Code scaffolding
+* [ ] [Code scaffolding](code-scaffolding.md)
 
 ### Des:
-* [ ] Grayscales
-* [ ] Rapid User Testing
+* [ ] [Greyscales](greyscales.md)
+* [ ] [Rapid User Testing](rapid-user-testing.md)
