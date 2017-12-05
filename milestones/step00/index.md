@@ -11,17 +11,17 @@ In Step 0, work with your partner and team to understand the problem, stakeholde
 
 * Everyone:
   * [ ] [Brief yourself](#brief-yourself)
-  * [ ] [Team meeting](#team-meeting)
-  * [ ] [Project Briefing meeting](#briefing-meeting)
+  * [ ] [Team meeting](#meet-your-team)
+  * [ ] [Project Briefing meeting](#project-briefing)
   * [ ] [Kickoff meeting](#kickoff-meeting)
   * [ ] [Reframe the problem](#reframe-the-problem)
   * [ ] [Competitive/Comparative Research](#competitivecomparative-research)
   
 * PM:
   * [ ] Populate backlog with tasks for the next two weeks 
-  * [ ] Set up a team meeting(#team-meeting)
-  * [ ] Set up a meeting with staff for a project briefing(#briefing-meeting)
-  * [ ] Set a up a Kickoff meeting with the partner(#kickoff-meeting)
+  * [ ] [Set up a team meeting](team-meeting.md)
+  * [ ] [Set up a meeting with staff for a project briefing](briefing-meeting.md)
+  * [ ] [Set a up a Kickoff meeting with the partner](pm-welcome.md#kickoff)
 
 
 ## Brief Yourself
