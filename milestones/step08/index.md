@@ -10,11 +10,11 @@ published: true
 Create design documentation such as style guides and demo videos. Iterate fixing bugs from bug-hunt.
 
 ### PM:
-* [ ] Project handoff
+* [ ] [Project handoff](project-handoff.md)
 
 ### Dev:
 * [ ] Bug-fixing and refinement
 
 ### Des:
 * [ ] Assist Dev with identifying bugs
-* [ ] Package Final Designs
+* [ ] [Package Final Designs](package-final-designs.md)
