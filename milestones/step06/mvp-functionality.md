@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Milestone Check In
+title: MVP Functionality
 published: true
 ---
 
 
+![](img/thisclose.gif){: .fancy .medium}
+
+At this stage you should be working towards a testable prototype,  it should be close to your MVP. Focus on function over form for this milestone.  You should be able to demonstrate all the main critical functionality of your app at this point.
 
 ## GitHub Milestones
 

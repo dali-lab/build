@@ -10,11 +10,11 @@ published: true
 Second round of user testing and have basic functionality in place.
 
 ### PM:
-* [ ] Github issues, milestones  
+* [ ] Github issues, milestones
 
 ### Dev:
-* [ ] Basic functionality
+* [ ] [Basic functionality](basic-functionality.md)
 
 ### Des:
 * [ ] Continue High Fidelity Mockups
-* [ ] User Testing
+* [ ] [User Testing](user-testing.md)
