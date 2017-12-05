@@ -10,8 +10,11 @@ published: true
 Create greyscales for each main interaction and screen, and conduct rapid user testing to validate design solutions. Setup initial code scaffolding with tools and frameworks chosen.
 
 ### PM:
-* [ ] [Github issues](github-issues.md)
-* [ ] [Milestone check in](milestone-check-in.md)
+* [ ] Set up a time for Team dinner/actitivty
+* [ ] Evaluate progress and milestones to-date
+* [ ] Define milestones for next three weeks
+* [ ] Gather all content/data from the partner
+
 
 ### Dev:
 * [ ] [Code scaffolding](code-scaffolding.md)
