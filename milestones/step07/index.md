@@ -11,6 +11,13 @@ Finish MVP functionality and participate in a bughunt. Help other teams find bug
 ### Everyone:
 * [ ] [Bughunt] (#bughunt)
 
+### PM:
+* [ ] Reevaluate milestones and define milestones for the rest of term
+* [ ] Triage bugs
+* [ ] Get app on Testflight/web hosted on surge
+* [ ] Schedule a team dinner
+
+
 
 ## BugHunt
 
