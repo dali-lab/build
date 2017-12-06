@@ -1,14 +1,17 @@
 ---
 layout: page
-title: Flow Diagram
+title: Connecting Features
 published: true
 ---
 
 
-Now that you have determined the needs of the user and the possible features that could address these needs, you can start to lace together a flow.
+Now that you have determined the needs of the user and the possible features that could address these needs, you can start to lace together a high level understanding of how these features connect. 
 
-A flow diagram documents the tasks the user will perform, in relation to each other and over time. Take care to show the entire experience. Where a task splits, mark one outcome as Y for “Yes” and the other as N for “No”.
+Flow Diagram: 
+A flow diagram documents the tasks the user will perform, in relation to each other and over time. Create flows for the primary tasks, but keep this in sketch or text form (best to not dwell on how it looks at this stage but rather how these elements connect to each other).
 
-Create main flows for the primary tasks. Add alternate flows for cases that are less common, but still occur. Think hard about any edge cases that are rare, but need to be designed for and built.
+Site Architecture: 
+Another method to determining this network would be to quickly jot down the architecture of the project. Marking pages or features horizontally shows relative breadth, while nesting pages or features below those pages shows depth, and can help hint at how “flat” or “deep” an experience would be. 
+
 
 ![](img/replace-flow.jpg)
