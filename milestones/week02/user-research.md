@@ -23,8 +23,6 @@ Research questions to keep in mind:
 
 Make one Empathy Map per user interviewed to articulate what you learned, and help team members understand the user’s mindset.
 
-![](img/empathymap.png)
-
-(*Source: https://www.nngroup.com/articles/ux-mapping-cheat-sheet/*)
+[![](img/empathymap.png)](img/empathymap.pdf)
 
 
