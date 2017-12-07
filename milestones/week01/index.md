@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Step 0
+title: Week 1
 published: true
 ---
 
 
 ## Welcome, Kick-off Meeting
 
-In Step 0, work with your partner and team to understand the problem, stakeholder and partner requirements, and the project scope.
+In Week 1, work with your partner and team to understand the problem, stakeholder and partner requirements, and the project scope.
 
 * Everyone:
   * [ ] [Brief yourself](#brief-yourself)
