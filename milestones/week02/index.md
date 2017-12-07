@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Step 1
+title: Week 2
 published: true
 ---
 
 
 ## Research and Code Experiment
 
-Take time in Step 1 to research products and users, and create personas. Conduct code experiment 1.
+Take time in Week 2 to research products and users, and create personas. Conduct code experiment 1.
 
 ### PM:
 * [ ] Define long-term project goals
