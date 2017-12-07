@@ -69,7 +69,7 @@ III. Identify Users
 IV. Communication
 
 * DALI PMs send weekly email updates to partners updating our progress. How else
-would you like to communicate (skype, in-person), and with what frequency?
+would you like to communicate (video call, in person), and with what frequency?
 * Do you have all the content needed for the project? If there is data, can you
 provide us with a means to access it? How will content be accessed in the future?
 
@@ -81,7 +81,7 @@ V. Communication
 
 * Define ‘done’
 * Reframe etc
-* discuss potential technology ideas
+* Discuss potential technology ideas
 
 <!-- needs filling out @erica -->
 
@@ -110,4 +110,4 @@ Before any designing happens, it’s critical to first understand what similar p
 
 As you find examples (your partner might have offered some Competitive examples for you in the Kickoff Meeting), take screenshots and annotate them in an [InVision Board](https://support.invisionapp.com/hc/en-us/articles/205249269-Introduction-to-Boards). This will double as a place to return to if you feel stuck, stale, or uninspired. Be sure to invite contributions from everyone.
 
-Post the link to InVision your board to your Slack Channel. 
+Post the link to InVision your board to your Slack Channel.

@@ -17,7 +17,7 @@ Wednesday Deliverable:
 * Each team introduce project and competitive research (pitch format - what is exciting about this?)
 
 * [**Week 2: Research and Code Experiment**](week02/):<br>
-Take time in Step 2 to research products and users, and create personas. Conduct code experiment 1. <!--individual //todo @tim-->
+Take time in Week 2 to research products and users, and create personas. Conduct code experiment 1. <!--individual //todo @tim-->
 
 Wednesday Deliverable:
 * Share inspiration board / comparative
@@ -64,7 +64,7 @@ Wednesday Deliverable:
 Create design documentation such as style guides and demo videos. Iterate fixing bugs from bug-hunt.
 
 Wednesday Deliverable:
-* Team Checkins with Staff <!-- putting out fires, check presetnations -->
+* Team Checkins with Staff <!-- putting out fires, check presentations -->
 
 * [**Week 10: DEMOS and User Feedback**](week10/):<br>
 MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Science fair style. Open to public.
