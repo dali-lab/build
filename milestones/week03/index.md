@@ -21,5 +21,5 @@ Define the core components of your project, create a walk-through of your projec
 * [ ] [Code Experiment 1](code-experiment-1.md)
 
 ### Des:
-* [ ] [Flow Diagram](flow-diagram.md)
+* [ ] [Connecting Features](connecting-features.md)
 * [ ] [Paper Sketches](paper-sketches.md)
