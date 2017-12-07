@@ -19,6 +19,7 @@ Take time in Week 2 to research products and users, and create personas. Conduct
 * [ ] [Code Experiment 0](code-experiment-0.md)
 
 ### Des:
+* [ ] [Inspiration Board](inspiration-board.md)
 * [ ] [User Research](user-research.md)
 * [ ] [Current-State User Journey](current-state-user-journey.md)
 

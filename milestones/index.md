@@ -6,7 +6,7 @@ title: DALI Milestones
 
 ## First Term Project Milestones
 
-* **First Wednesday Welcome**:
+**First Wednesday Welcome**:
 Welcome back DALI Dinner
 
 [**Week 1: Kick-off Meeting**](week01/):<br>
