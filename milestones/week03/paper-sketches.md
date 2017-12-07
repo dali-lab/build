@@ -17,7 +17,7 @@ Guidelines:
 * Never settle for your first idea
 
 
-![](img/sketches.png)
+![](img/papersketch.png)
 
 
 Clean up and consolidate your ideas on device paper. Note: keeping your sketches on device paper at this stage (in lieu of a digital program) saves time, and also helps the partner feel more invited to provide feedback.
