@@ -15,7 +15,7 @@ In Step 0, work with your partner and team to understand the problem, stakeholde
   * [ ] [Kickoff meeting](#kickoff-meeting)
   * [ ] [Tackle First Week](#tackle-first-week)
   * [ ] [Reframe the problem](#reframe-the-problem)
-  * [ ] [Competitive/Comparative Research](#competitivecomparative-research)
+  * [ ] [Competitive Research](#competitive-research)
 
 * PM:
   * [ ] Populate backlog with tasks for the next two weeks
@@ -98,7 +98,7 @@ During the first meeting, your partner presented your team with a problem. Your 
 
 
 
-## Competitive/Comparative Research
+## Competitive Research
 Before any designing happens, it’s critical to first understand what similar products exist, and how they work.
 
 **Competitive** is a product that solves a similar problem. Benefits of Competitive research:
@@ -108,14 +108,6 @@ Before any designing happens, it’s critical to first understand what similar p
 * Learn from other’s mistakes
 * Design for competitive advantage (find a better implementation)
 
-**Comparative** is a product that may be used for inspiration despite it not directly relating to the problem at hand (e.g. interesting landing page, noteable UI, etc.). Benefits of Comparative research:
-* Awareness of UX and UI trends
-* Cross-discipline approach
-* Discovery of potential features not yet introduced in competitive solutions  
-
 As you find examples (your partner might have offered some Competitive examples for you in the Kickoff Meeting), take screenshots and annotate them in an [InVision Board](https://support.invisionapp.com/hc/en-us/articles/205249269-Introduction-to-Boards). This will double as a place to return to if you feel stuck, stale, or uninspired. Be sure to invite contributions from everyone.
 
-Link to InVision Board, where you annotate the screenshots of these examples:
-<!-- todo @natalie invision link? -->
-
-______________________________________________________________________
+Post the link to InVision your board to your Slack Channel. 
