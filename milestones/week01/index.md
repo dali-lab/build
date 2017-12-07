@@ -74,7 +74,7 @@ would you like to communicate (video call, in person), and with what frequency?
 provide us with a means to access it? How will content be accessed in the future?
 
 
-V. Communication
+V. Follow Up
 * DALI PMs will follow up for any additional information, questions, or considerations. Make note of them and who will providing that information.
 
 ## Tackle First Week
@@ -101,7 +101,7 @@ During the first meeting, your partner presented your team with a problem. Your 
 ## Competitive Research
 Before any designing happens, it’s critical to first understand what similar products exist, and how they work.
 
-**Competitive** is a product that solves a similar problem. Benefits of Competitive research:
+Competitive products solve a similar problem. Benefits of Competitive Research:
 * Builds domain knowledge (become a SME “subject matter expert”)
 * Identification of best practices
 * Avoid “reinventing the wheel”

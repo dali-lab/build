@@ -28,9 +28,10 @@ Take time in Week 2 to research products and users, and create personas. Conduct
 
 
 ## Personas
+After you have completed User Research, develop your project Personas.
 Personas are hypotheses informed by our research. They capture basic demographics, motivations, and frustrations. The purpose of Personas is to inspire empathy which is the key to understanding irrational responses.
 
-Aim for 2-4 personas that accurately describe the variety of users that will use your product.
+Aim for 2-4 personas that accurately describe the variety of users that will use your product. Use your Empathy Maps to help synthesize.
 
 Consult this template to fill in details about your users. Feel free to include any additional dimensions that help you think about and understand your user in relation to your project (e.g., knowledge, skills, interest, technique, languages, platform, etc.)
 
