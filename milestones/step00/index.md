@@ -11,14 +11,14 @@ In Step 0, work with your partner and team to understand the problem, stakeholde
 
 * Everyone:
   * [ ] [Brief yourself](#brief-yourself)
-  * [ ] [Team meeting](#meet-your-team)
-  * [ ] [Project Briefing meeting](#project-briefing)
+  * [ ] [Project Briefing meeting](#project-brief)
   * [ ] [Kickoff meeting](#kickoff-meeting)
+  * [ ] [Tackle First Week](#tackle-first-week)
   * [ ] [Reframe the problem](#reframe-the-problem)
   * [ ] [Competitive/Comparative Research](#competitivecomparative-research)
-  
+
 * PM:
-  * [ ] Populate backlog with tasks for the next two weeks 
+  * [ ] Populate backlog with tasks for the next two weeks
   * [ ] [Set up a team meeting](team-meeting.md)
   * [ ] [Set up a meeting with staff for a project briefing](briefing-meeting.md)
   * [ ] [Set a up a Kickoff meeting with the partner](pm-welcome.md#kickoff)
@@ -27,23 +27,20 @@ In Step 0, work with your partner and team to understand the problem, stakeholde
 ## Brief Yourself
 Review the DALI Partner Information Form (an email from Staff)
 
-## Meet Your Team
+## Project Brief
+
 * Do something fun together or get a meal.
 * Get to know everyone’s strengths, weaknesses, and interests
 * Establish norms for meetings and team culture
 * Set long-term goals for the team
 * Introduce everyone to Zenhub
-* Decide which pipelines you will use
-* Define ‘done’
 * Select weekly meeting times
     * 3hrs/wk: for best results, meet in two 1.5hr chunks
     * Define what these weekly meetings will look like (and review at the first all-team meeting)
-
-## Project Briefing
+<br>
 * Prep by reading existing partner communication/application
 * Write down the questions the team has for the partner?
 * Based on this current understanding of the problem and project, what do you see as solutions? What would you keep/change?
-
 
 ## Kickoff Meeting
 Meet with your partner as a team and use the Discovery Phase Worksheet to guide you through the questions. Remember to ask the questions you collected during the project briefing if they are not answered as the partner explains their vision. Complete the worksheet as a team.
@@ -80,6 +77,15 @@ provide us with a means to access it? How will content be accessed in the future
 V. Communication
 * DALI PMs will follow up for any additional information, questions, or considerations. Make note of them and who will providing that information.
 
+## Tackle First Week
+
+* Define ‘done’
+* Reframe etc
+* discuss potential technology ideas
+
+<!-- needs filling out @erica -->
+
+
 ## Reframe the Problem
 During the first meeting, your partner presented your team with a problem. Your job is to uncover the real problem, the question that will drive you towards innovative, exciting, and impactful solutions.
 
@@ -110,5 +116,6 @@ Before any designing happens, it’s critical to first understand what similar p
 As you find examples (your partner might have offered some Competitive examples for you in the Kickoff Meeting), take screenshots and annotate them in an [InVision Board](https://support.invisionapp.com/hc/en-us/articles/205249269-Introduction-to-Boards). This will double as a place to return to if you feel stuck, stale, or uninspired. Be sure to invite contributions from everyone.
 
 Link to InVision Board, where you annotate the screenshots of these examples:
+<!-- todo @natalie invision link? -->
 
 ______________________________________________________________________
