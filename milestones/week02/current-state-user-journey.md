@@ -11,7 +11,7 @@ Use this journey to identify gaps in the experience that are disjointed for the 
 
 Example:
 
-[![](img/CurrentStateUserJourney.png)](img/CurrentStateUserJourney.pdf)
+[![](img/currentstateuserjourney.png)](img/currentstateuserjourney.pdf)
 
 * Actions: what the user needs to do to move to the next step
 * Positive experiences: enjoyable things that improve the experience
