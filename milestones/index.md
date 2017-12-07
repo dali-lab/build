@@ -30,8 +30,8 @@ Wednesday Deliverable:
 * Share our paper sketches <!-- science fair style -->
 * Share out dev experiments
 
-* [**Week 4: Grayscales™, Code Scaffolding**](week04/):<br>
-Create grayscales™ for each main interaction and screen, and conduct rapid user testing to validate design solutions. Setup initial code scaffolding with tools and frameworks chosen.
+* [**Week 4: Grayscales™, User Testing, Code Scaffolding**](week04/):<br>
+Create Grayscales™ for each main interaction and screen. Conduct rapid user testing to validate design solutions. Setup initial code scaffolding with tools and frameworks chosen.
 
 Wednesday Deliverable:
 * Share code scaffolding and insights from user testing with a buddy team <!-- with grayscales -->
@@ -42,17 +42,17 @@ Settle on a style guide and apply to all screens, including insights gained from
 Wednesday Deliverable:
 * Fun
 
-* [**Week 6: More Testing and Functionality**](week06/):<br>
-Second round of user testing and have basic functionality in place. <!-- delete user testing //todo @natalie -->
+* [**Week 6: Refine and Functionality**](week06/):<br>
+Refine designs and have basic functionality in place.
 
 Wednesday Deliverable:
 * Teams share progress <!-- science fair style -->
 
 * [**Week 7: Delight, Dog-Fooding**](week07/):<br>
-Solidify designs from testing and add in delightful features and interactions. Focus on function over form to get MVP functionality complete. Start internal QA testing (dog-fooding) with a buddy team.
+Solidify designs and add in delightful features and interactions. Focus on function over form to get MVP functionality complete. Start internal QA testing (dog-fooding) with a buddy team.
 
 Wednesday Deliverable:
-* Dog-fooding <!-- internal user testing //todo @natalie -->
+* Dog-fooding
 
 * [**Week 8: MVP and Bughunt**](week08/):<br>
 Finish MVP functionality and participate in a bughunt. Help other teams find bugs in the demos!
@@ -60,8 +60,8 @@ Finish MVP functionality and participate in a bughunt. Help other teams find bug
 Wednesday Deliverable:
 * BugHunt
 
-* [**Week 9: Design Docs and Bug Fixes**](week09/):<br>
-Create design documentation such as style guides and demo videos. Iterate fixing bugs from bug-hunt.
+* [**Week 9: Design Package and Bug Fixes**](week09/):<br>
+Create design documentation including packaged files, style archive, and demo video. Iterate fixing bugs from bug-hunt.
 
 Wednesday Deliverable:
 * Team Checkins with Staff <!-- putting out fires, check presentations -->

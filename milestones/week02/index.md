@@ -7,7 +7,7 @@ published: true
 
 ## Research and Code Experiment
 
-Take time in Week 2 to research products and users, and create personas. Conduct code experiment 1.
+Take time in Week 2 to research products and users, and create personas. Conduct code experiment 0.
 
 ### PM:
 * [ ] Define long-term project goals

@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Step 3
+title: Week 4
 published: true
 ---
 
 
 ## Grayscales, Code Scaffolding
 
-Create greyscales for each main interaction and screen, and conduct rapid user testing to validate design solutions. Setup initial code scaffolding with tools and frameworks chosen.
+Create Grayscales™ for each main interaction and screen, and conduct rapid user testing to validate design solutions. Setup initial code scaffolding with tools and frameworks chosen.
 
 ### PM:
-* [ ] Set up a time for Team dinner/actitivty
+* [ ] Set up a time for Team dinner/activity
 * [ ] Evaluate progress and milestones to-date
 * [ ] Define milestones for next three weeks
 * [ ] Gather all content/data from the partner

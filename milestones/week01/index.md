@@ -11,10 +11,10 @@ In Week 1, work with your partner and team to understand the problem, stakeholde
 
 * Everyone:
   * [ ] [Brief yourself](#brief-yourself)
-  * [ ] [Project Briefing meeting](#project-brief)
-  * [ ] [Kickoff meeting](#kickoff-meeting)
+  * [ ] [Project Briefing Meeting](#project-briefing-meeting)
+  * [ ] [Kickoff Meeting](#kickoff-meeting)
   * [ ] [Tackle First Week](#tackle-first-week)
-  * [ ] [Reframe the problem](#reframe-the-problem)
+  * [ ] [Reframe the Problem](#reframe-the-problem)
   * [ ] [Competitive Research](#competitive-research)
 
 * PM:
@@ -27,7 +27,7 @@ In Week 1, work with your partner and team to understand the problem, stakeholde
 ## Brief Yourself
 Review the DALI Partner Information Form (an email from Staff)
 
-## Project Brief
+## Project Briefing Meeting
 
 * Do something fun together or get a meal.
 * Get to know everyone’s strengths, weaknesses, and interests

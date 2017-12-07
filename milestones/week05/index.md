@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Step 4
+title: Week 5
 published: true
 ---
 
@@ -12,8 +12,6 @@ Settle on a style guide and apply to all screens, including insights gained from
 ### PM:
 * [ ] Evaluate team velocity
 * [ ] Write a brief team update for DALI PR
-* [ ] Set up User Testing for round 2 next week
-
 
 ### Dev:
 * [ ] [Data and component wiring](data-and-component-wiring.md)

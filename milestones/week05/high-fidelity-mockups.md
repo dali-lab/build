@@ -7,6 +7,8 @@ published: true
 
 Use your Style Guide and the User Testing feedback to move ahead in creating High Fidelity Mockups. Be careful not to scrap everything from one confused user - use your own judgement to act on priority items that were common amongst a majority of your tested users.
 
+[Great reading for starting out](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
+
 Setting up your file:
 * Use symbols wherever possible
 * [Grids](https://www.slideshare.net/huer1278ft/grids-are-good-right) are your friend
@@ -45,6 +47,3 @@ Elements to pay attention to in design:
   ## Integrate Designs with Zeplin
 
   As soon as you get your first round of High Fidelity Mockups done, upload them to [Zeplin](https://zeplin.io/) for collaboration with Developers. Use your team@dali email to create your one free Zeplin account and then share the password in your Slack Channel for your team members. Invite staff@dali email as a collaborator.
-
-
-[Great reading for starting out](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
