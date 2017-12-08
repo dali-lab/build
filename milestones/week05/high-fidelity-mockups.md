@@ -9,7 +9,7 @@ Use your Style Guide and the User Testing feedback to move ahead in creating Hig
 
 [Read this Medium post when starting out](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
 
-Use Symbols wherever possible to minimize work down the line when updating elements.
+Use [symbols](https://www.smashingmagazine.com/2017/04/symbols-sketch/) wherever possible to minimize work down the line when updating elements.
 
 Elements to pay attention to in design:
 * Alignment (mostly left aligned, unless you have a strong reason to deviate)

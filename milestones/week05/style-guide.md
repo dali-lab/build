@@ -13,7 +13,7 @@ The earlier you settle on a style guide, the better, since this is the document 
   * 60-30-10 Rule: 60% is your dominant color, 30% is secondary, and 10% is for the accent.
   * Be extra careful of color contrast when choosing a [Dark Theme](https://dribbble.com/erikdkennedy/buckets/160688-Dark-themes)
   * Never use pure black
-  * [Gradients](http://davidjohnstone.net/pages/lch-lab-colour-gradient-picker)
+  * [Gradients](uigradients.com)
 
 * Typography:
   * Read up on the [basics](https://practicaltypography.com/typography-in-ten-minutes.html) and [details](http://jessicahische.is/talkingtype) of using type
