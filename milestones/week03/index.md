@@ -15,7 +15,7 @@ Define the core components of your project and develop lightweight sketches of c
 * [ ] Meet with team to define Feature Spec and project scope
 * [ ] [Feature Specification](feature-specification.md)
 * [ ] Create Backlog
-* [ ] Set up Rapid User Testing for next week
+* [ ] Schedule Rapid User Testing for next week
 
 ### Dev:
 * [ ] [Code Experiment 1](code-experiment-1.md)
