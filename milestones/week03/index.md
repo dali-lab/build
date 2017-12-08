@@ -5,9 +5,9 @@ published: true
 ---
 
 
-## Define, Feature Spec, Code Experiments
+## Define and Code Experiment
 
-Define the core components of your project, create a walk-through of your project from the user perspective, and develop lightweight sketches of critical features. Continue dev experiments.
+Define the core components of your project and develop lightweight sketches of critical features. Complete code experiment 1.
 
 ### PM:
 * [ ] Help conduct User Research

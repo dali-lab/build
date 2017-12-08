@@ -27,7 +27,7 @@ Take time in Week 2 to research products and users, and create personas. Conduct
 * [ ] [Personas](#personas)
 
 
-## Personas
+## Personas <!-- should this be it's own page? -->
 After you have completed User Research, develop your project Personas.
 Personas are hypotheses informed by our research. They capture basic demographics, motivations, and frustrations. The purpose of Personas is to inspire empathy which is the key to understanding irrational responses.
 

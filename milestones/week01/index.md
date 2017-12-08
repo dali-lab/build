@@ -27,7 +27,7 @@ In Week 1, work with your partner and team to understand the problem, stakeholde
 ## Brief Yourself
 Review the DALI Partner Information Form (an email from Staff)
 
-## Project Briefing Meeting
+## Project Briefing Meeting <!-- @erica this includes Staff? -->
 
 * Do something fun together or get a meal.
 * Get to know everyone’s strengths, weaknesses, and interests
@@ -47,27 +47,24 @@ Meet with your partner as a team and use the Discovery Phase Worksheet to guide 
 DALI Staff and your group’s mentor must be invited to your initial partner meeting.
 
 I. Introductions
-Who's who on your team, who are the partners?
+* Who makes up your team? Who is the primary contact person?
 
 II. Understand the Partner’s Vision
-Your partner may not know what the best solution is, but they will likely have some idea of what they’d like. Ask about the problem and what they have in mind, but keep an open mind to all solutions.
+<br>Your partner may not know what the best solution is, but they will likely have some idea of what they’d like. Ask about the problem and what they have in mind, but keep an open mind to all solutions.
 
-* Who makes up your team? Who is the primary contact person?
 * What problem are you looking to address? Has anyone else solved this problem?
 * What does success look like for this project? What are your goals?
 * What feelings are important for your solution to evoke in users? (safety, comfort,
 fun, etc.)
-* Partner’s idea of solution (if applicable):
+* Partner’s idea of solution (if applicable)
 
 
 III. Identify Users
-
 * Who are the users of your project? Identify at least two types.
 * What are their particular needs and challenges?
 
 
 IV. Communication
-
 * DALI PMs send weekly email updates to partners updating our progress. How else
 would you like to communicate (video call, in person), and with what frequency?
 * Do you have all the content needed for the project? If there is data, can you
@@ -110,4 +107,4 @@ Competitive products solve a similar problem. Benefits of Competitive Research:
 
 As you find examples (your partner might have offered some Competitive examples for you in the Kickoff Meeting), take screenshots and annotate them in an [InVision Board](https://support.invisionapp.com/hc/en-us/articles/205249269-Introduction-to-Boards). This will double as a place to return to if you feel stuck, stale, or uninspired. Be sure to invite contributions from everyone.
 
-Post the link to InVision your board to your Slack Channel.
+Share your InVision board in your Slack Channel.
