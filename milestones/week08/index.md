@@ -9,7 +9,7 @@ published: true
 Finish MVP functionality and participate in a bughunt. Help other teams find bugs in the demos!
 
 ### Everyone:
-* [ ] [Bughunt] (#bughunt)
+* [ ] [Bughunt](#bughunt)
 
 ### PM:
 * [ ] Reevaluate milestones and define milestones for the rest of term

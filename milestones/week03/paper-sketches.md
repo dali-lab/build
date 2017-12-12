@@ -12,7 +12,7 @@ Guidelines:
 * Fidelity is at its lowest. Use the “thick marker rule” - the thicker the marker, the more you force yourself to keep the designs to a conceptual level, as it’s difficult to add in details when the marker tip is so large. Whiteboard markers are great here too, just take photos!
 * Little or no specific content
 * No sense of scale or grid
-* Think in flows whenever possible (what pages comes after?)
+* Think in flows whenever possible (what pages come after?)
 * Recheck with your flow diagram - what part of the flow is not yet in the sketch?
 * Never settle for your first idea
 
@@ -28,4 +28,4 @@ Example Device Paper:
 <br>
 Feel free to use this or make your own, appropriate for the device you are developing for.
 
-![](img/devicepaper.jpg)
+[![](img/devicepaper.jpg)](img/devicepaper.pdf)
