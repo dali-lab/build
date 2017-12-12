@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Step 7
+title: Week 8
 published: true
 ---
 

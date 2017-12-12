@@ -5,4 +5,4 @@ published: true
 ---
 
 
-Work your way through the feedback and decide on what needs refinement. Use your own judgement to act on priority items. Also use this time to add additional states for elements or pages that weren’t captured in the previous week.  
+Use this time to add additional states for elements or pages that weren’t captured in the previous week. Prepare for science fair style shareouts by updating the Prototype. 

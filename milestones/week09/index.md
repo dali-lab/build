@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Step 8
+title: Week 9
 published: true
 ---
 
@@ -17,4 +17,4 @@ Create design documentation such as style guides and demo videos. Iterate fixing
 
 ### Des:
 * [ ] Assist Dev with identifying bugs
-* [ ] [Package Final Designs](package-final-designs.md)
+* [ ] [Design Package](design-package.md)

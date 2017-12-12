@@ -25,6 +25,7 @@ Clean up and consolidate your ideas on device paper. Note: keeping your sketches
 **Present 2-3 clean versions on device paper to the partner for feedback. Each version should be different enough discuss direction and determine a plan to move forward.**
 
 Example Device Paper:
+<br>
 Feel free to use this or make your own, appropriate for the device you are developing for.
 
 ![](img/devicepaper.jpg)

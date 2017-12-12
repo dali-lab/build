@@ -21,3 +21,8 @@ The earlier you settle on a style guide, the better, since this is the document 
   * Font Kits
     * [Google Fonts](https://fonts.google.com/) - The largest repository of completely free fonts in the world (best for web!)
     * [Typekit](https://typekit.com/) - Adobe's font service, free with an Adobe Creative Cloud account
+
+
+If you're creating a [Design System](https://blog.prototypr.io/design-system-ac88c6740f53), refer to guides from existing systems for help.
+  * [Google Material Design](https://material.io)
+  * [Apple Design](https://developer.apple.com/design/resources/)

@@ -17,4 +17,4 @@ Refine designs and have basic functionality in place.
 * [ ] [Basic functionality](basic-functionality.md)
 
 ### Des:
-* [ ] Continue High Fidelity Mockups
+* [ ] [Refine designs](refine-design.md)
