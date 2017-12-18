@@ -1,8 +1,8 @@
-## TOC
-- [Introduction](#Introduction)
-- [DALI Resources](#DALI Resources)
-- [Developer Apprentice Program](#Developer Apprentice Program)
-- [Designer Apprentice Program](#Designer Apprentice Program)
+
+- [Introduction](#introduction)
+- [DALI Resources](#dali-resources)
+- [Developer Apprentice Program](#developer-apprentice-program)
+- [Designer Apprentice Program](#designer-apprentice-program)
 
 
 ## Introduction:
@@ -22,12 +22,12 @@ Please consult the *DALI Member Guide*, [DALI Resources](http://build.dali.dartm
 
 As a DALI Developer Apprentice, you will spend your time conducting code experiments and completing the Dev 2 Challenge.
 
-**Experiment**
+**Phase 1: Experiment**
 
 Follow Weeks 1-3 in Milestones to conduct code experiments.
 
 
-**Challenge**
+**Phase 2: Challenge**
 
 In the remaining three weeks, complete the Dev 2 Challenge.
 
@@ -35,16 +35,16 @@ In the remaining three weeks, complete the Dev 2 Challenge.
 
 ## Designer Apprentice Program:
 
-As a DALI er Apprentice, you have the choice to learn process or programs. Consult your mentor to help select the path that is most appropriate for you.
+As a DALI Designer Apprentice, you have the choice to learn process *or* programs. Consult your mentor to help select the path that is most appropriate for you.
 
-**Process**
+**Process Program**
 
 Follow Weeks 1-6 in the Design Milestones to design a new messaging app.
 
 The Design Milestones go through the various aspects of early stage digital product development and design thinking. You will be tasked with designing a variety of possibilities before deciding on a solution to move forward with. You will learn to discover user needs, generate ideas, identify important features, and create high-fidelity mockups.
 
 
-**Programs**
+**Tools Program**
 
 Spend each week learning a circle of choice in the Tools Design Category.
 
