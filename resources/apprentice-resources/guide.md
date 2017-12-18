@@ -1,6 +1,6 @@
 
 - [Introduction](#introduction)
-- [DALI Resources](#dali-resources)
+- [Guides](#guides)
 - [Developer Apprentice Program](#developer-apprentice-program)
 - [Designer Apprentice Program](#designer-apprentice-program)
 
