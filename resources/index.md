@@ -21,3 +21,15 @@ This is an compilation of various developer resources that the lab has created o
 * Google Script Guides
   * [DALI's Google Apps Script](./dev-resources/googlescript.md)
   * [Developer Guide for DALI's Google Scripts](./dev-resources/googlescript-dev.md)
+
+
+# Des Resources
+
+Design resources to help with process, theory, and technical skills. Always evolving, so please contribute and update frequently.
+
+* [UX Design](./des-resources/ux-design.md)
+
+
+# Apprentice Resources
+
+* [Apprentice Program Guide](./apprentice-resources/guide.md)
