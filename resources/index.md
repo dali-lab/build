@@ -30,6 +30,8 @@ Design resources to help with process, theory, and technical skills. Always evol
 * [UX Design](./des-resources/ux-design.md)
 
 
-# Apprentice Resources
+# Apprenticeship
 
-* [Apprentice Program Guide](./apprentice-resources/guide.md)
+The six-week DALI Apprenticeship Program aims to help individuals develop their skills and better integrate into the DALI Lab environment in subsequent terms. Whether you're interested in becoming a designer or a developer, use this manual to guide you through the program. 
+
+* [Apprenticeship Program](./apprenticeship-program.md)

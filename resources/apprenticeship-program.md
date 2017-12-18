@@ -18,7 +18,7 @@ Please consult the *DALI Member Guide*, [DALI Resources](http://build.dali.dartm
 
 
 
-## Developer Apprentice Program:
+## Developer Apprenticeship Program:
 
 As a DALI Developer Apprentice, you will spend your time conducting code experiments and completing the Dev 2 Challenge.
 
@@ -33,7 +33,7 @@ In the remaining three weeks, complete the Dev 2 Challenge.
 
 
 
-## Designer Apprentice Program:
+## Designer Apprenticeship Program:
 
 As a DALI Designer Apprentice, you have the choice to learn process *or* programs. Consult your mentor to help select the path that is most appropriate for you.
 
