@@ -1,8 +1,8 @@
 
 - [Introduction](#introduction)
 - [Guides](#guides)
-- [Developer Apprentice Program](#developer-apprentice-program)
-- [Designer Apprentice Program](#designer-apprentice-program)
+- [Developer Apprenticeship Program](#developer-apprenticeship-program)
+- [Designer Apprenticeship Program](#designer-apprenticeship-program)
 
 
 ## Introduction:
