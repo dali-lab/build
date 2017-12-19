@@ -29,6 +29,12 @@ Design resources to help with process, theory, and technical skills. Always evol
 * [UI Design](./des-resources/ui-design.md)
 * [Newsletters and Blogs](./des-resources/blogs.md)
 
+# PM resources
+
+New and in progress!
+
+* [PM Weekly Checklist](pm-weekly-checklist.md)
+
 
 # Apprenticeship
 

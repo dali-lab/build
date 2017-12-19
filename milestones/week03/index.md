@@ -17,6 +17,8 @@ Define the core components of your project and develop lightweight sketches of c
   * After evaluating your progress to-date, does anything need to be adjusted?
 * [ ] Gather all content/data from the partner
   * The partner is 100% responsible for the content. Work with them to get all of it and help them refine it if need be. This includes any wording (paragraphs, buttons, etc.), data, photos, videos, etc.
+* [ ] Set up Rapid User Testing for next week
+  * As before, reach out to new users and schedule times to conduct Rapid User Testing during week 3.
 
 
 ### Dev:
@@ -31,5 +33,5 @@ Define the core components of your project and develop lightweight sketches of c
   * Code experiment 1
 
 ### Wednesday Activity:
-  * Share out paper sketches
+  * Share out paper sketches <!-- science fair style -->
   * Share out dev experiments

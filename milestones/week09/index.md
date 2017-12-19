@@ -13,7 +13,7 @@ Create design documentation such as style guides and demo videos. Iterate fixing
 * [ ] Prep for DALI Demos (Technigala)
   * How can you make your demo interesting and fun for viewers?
   * Make demo equipment requests to Theo (if needed)
-* Final Partner meeting
+* [ ] Final Partner meeting
   * Wrap up lingering questions
   * Clarify Handoff process
 
@@ -25,4 +25,4 @@ Create design documentation such as style guides and demo videos. Iterate fixing
 * [ ] [Design Package](design-package.md)
 
 ### Wednesday Activity:
-* Team checkins with Natalie and Tim
+* Team checkins with Natalie and Tim <!-- putting out fires, check presentations -->

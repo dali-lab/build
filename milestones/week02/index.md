@@ -18,9 +18,6 @@ Take time in Week 2 to research products and users, and create personas. Conduct
   * Now that you have a good understanding of the project, the [Feature Spec](https://docs.google.com/document/d/1pWNzAXyMH1gEyB6JDcAEkzpnNypdZPcqe3v6B2Uov7w/edit#heading=h.b1z22ibegd3m) is where devs and designers will put their heads together to hammer out the details.
 * [ ] Create Backlog
   * Based on your dates from the Feature Spec, you can populate the backlog with upcoming Epics and issues. Work several weeks out and always keep in mind the overarching milestone dates.
-* [ ] Set up Rapid User Testing for next week
-  * As before, reach out to new users and schedule
-times to conduct Rapid User Testing during week 3.
 
 
 ### Dev:
@@ -41,4 +38,4 @@ times to conduct Rapid User Testing during week 3.
 
 ### Wednesday Activity:
   * Share comparative research and inspiration boards
-  * Share code experiments in teams
+  * Share code experiments in teams <!--speed dating style //todo @erica-->

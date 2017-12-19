@@ -21,4 +21,4 @@ Refine designs and have basic functionality in place.
 * [ ] [Refine designs](refine-design.md)
 
 ### Wednesday Activity:
-  * Share team progress
+  * Share team progress <!-- science fair style -->
