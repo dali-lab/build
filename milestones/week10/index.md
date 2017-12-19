@@ -11,7 +11,7 @@ MVP demos and testing of the projects for this term. The main focus will be on g
 
 ### Everyone:
 * [ ] Show off your work!
-* Important Demo information
+* [Important Demo information](demos.md)
 
 ### PM:
 * Finish any lingering issues
