@@ -5,10 +5,6 @@ permalink: /resources/
 ---
 
 
-# Design Resources
-
-coming soon!
-
 # Dev Resources
 
 This is an compilation of various developer resources that the lab has created over the years. Please feel free to give feedback and contribute yourself.
