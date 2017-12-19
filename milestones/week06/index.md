@@ -10,11 +10,15 @@ published: true
 Refine designs and have basic functionality in place.
 
 ### PM:
-* [ ] Team Retrospective
-* [ ] Follow-up on an issues raised during retrospective
+* [ ] Triage bugs that arose from testing
+* [ ] Address any scope questions and/or changes
+  * With a few weeks left, do your milestones need to be adjusted?
 
 ### Dev:
 * [ ] [Basic functionality](basic-functionality.md)
 
 ### Des:
 * [ ] [Refine designs](refine-design.md)
+
+### Wednesday Activity:
+  * Share team progress
