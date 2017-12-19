@@ -1,20 +1,15 @@
-# UI Resources
-
-### TOC
-- [Learning](#learning)
-- [Examples](#examples)
-- [Icons](#icons)
-- [Color Pickers](#color-pickers)
-- [Patterns and Photos](#patterns-and-photos)
-- [Typography](#typography)
-- [For Fun](#for-fun)
+---
+layout: page
+title: UI Design
+published: true
+---
 
 
 ### Learning
 * [Design.google](https://design.google/)
 * [HackDesign - 50 Design Lessons](https://hackdesign.org/lessons)
 * [UsTwo Pixel Perfect Precision Handbook](http://cdn.ustwo.com/PPP/PP3.pdf)
-
+* [Shortcuts for everything](http://shortcuts.design/)
 
 ### Examples
 * [Brand Style Guides](http://www.logodesignlove.com/brand-identity-style-guides)
@@ -33,12 +28,14 @@
 * [Material.io Icons](https://material.io/icons/)
 * [Livicons: Animated Icons](http://livicons.com/#examples)
 * [Pixel Buddha](http://pixelbuddha.net/)
-
+* [Icon Jar](http://geticonjar.com/)
 
 ### Color Pickers
 * [Sip App](http://www.sipapp.io/)
 * [Adobe Color CC](https://color.adobe.com/)
 * [Coolors.co](https://coolors.co/)
+* [Gradient picker](https://www.grabient.com/)
+* [Gradient finder](uigradients.com)
 
 
 ### Inspiration
@@ -48,6 +45,7 @@
 * [Logodesignlove.com](http://www.logodesignlove.com/)
 * [Designspiration](http://designspiration.net/)
 * [How Airbnb Designs for Trust](https://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust?language=en)
+* [UI Parade](http://www.uiparade.com/)
 
 
 ### Patterns and Photos
@@ -62,8 +60,14 @@
 * [Talking Type](http://jessicahische.is/talkingtype) - learn about type
 * [Typostrate](http://typostrate.com/) - explore type
 * [Ttyp.io](http://www.typ.io/) - what font goes with what?
+* [Font Pair](http://fontpair.co/)
 * [Fontface.ninja](http://fontface.ninja/) - what fonts does this website use?
 * [Guide to choosing the right font](http://webdesign.tutsplus.com/articles/choosing-the-right-font-a-practical-guide-to-typography-on-the-web--webdesign-15)
+
+
+### Rendering
+* [Free Mockups Generator - any device](https://mockuphone.com)
+* [3D iPhone Mockups](http://threed.io/)
 
 
 ### For Fun
