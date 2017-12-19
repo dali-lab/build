@@ -5,48 +5,50 @@ title: DALI Milestones
 
 
 ## First Term Project Milestones
-Milestone weeks run wednesday to wednesday
 
+<br>
 **First Wednesday Welcome**:
 Welcome back DALI Dinner
 
-[**Week 1: Kick-off Meeting**](week01/):<br>
+[**Week 1: Kick-off Meeting**](week01/)<br>
 In Week 1, work with your partner and team to understand the problem, stakeholder and partner requirements, and the project scope.
 <!---(share research in pitch format - what is exciting about this?)--->
 
-[**Week 2: Research and Code Experiment**](week02/):<br>
+[**Week 2: Research and Code Experiment**](week02/)<br>
 Take time in Week 2 to research products and users, and create personas. Conduct code experiment 1. <!--individual //todo @tim-->
 
-[**Week 3: Define, Feature Spec, Code Experiments**](week03/):<br>
+[**Week 3: Define, Feature Spec, Code Experiments**](week03/)<br>
 Define the core components of your project, create a walk-through of your project from the user perspective, and develop lightweight sketches of critical features. Continue dev experiments. <!--team experiment //todo @tim-->
 
 
-[**Week 4: Grayscales™, User Testing, Code Scaffolding**](week04/):<br>
+[**Week 4: Grayscales™, User Testing, Code Scaffolding**](week04/)<br>
 Create Grayscales™ for each main interaction and screen. Conduct rapid user testing to validate design solutions. Setup initial code scaffolding with tools and frameworks chosen.
 
 
-[**Week 5: Style Guide, Rudimentary Functionality**](week05/):<br>
+[**Week 5: Style Guide, Rudimentary Functionality**](week05/)<br>
 Settle on a style guide and apply to all screens, including insights gained from user testing. Connect all necessary code components together. Rudimentary functionality in place and components are connected and exchange data.
 
 
-[**Week 6: Refine and Functionality**](week06/):<br>
+[**Week 6: Refine and Functionality**](week06/)<br>
 Refine designs and have basic functionality in place.
 
 
-[**Week 7: Delight, Dog-Fooding**](week07/):<br>
+[**Week 7: Delight, Dog-Fooding**](week07/)<br>
 Solidify designs and add in delightful features and interactions. Focus on function over form to get MVP functionality complete. Start internal QA testing (dog-fooding) with a buddy team.
 
 
-[**Week 8: MVP and Bughunt**](week08/):<br>
+[**Week 8: MVP and Bughunt**](week08/)<br>
 Finish MVP functionality and participate in a bughunt. Help other teams find bugs in the demos!
 
 
-[**Week 9: Design Package and Bug Fixes**](week09/):<br>
+[**Week 9: Design Package and Bug Fixes**](week09/)<br>
 Create design documentation including packaged files, style archive, and demo video. Iterate fixing bugs from bug-hunt.
 
 
-[**Week 10: DEMOS and User Feedback**](week10/):<br>
+[**Week 10: DEMOS and User Feedback**](week10/)<br>
 MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Science fair style. Open to public.
+
+*Milestone weeks run from Wednesday to Wednesday*
 
 
 <!--
