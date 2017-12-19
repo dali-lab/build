@@ -18,3 +18,6 @@ A flow diagram documents the tasks the user will perform, in relation to each ot
 Another method to determining this network would be to quickly jot down the architecture of the project. Marking pages or features horizontally shows relative breadth, while nesting pages or features below those pages shows depth. This helps describe how “flat” or “deep” an experience would be.
 
 ![](img/sitearchitecture.png)
+
+
+While you should keep these sketches loose and freehand, checkout what a [polished version](https://speckyboy.com/collection-inspiring-sitemaps-user-flow-maps/) looks like for some inspiration.

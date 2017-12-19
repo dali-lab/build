@@ -18,10 +18,12 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://build.dali.dartmouth.edu" # the base hostname & protocol for your site
 twitter_username: dali_lab
-github_username:
+github_username: dali-lab
 
 # Build settings
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 
 gems:
   - jemoji

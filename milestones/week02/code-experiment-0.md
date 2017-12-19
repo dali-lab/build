@@ -9,7 +9,12 @@ published: true
 
 
 ## Overview
-To get ready to build your project and to stretch our coding muscles this milestone will be a little bit different from the others.  We're going to spend a week to hack together using some technology you are interested in learning.  What you build should be related to project ideas you already have but don't be too tied to it as things could change.  Consider this an opportunity to play with some of the technologies that you are potentially considering using. If you might want to build a webapp that uses video or an ios app that uses accelerometer, etc, build a small test of that technology.  You are welcome to use this time to try your hand at coding in a framework related to your project, for instance React if you want to build a webapp, or Unity3D if you want to play with game stuff, etc.   If you've never coded in a particular technology now would be the time to try it out before you start working on a full project without feeling like you have to commit.
+To get ready to build your project and to stretch your coding muscles we're going to spend a week to play with a potential technology that you are considering using for this project. If you might want to build a webapp that uses video or an ios app that uses accelerometer, etc, build a small test of that technology.  You are welcome to use this time to try your hand at coding in a framework related to your project, for instance React if you want to build a webapp, or Unity3D if you want to play with game stuff, etc.  If you've never coded in a particular technology now would be the time to try it out before you start working on a full project without feeling like you have to commit.
+
+
+## Team
+
+For this milestone we suggest everybody on your team work individually. Choose some tech
 
 ## Build
 
