@@ -22,6 +22,8 @@ github_username: dali-lab
 
 # Build settings
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 
 gems:
   - jemoji

@@ -1,4 +1,10 @@
-## Guide to setting up TravisCI, linters, and githooks for your Github Repo
+---
+layout: page
+title:  Guide to setting up TravisCI, linters, and githooks for your Github Repo
+published: true
+author: Jason Feng
+---
+
 
 #### Motivations
 

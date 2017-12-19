@@ -1,4 +1,11 @@
-##### A guide to a variety of tools, technologies, and starter packs that are helpful for devs to improve their workflow
+---
+layout: page
+title: Additional Dev Resources
+published: true
+---
+
+
+### A guide to a variety of tools, technologies, and starter packs that are helpful for devs to improve their workflow
 
 These are mostly for OS X but all are available on linux and, well, if you use Windows then you should talk to a staff person – we have loaner Macs!
 
@@ -32,11 +39,10 @@ Note: any `code blocks` are things that should be run in iTerm
 - [Atom](http://atom.io) - the preferred text editor
   - Basic Packages: file-icons, pigments, highlight-line, highlight-selected, autocomplete-emoji, color-picker, tabs-to-spaces, atom-beautify
   - Advanced Packages/Settings: vim mode, turn off minimap, relative line numbers, auto update packages, markdown scroll sync
-  - Web Dev: emmet, linter-eslint
-  <img src="imgs/example_atom1.gif" height=400px>
-  <br></br>
-  <img src="imgs/example_atom2.gif" height=220px>
-  <img src="imgs/example_atom3.gif" height=220px>
+  - Web Dev: emmet, linter-eslint<br>
+  ![](imgs/example_atom1.gif){: .medium}
+  ![](imgs/example_atom2.gif){: .medium}
+  ![](imgs/example_atom3.gif){: .medium}
 
 ## Frameworks:
 - [Firebase](http://firebase.com) –  backend as a service with SDKs for javascript, node, iOS, android, Python
@@ -55,7 +61,7 @@ Note: any `code blocks` are things that should be run in iTerm
 
 - Flask
   - [starter repo](https://github.com/jason-feng/flask-api-starter-app)
-  
+
 - iOS (Swift)
   - [starter repo](https://github.com/tburnam/iOSSwiftStarterPack)
 

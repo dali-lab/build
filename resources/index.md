@@ -5,7 +5,9 @@ permalink: /resources/
 ---
 
 
+# Design Resources
 
+coming soon!
 
 # Dev Resources
 
@@ -14,7 +16,7 @@ This is an compilation of various developer resources that the lab has created o
 * [Developer Setup and Tools](./dev-resources/dev-setup.md)
 * [Additional Dev Resources](./dev-resources/additional-resources.md)
 * [iOS developer guide](./dev-resources/ios_dev_guide.md)
-* [Making a slack bot](./dev-resources/slack_bot.md)
+* [Making a slack bot](http://cs52.me/assignments/sa/slack-bot/)
 * [Becoming familiar with git](https://github.com/dali-lab/gitivity)
 * [Setting up Travis CI for automating tests in your code base](./dev-resources/travis.md)
 * [Setting up a repo for best practices](./dev-resources/repo-setup.md)

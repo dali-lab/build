@@ -1,5 +1,10 @@
-# DALI's Google Apps Script
-Author: Pat Xu
+---
+layout: page
+title: DALI's Google Apps Script
+published: true
+author: Pat Xu
+---
+
 
 At the start of each term we onboard anywhere from a few to a few dozen people. I wrote a couple Google Apps Scripts to help speed up this process. Read on to learn how to use the various tools.
 
