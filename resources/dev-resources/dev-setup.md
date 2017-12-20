@@ -1,6 +1,11 @@
-# DALI Dev Tools
+---
+layout: page
+title: DALI Dev Tools
+published: true
+---
 
-##### A guide to a variety of tools that are helpful for devs to improve their workflow
+
+### A guide to a variety of tools that are helpful for devs to improve their workflow
 
 A resource for devs looking to learn dev essentials like: making full use of your terminal, setting up your text editor with all the right addons, mastering git/Github, and efficiently using your screen space.
 
@@ -29,17 +34,17 @@ You'll use the terminal in any and every developer position. From running a serv
 
 So, does your terminal look like this?
 
-![](imgs/terminal-bad.png)
+![](imgs/terminal-bad.png){: .small}  ![](imgs/terminal-bad2.png){: .small}
 
 *Monochrome terminals are hard to decipher.*
 
-![](imgs/terminal-bad3.png")
+![](imgs/terminal-bad3.png){: .medium .fancy}
 
 *Separate windows clutter the workspace.*
 
 Compare those with a terminal like this.
 
-![](imgs/terminal-good.png")
+![](imgs/terminal-good.png){: .medium .fancy}
 
 It's easy to find your last command, the colors are (subjectively) prettier, and the command prompt has additional information (e.g. git branch name).
 
@@ -48,21 +53,24 @@ This is a much better Terminal command line than the default Terminal.app that c
 
 - **Change colors:** preferences > profile > colors
   <details>
-  <summary>Examples</summary>
-  <img src="imgs/terminal-color.png" width=400px>  <img src="imgs/terminal-color2.png" width=400px>
+  <summary  markdown='span'>Examples</summary>
+
+  ![](imgs/terminal-color.png){: .small} ![](imgs/terminal-color2.png){: .small}
   </details>
 - **Tabs:** ⌘-t
   <details>
-  <summary>Example</summary>
-  <img src="imgs/terminal-tabs.png" width=600px>
+  <summary markdown='span'>Example</summary>
+
+  ![](imgs/terminal-tabs.png){: .medium}
   </details>
 - **Panes**
   - vertical split 👉 ⌘-d
   - horizontal split 👉 ⌘-D
   <details>
-  <summary>Examples</summary>
-  <img src="imgs/terminal-panes.png" width=600px>
-  <img src="imgs/example_bash.png" height=400px>
+  <summary  markdown='span'>Examples</summary>
+
+  ![](imgs/terminal-panes.png){: .medium}
+  ![](imgs/example_bash.png){: .medium}
   </details>
 
 
@@ -71,14 +79,16 @@ This is a much better Terminal command line than the default Terminal.app that c
 Next, we'll change the color of your command prompt (the line that you type on in iTerm)
 
 <details>
-<summary>Difficult to pick out the prompt</summary>
-<img src="imgs/terminal-prompt-bad.png" width=600px>
+<summary markdown='span'>Difficult to pick out the prompt</summary>
+
+![](imgs/terminal-prompt-bad.png){: .medium}
 </details>
 
 
 <details>
-<summary>Much easier!</summary>
-<img src="imgs/terminal-prompt-good.png" width=600px>
+<summary markdown='span'>Much easier!</summary>
+
+![](imgs/terminal-prompt-good.png){: .medium}
 </details>
 
 If you know that your prompt is a color (red) other than the usual text color, it's much easier to pick out the commands you've entered.
@@ -130,7 +140,7 @@ Window management involves efficiently organizing the windows you have open on y
 
 Does this look familiar?
 
-<img src="imgs/window-management-bad.png" width=400px>  <img src="imgs/window-management-bad2.png" width=400px>
+![](imgs/window-management-bad.png){: .small} ![](imgs/window-management-bad2.png){: .small}
 
 It's incredibly inefficient to work in an environment when you constantly have to go to click through various windows or to use windows that are smaller than they could be (e.g. Xcode, which has a lot of UI elements, should pretty much always be fullscreen).
 
@@ -141,7 +151,9 @@ Spectacle is a desktop app that makes window movement and resizing easy. It hide
 
 Here's a demo of me using it only a couple minutes after downloading it (I use a different resizing tool, which I link below).
 
-<img src="imgs/spectacle.png" height=400> <img src="imgs/spectacle-demo.gif" height=400px>
+![](imgs/spectacle.png){: .tiny}
+
+![](imgs/spectacle-demo.gif){: .medium .fancy}
 
 In a few seconds, I've full screened Chrome, moved my iTerm windows to the upper left and upper right corners of the screen, and moved Atom to the left half of the screen.
 

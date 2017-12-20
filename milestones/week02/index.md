@@ -10,10 +10,15 @@ published: true
 Take time in Week 2 to research products and users, and create personas. Conduct code experiment 0.
 
 ### PM:
-* [ ] Define long-term project goals
-* [ ] Define detailed goals for the next three weeks
-* [ ] Set up User Research for next week
 * [ ] Follow up with partner on any pending questions and needs
+* [ ] [User Research](user-research.md): help conduct (if needed) and follow-up correspondence
+* [ ] Write [Project Proposal](https://docs.google.com/document/d/1eUOWSDpmRE9037nOym1h5oGvgmbrT-mZnaj9arZcxyQ/edit)
+  * Must be approved by DALI staff before sending to partner
+* [ ] Meet with the team to define Feature Spec and define project scope
+  * Now that you have a good understanding of the project, the [Feature Spec](https://docs.google.com/document/d/1pWNzAXyMH1gEyB6JDcAEkzpnNypdZPcqe3v6B2Uov7w/edit#heading=h.b1z22ibegd3m) is where devs and designers will put their heads together to hammer out the details.
+* [ ] Create Backlog
+  * Based on your dates from the Feature Spec, you can populate the backlog with upcoming Epics and issues. Work several weeks out and always keep in mind the overarching milestone dates.
+
 
 ### Dev:
 * [ ] [Code Experiment 0](code-experiment-0.md)
@@ -24,23 +29,13 @@ Take time in Week 2 to research products and users, and create personas. Conduct
 * [ ] [Current-State User Journey](current-state-user-journey.md)
 
 ### Everyone:
-* [ ] [Personas](#personas)
+* [ ] [Personas](personas.md)
 
+### Wednesday Deliverables:
+  * Comparative research
+  * Inspiration Boards
+  * Code Experiment 0
 
-## Personas <!-- should this be it's own page? -->
-After you have completed User Research, develop your project Personas.
-Personas are hypotheses informed by our research. They capture basic demographics, motivations, and frustrations. The purpose of Personas is to inspire empathy which is the key to understanding irrational responses.
-
-Aim for 2-4 personas that accurately describe the variety of users that will use your product. Use your Empathy Maps to help synthesize.
-
-Consult this template to fill in details about your users. Feel free to include any additional dimensions that help you think about and understand your user in relation to your project (e.g., knowledge, skills, interest, technique, languages, platform, etc.)
-
-[![](img/persona.png)](img/persona.pdf)
-
-* Quote: pick a key moment to describe their character, their emotions, or their experiences
-* Random Fact: add something real, humanizing, and quirky
-* Keywords: a quick summary of standout personality traits, especially tags that might heavily affect design decisions
-* Age: hints at a mindset based on current life phase, generation, and their cultural and economic experiences
-* Tech-savviness: the lower the number, the more critical it is to make the design intuitive
-* Frustrations: what must be fixed to improve the user experience
-* Goals: what the users want to achieve in life – what motivates them
+### Wednesday Activity:
+  * Share comparative research and inspiration boards
+  * Share code experiments in teams <!--speed dating style //todo @erica-->
