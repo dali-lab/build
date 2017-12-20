@@ -5,9 +5,12 @@ published: true
 ---
 
 
-# Code
+At this stage you have completed data and component wiring and any client-server functionality has at least been tested so that you can keep making progress now on adding critical functionality.
 
-![](http://i.giphy.com/3o6MbnG1lpwIf5stB6.gif){: .fancy .small}
+## Critical MVP
 
+You should evaluate what the critical functionality of the project is.  Focus on this in your development.  Don't go for too much low hanging fruit.  Having a login page is **much less** important than having the real functionality of whatever it is that you are building. Often it is easier to think about the simpler things like a settings page or login rather than the potentially harder actual functionality - but at this point that is what you should focus on. If necessary hardcode things like auth until later - better to be able to test your functionality early.
 
-At this stage you should have rudimentary functionality in place. For instance if you were building a web or mobile app there should be frontend components hitting api endpoints that are pulling data from the database. You should have all the components/views planned out and started in code even if they are simple placeholders. You should be at the point where you have some of your presentational components (UI) laid out and have started on wiring things together with any data sources such as your api server (or computational/algorithmic logic depending on your project).
+## README.md
+
+Make sure your README.md files are updated with the current installation and deployment instructions as well as any architecture changes.

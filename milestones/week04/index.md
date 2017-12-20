@@ -15,8 +15,6 @@ Create Grayscales™ for each main interaction and screen. Conduct rapid user te
 * [ ] Write a brief team update for DALI PR
   * DALI fans want to hear about your project! Write a 1-paragraph blurb for the DALI newsletter and/or website about your project thus far. Could talk about your process, your ideas, project goals, why is the project important, etc.
 
-
-
 ### Dev:
 * [ ] [Code scaffolding](code-scaffolding.md)
 

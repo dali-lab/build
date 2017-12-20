@@ -15,10 +15,10 @@ In Week 1, work with your partner and team to understand the problem, stakeholde
 <!---(share research in pitch format - what is exciting about this?)--->
 
 [**Week 2: Research and Code Experiment**](week02/)<br>
-Take time in Week 2 to research products and users, and create personas. Conduct code experiment 1. <!--individual //todo @tim-->
+Take time in Week 2 to research products and users, and create personas. Conduct code experiment 1.
 
 [**Week 3: Define, Feature Spec, Code Experiments**](week03/)<br>
-Define the core components of your project, create a walk-through of your project from the user perspective, and develop lightweight sketches of critical features. Continue dev experiments. <!--team experiment //todo @tim-->
+Define the core components of your project, create a walk-through of your project from the user perspective, and develop lightweight sketches of critical features. Continue dev experiments.
 
 
 [**Week 4: Grayscales™, User Testing, Code Scaffolding**](week04/)<br>
@@ -47,6 +47,7 @@ Create design documentation including packaged files, style archive, and demo vi
 
 [**Week 10: DEMOS and User Feedback**](week10/)<br>
 MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Science fair style. Open to public.
+
 
 *Milestone weeks run from Wednesday to Wednesday*
 
