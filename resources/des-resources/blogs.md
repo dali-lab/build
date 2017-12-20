@@ -18,3 +18,5 @@ published: true
 * [Product Psychology](http://www.productpsychology.com/) - understanding consumer behavior
 * [Product Hunt](http://www.producthunt.com/) - latest and greatest products
 * [Hipper Element](http://thehipperelement.com/) - UX and design blog
+* [Boxes and Arrows](http://boxesandarrows.com/) - peer-written design journal
+* [Web Design Ledger](https://webdesignledger.com/) - featured content in web designer

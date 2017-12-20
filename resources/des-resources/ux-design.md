@@ -19,6 +19,7 @@ published: true
 * [IDEO Design Methods](http://www.designkit.org/methods)
 * [Prototyping Feature List](http://prototypingtools.co/)
 * [Prototyping Tools Search](https://www.cooper.com/prototyping-tools?)
+* [Questions UX Designers Should Be Asking](https://uxdesign.cc/questions-ux-designers-should-be-asking-bc9a6ba87a34)
 
 
 ### Research, Resources

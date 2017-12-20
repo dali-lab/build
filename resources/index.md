@@ -25,7 +25,7 @@ This is an compilation of various developer resources that the lab has created o
 
 # Des Resources
 
-Design resources to help with process, theory, and technical skills. Always evolving, so please contribute and update frequently.
+Design resources to help with process, theory, and technical skills. Always evolving and updated frequently.
 
 * [UX Design](./des-resources/ux-design.md)
 * [UI Design](./des-resources/ui-design.md)
