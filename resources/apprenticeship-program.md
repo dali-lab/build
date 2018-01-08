@@ -7,14 +7,14 @@
 
 ## Introduction:
 
-The six-week DALI Apprenticeship Program aims to help individuals develop their skills and better integrate into the DALI Lab environment in subsequent terms - our goal is to hire all DALI apprentices at the end of the term-long apprenticeship program.
+The six-week DALI Apprenticeship Program aims to help individuals develop their skills and make them more competitive applicants to the DALI Lab.
 
-Throughout the six weeks, DALI core members will be helping you learn the necessary skillsets and thought process that are integral to the DALI process and emulate what is necessary to succeed in DALI projects.
+As an apprentice, DALI will be helping you learn the necessary skillsets that are integral to the DALI process and emulate what is necessary to succeed in DALI projects.
 
 
 ## Guides:
 
-Please consult the *DALI Member Guide*, [DALI Resources](http://build.dali.dartmouth.edu/resources/), and [DALI Milestones](http://build.dali.dartmouth.edu/milestones/).
+Please consult the [DALI Member Guide](https://docs.google.com/document/d/1jaDWRVl7Mr4y_QFvS8Tq1TY5JkRCNicw2A7acitlqKU/edit), [DALI Resources](http://build.dali.dartmouth.edu/resources/), and [DALI Milestones](http://build.dali.dartmouth.edu/milestones/).
 
 
 
@@ -24,28 +24,30 @@ As a DALI Developer Apprentice, you will spend your time conducting code experim
 
 **Phase 1: Experiment**
 
-Follow Weeks 1-3 in Milestones to conduct code experiments.
+Spend the first three weeks working on the DALI Milestone Code Experiments.
+  * [Code Experiment 0](http://build.dali.dartmouth.edu/milestones/week02/code-experiment-0.html)
+  * [Code Experiment 1](http://build.dali.dartmouth.edu/milestones/week03/code-experiment-1.html)
 
 
 **Phase 2: Challenge**
 
-In the remaining three weeks, complete the Dev 2 Challenge.
+In the remaining three weeks, complete the Dev 2 Challenge. Be sure to check in for help and feedback as you go.
 
 
 
 ## Designer Apprenticeship Program:
 
-As a DALI Designer Apprentice, you have the choice to learn process *or* programs. Consult your mentor to help select the path that is most appropriate for you.
+As a DALI Designer Apprentice, you have the option to learn process or programs. Consult with your mentor to help select the path that is most appropriate for you.
 
 **Process Program**
 
 Follow Weeks 1-6 in the Design Milestones to design a new messaging app.
 
-The Design Milestones go through the various aspects of early stage digital product development and design thinking. You will be tasked with designing a variety of possibilities before deciding on a solution to move forward with. You will learn to discover user needs, generate ideas, identify important features, and create high-fidelity mockups.
+The Design Milestones go through the various aspects of early stage digital product development and design thinking. You will be tasked with designing a variety of possibilities before deciding on a solution to move forward with. You will learn to discover user needs, create design concepts, identify important features, and create high-fidelity mockups.
 
 
 **Tools Program**
 
-Spend each week learning a circle of choice in the Tools Design Category.
+Spend each week learning the following design programs: Sketch, Figma, Photoshop, Illustrator, InVision, and Proto.io.
 
-Choose this path if you feel you need exposure to design programs, since you will have the opportunity to learn the various programs that designers use to turn their ideas into a more easily visualized reality. Work with your mentor to identify which programs you will learn at the start of the apprenticeship.
+Choose this path if you feel that you need exposure to design programs, since you will have the opportunity to learn the various programs that designers use to turn their ideas into a more easily visualized reality. Work with your mentor to identify tutorials, exercises, and topics for the programs.
