@@ -4,11 +4,12 @@ title: Inspiration Board
 published: true
 ---
 
-Develop your InVision Board to include a section for inspiration. Look at art, digital products, and the environment for inspiration - even if it does not directly relate to the problem at hand (e.g. interesting form, landing page UI, etc.).
+Develop your InVision Board to include a section for inspiration. Look at art, digital products, other design forms, and the environment for inspiration - even if it does not directly relate to the problem at hand.
 
-At your next meeting with your partner - show the inspiration board and discuss. Observe how they respond and what they like or dislike.
+At your next meeting with your partner - show the inspiration board and discuss. Observe how they respond and what they like or dislike. Use this as fuel for your future design work.
 
 Benefits of an Inspiration Board:
 * Awareness of design trends
 * Cross-discipline approach
-* Discovery of potential features not yet introduced in competitive solutions  
+* Discovery of potential features not yet introduced in competitive solutions
+* A resource to turn to when needing inspiration!

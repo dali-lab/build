@@ -19,7 +19,6 @@ Take time in Week 2 to research products and users, and create personas. Conduct
 * [ ] Create Backlog
   * Based on your dates from the Feature Spec, you can populate the backlog with upcoming Epics and issues. Work several weeks out and always keep in mind the overarching milestone dates.
 
-
 ### Dev:
 * [ ] [Code Experiment 0](code-experiment-0.md)
 
@@ -29,13 +28,12 @@ Take time in Week 2 to research products and users, and create personas. Conduct
 * [ ] [Current-State User Journey](current-state-user-journey.md)
 
 ### Everyone:
-* [ ] [Personas](personas.md)
+* [ ] [Personas](personas.md): aim to create these in your team meeting
 
 ### Wednesday Deliverables:
-  * Comparative research
-  * Inspiration Boards
   * Code Experiment 0
+  * Inspiration Board
+  * Personas
 
 ### Wednesday Activity:
-  * Share comparative research and inspiration boards
-  * Share code experiments in teams <!--speed dating style //todo @erica-->
+  * Share inspiration board and code experiments in teams
