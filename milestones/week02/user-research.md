@@ -21,9 +21,10 @@ Research questions to keep in mind:
   * be sure to probe to get to the WHY
 * what do users need to achieve their goal?
 
-Make one Empathy Map per user interviewed to articulate what you learned, and help team members understand the user’s mindset.
+
+Copy this [User Research/Testing Template](https://docs.google.com/spreadsheets/d/1gKQyrXQKgv_zLd7S20WOh8IB6I9i2WX_XkQ5Kq0MYDk/edit?usp=sharing) and populate with your specific questions (to help you keep on track, ensure consistency between researchers, and help note taking). Use the first tab for User Research and reference the second tab for User Testing (later on in week 4).
+
+
+Make one Empathy Map per user interviewed to articulate what you learned, and help team members understand the user’s mindset. Populate the spaces based on the impression you got from the interview, not from direct questioning.
 
 [![](img/empathymap.png)](img/empathymap.pdf)
-
-
-Copy this [Testing Template](https://docs.google.com/spreadsheets/d/1gKQyrXQKgv_zLd7S20WOh8IB6I9i2WX_XkQ5Kq0MYDk/edit?usp=sharing) and populate with your specific questions (to help you keep on track, ensure consistency between researchers, and help note taking). Use the first tab for User Research and reference the second tab for User Testing (later on in week 4). 
