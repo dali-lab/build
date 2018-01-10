@@ -23,12 +23,12 @@ Take time in Week 2 to research products and users, and create personas. Conduct
 * [ ] [Code Experiment 0](code-experiment-0.md)
 
 ### Des:
-* [ ] [Inspiration Board](inspiration-board.md)
 * [ ] [User Research](user-research.md)
-* [ ] [Current-State User Journey](current-state-user-journey.md)
+* [ ] [Inspiration Board](inspiration-board.md)
+* [ ] [Optional Current-State User Journey](current-state-user-journey.md)
 
 ### Everyone:
-* [ ] [Personas](personas.md): aim to create these in your team meeting
+* [ ] [Personas](personas.md): based on the user research. Aim to create these together in your team meeting!
 
 ### Wednesday Deliverables:
   * Code Experiment 0
