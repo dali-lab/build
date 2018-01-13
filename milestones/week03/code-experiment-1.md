@@ -7,11 +7,12 @@ published: true
 
 ## Overview
 
-This is similar to last week's [Code Experiment 0](../week02/code-experiment-0.md).  However now that you have played around with a technology - you should compare notes with the rest of your team and choose a technology to keep working on - or pivot and choose something new.
+This is similar to last week's [Code Experiment 0](../week02/code-experiment-0.md).  However now that you have played around with a technology - you should compare notes with the rest of your team and choose a technology to keep working on (if none of the options was pleasing then pivot and choose something new).  The idea is to keep going in a direction you have identified and specifically try out certain features that you might need for the project.  For example, if there is a specific display component such as a spider graph that you aren't sure how to make - try to isolate it and build just that in your chosen technology.
+
 
 ## Team
 
-Do this code experiment together, all the devs on your team.
+Depending on how many features you'd like to play with you could do this either as a whole team on 1 harder issue or play around with several.  You should try to share a codebase for this experiment though.
 
 ## GitHub
 
