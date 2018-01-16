@@ -26,7 +26,7 @@ Define the core components of your project and develop lightweight sketches of c
 
 ### Des:
 * [ ] [Connecting Features](connecting-features.md)
-* [ ] [Paper Sketches](paper-sketches.md)
+* [ ] [Paper Sketches](paper-sketches.md) - option to do the first part as a group!
 
 ### Wednesday Deliverables:
   * Paper sketches

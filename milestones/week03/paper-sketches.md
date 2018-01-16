@@ -4,28 +4,38 @@ title: Paper Sketches
 published: true
 ---
 
-Time to take the abstract to concrete. Sketch rough layouts of screens focused on **features** and **flow**.
+Time to take the abstract to concrete. Sketch rough layouts of screens focused on **features**.
 
-It’s best to do this part in a group. Get together and review the personas, journeys, and flows, and answer any pressing questions together. Determine which flows you will sketch. Then, get thick markers, printer paper, and designate a timekeeper. Allow for 5 minutes of individual sketching time per flow, working on as many unfiltered iterations as possible in that time limit. Treat this much like improv - try not to self-edit or rule out anything just yet. Once you’re done, compare sketches as a group and work towards creating a clean version that incorporates the best of all the ideas.
+**Step 1:** Generate options as a group
+* Review your design artifacts created thus far (personas, user journeys, flows)
+* Answer any pressing questions, voice any concerns or challenges to keep in mind
+* Determine which **(2-5) main features** you will sketch that are essential to your product (e.g. the feed, leaderboard, comments, etc)
+* Get thick markers, printer paper, and designate a timekeeper
+* Allow for **5 minutes of individual sketching per feature**, working on as many unfiltered iterations as possible in that time limit. Treat this much like improv - try not to self-edit or rule out anything just yet.
+* After each round, compare sketches and create a few group versions that incorporates the best of all the ideas. Actively agree/disagree with specific elements. Aim for **2-3 versions per feature**. Save these for Step 2.
 
-Guidelines:
-* Fidelity is at its lowest. Use the “thick marker rule” - the thicker the marker, the more you force yourself to keep the designs to a conceptual level, as it’s difficult to add in details when the marker tip is so large. Whiteboard markers are great here too, just take photos!
-* Little or no specific content
-* No sense of scale or grid
+Rules:
+* Fidelity is at its lowest. Use the “thick marker trick” - the thicker the marker, the more you force yourself to keep the designs at a conceptual level (it’s difficult to add in details when the marker tip is so large!). Whiteboard markers are great here too, just take photos!
+* Include little or no specific content
+* Drop any worries about scale, straight lines, grids, etc.
 * Think in flows whenever possible (what pages come after?)
-* Recheck with your flow diagram - what part of the flow is not yet in the sketch?
-* Never settle for your first idea
+* Match your sketches with your flow diagram - what part of the flow is not yet in the sketch?
+* Never settle for your first idea!
 
 
 ![](img/papersketch.png)
 
 
-Clean up and consolidate your ideas on device paper. Note: keeping your sketches on device paper at this stage (in lieu of a digital program) saves time, and also helps the partner feel more invited to provide feedback.
+<br/>
 
-**Present 2-3 clean versions on device paper to the partner for feedback. Each version should be different enough discuss direction and determine a plan to move forward.**
+**Step 2:** Clean up sketches for feedback
+
+Using the group sketches as fuel, transfer and clean up all your sketches onto device paper. Note: sketching by hand at this stage (in lieu of a digital program) saves time, and also helps the partner feel more invited to provide feedback.
+
+**Present 2-3 clean versions of each feature on device paper to the partner for feedback. Each version should be different enough discuss direction and determine a plan to move forward as a team.**
 
 Example Device Paper:
-<br>
+
 Feel free to use this or make your own, appropriate for the device you are developing for.
 
 [![](img/devicepaper.jpg)](img/devicepaper.pdf)
