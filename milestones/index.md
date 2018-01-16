@@ -11,18 +11,19 @@ title: DALI Milestones
 Welcome back DALI Dinner
 
 [**Week 1: Kick-off Meeting**](week01/)<br>
-In Week 1, work with your partner and team to understand the problem, stakeholder and partner requirements, and the project scope.
+Work with your partner and team to understand the problem, stakeholder and partner requirements, and the project scope.
 <!---(share research in pitch format - what is exciting about this?)--->
 
 [**Week 2: Research and Code Experiment**](week02/)<br>
-Take time in Week 2 to research products and users, and create personas. Conduct code experiment 1.
+Interview users to understand their problem, and create personas. Conduct code experiment 0.
+
 
 [**Week 3: Define, Feature Spec, Code Experiments**](week03/)<br>
-Define the core components of your project, create a walk-through of your project from the user perspective, and develop lightweight sketches of critical features. Continue dev experiments.
+Define the core features and sketch those features as a team. Present sketched options to your partner for feedback and a design direction. Conduct code experiment 1.
 
 
 [**Week 4: Grayscales™, User Testing, Code Scaffolding**](week04/)<br>
-Create Grayscales™ for each main interaction and screen. Conduct rapid user testing to validate design solutions. Setup initial code scaffolding with tools and frameworks chosen.
+Create Grayscales™ for the main screens. Conduct rapid user testing to validate design solutions. Setup initial code scaffolding with tools and frameworks chosen.
 
 
 [**Week 5: Style Guide, Rudimentary Functionality**](week05/)<br>
