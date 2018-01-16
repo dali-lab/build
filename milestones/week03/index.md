@@ -7,7 +7,7 @@ published: true
 
 ## Define and Code Experiment
 
-Define the core components of your project and develop lightweight sketches of critical features. Complete code experiment 1.
+Define the core features and sketch those features as a team. Present sketched options to your partner for feedback and a design direction. Conduct code experiment 1.
 
 ### PM:
 * [ ] Set up a time for Team dinner/meal/activity
@@ -26,7 +26,7 @@ Define the core components of your project and develop lightweight sketches of c
 
 ### Des:
 * [ ] [Connecting Features](connecting-features.md)
-* [ ] [Paper Sketches](paper-sketches.md) - option to do the first part as a group!
+* [ ] [Paper Sketches](paper-sketches.md) - option to do the first step as a group!
 
 ### Wednesday Deliverables:
   * Paper sketches

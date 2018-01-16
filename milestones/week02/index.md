@@ -7,7 +7,8 @@ published: true
 
 ## Research and Code Experiment
 
-Take time in Week 2 to research products and users, and create personas. Conduct code experiment 0.
+Interview users to understand their problem, and create personas. Conduct code experiment 0.
+
 
 ### PM:
 * [ ] Follow up with partner on any pending questions and needs
