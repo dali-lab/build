@@ -5,25 +5,33 @@ permalink: /workshops/
 ---
 
 
-## Design
+### 1.22.18: Digital Design - State of the Industry
+  * Learn about a variety of digital design careers including UX, UI, IxD, and Product Design. Gain a better understanding of what skills recruiters are looking for and what responsibilities come with these roles.
 
-* [Digital Design - State of the Industry](https://docs.google.com/presentation/d/1kdj0l83_Yr9YielphcwSNWGBmdspQWjEOVAxuvzPHeU/edit?usp=sharing)
-Learn about a variety of digital design careers including UX, UI, IxD, and Product Design. Gain a better understanding of what skills recruiters are looking for and what responsibilities come with these roles.
- - [recording of the live presentation on 1.22.18](https://youtu.be/4W8-XmLwH18)
-
-
-* [Design Portfolios](https://docs.google.com/presentation/d/1Udk9irYVZA_rsJ-x1TxThL6qrNkcs5LCpPloG7AuWoo/edit?usp=sharing)
-Dive into the best ways to showcase your work in your personal portfolio and stand out as an applicant.
-
-* [Presenting Your Digital Product](https://docs.google.com/presentation/d/1IOQBy4X9HjMhmY976xc0xz2eah4wg5HGeT4g8c53olo/edit?usp=sharing)
-So you’ve given it your all, and now it’s time to show it. But can you successfully speak for the work? Learn about presenting your digital product!
-
-* [Figma Intro](figma_intro)
+  * [Slides](https://docs.google.com/presentation/d/1kdj0l83_Yr9YielphcwSNWGBmdspQWjEOVAxuvzPHeU/edit?usp=sharing)
+  * [See the live recording!](https://youtu.be/4W8-XmLwH18)
 
 
-## Dev
+### 11.10.17: Design Portfolios
 
-* [WebVR](vr)
+  * Dive into the best ways to showcase your work in your personal portfolio and stand out as an applicant.
+
+  * [Slides](https://docs.google.com/presentation/d/1Udk9irYVZA_rsJ-x1TxThL6qrNkcs5LCpPloG7AuWoo/edit?usp=sharing)
+
+
+### 08.07.17: Presenting Your Digital Product
+
+  * So you’ve given it your all, and now it’s time to show it. But can you successfully speak for the work? Learn about presenting your digital product!
+
+  * [Slides](https://docs.google.com/presentation/d/1IOQBy4X9HjMhmY976xc0xz2eah4wg5HGeT4g8c53olo/edit?usp=sharing)
+
+
+### 07.31.17: Figma Workshop
+
+  * [Intro to Figma](figma_intro.md)
+
+
+### [WebVR](vr)
 
   <!-- * 6/28 [git map workshop](git) -->
   <!-- * 6/30 [bootstrap](https://github.com/dado3212/cs52-workshop-1/tree/gh-pages) -->
