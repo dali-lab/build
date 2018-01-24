@@ -24,8 +24,9 @@ Create Grayscales™ for each main interaction and screen. Conduct rapid user te
 
 ### Wednesday Deliverables:
   * Code scaffolding
-  * User Testing
+  * Grayscales
+  * User Testing Summary
 
 ### Wednesday Activity:
   * Share code scaffolding
-  * Share user testing insights <!-- with grayscales -->
+  * Share user testing insights with grayscales
