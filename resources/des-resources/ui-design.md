@@ -10,6 +10,8 @@ published: true
 * [HackDesign - 50 Design Lessons](https://hackdesign.org/lessons)
 * [UsTwo Pixel Perfect Precision Handbook](http://cdn.ustwo.com/PPP/PP3.pdf)
 * [Shortcuts for everything](http://shortcuts.design/)
+* [Graphic Design Stack Exchange - Q&A resource](https://graphicdesign.stackexchange.com/)
+
 
 ### Examples
 * [Brand Style Guides](http://www.logodesignlove.com/brand-identity-style-guides)
@@ -29,6 +31,7 @@ published: true
 * [Livicons: Animated Icons](http://livicons.com/#examples)
 * [Pixel Buddha](http://pixelbuddha.net/)
 * [Icon Jar](http://geticonjar.com/)
+
 
 ### Color Pickers
 * [Sip App](http://www.sipapp.io/)
