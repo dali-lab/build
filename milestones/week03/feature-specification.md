@@ -26,5 +26,3 @@ We'll use this opportunity to get your first project repo started! You should ha
 We'll be using github wikis to keep track of some project documentation. If you haven't used it before [here's how](https://help.github.com/articles/about-github-wikis/). And some tips on using [markdown](https://guides.github.com/features/mastering-markdown/).
 
 🚀 [Initialize your wiki now](https://help.github.com/articles/about-github-wikis/).
-
-And then use the template above to start a page!
