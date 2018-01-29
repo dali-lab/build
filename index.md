@@ -10,8 +10,8 @@ Explore and learn with us!
 <br>*(17F end of term demos)*
 
 * [Project Milestones](/milestones/)<br>
-  Every DALI project follows a Discover → Define → Design → Develop → Deliver process.
+  The nitty-gritty details of our DALI project process, from Discover to Define, Design, Develop, and Delivery
 * [Various Resources](/resources/)<br>
-  Code and design and project management resources
+  Code, design, and project management resources
 * [Workshops](/workshops/)<br>
-  Sometimes we have workshops we publish.
+  Video and slide archives from our workshops here at the lab

@@ -6,13 +6,15 @@ title: DALI Milestones
 
 ## First Term Project Milestones
 
+*Milestone weeks run from Wednesday to Wednesday*
+
 <br>
-**First Wednesday Welcome**:
-Welcome back DALI Dinner
+**First Wednesday Meeting**: Welcome back DALI! Kickoff Week 1
 
 [**Week 1: Kick-off Meeting**](week01/)<br>
 Work with your partner and team to understand the problem, stakeholder and partner requirements, and the project scope.
 <!---(share research in pitch format - what is exciting about this?)--->
+
 
 [**Week 2: Research and Code Experiment**](week02/)<br>
 Interview users to understand their problem, and create personas. Conduct code experiment 0.
@@ -49,8 +51,6 @@ Create design documentation including packaged files, style archive, and demo vi
 [**Week 10: DEMOS and User Feedback**](week10/)<br>
 MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Science fair style. Open to public.
 
-
-*Milestone weeks run from Wednesday to Wednesday*
 
 
 <!--
