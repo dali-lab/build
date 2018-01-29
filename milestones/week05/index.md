@@ -21,7 +21,7 @@ Settle on a style guide and apply to all screens, including insights gained from
 * [ ] [High Fidelity Mockups](high-fidelity-mockups.md)
 
 ### Wednesday Deliverables:
-  * Share and get feedback on initial Style Guide and High Fidelity Mockups
+  * Style Guide and Hi-Fi progress
 
 ### Wednesday Activity:
-  * Fun
+  * Share and get feedback on initial Style Guide and High Fidelity Mockups
