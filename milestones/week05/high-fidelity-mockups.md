@@ -25,5 +25,5 @@ Use your Style Guide and the User Testing feedback to move ahead in creating Hig
 
 ##Integrate Designs with Zeplin
 * Learn how to integrate your designs with Zeplin with this [handy guide!](https://medium.com/dali-lab/a-guide-to-zeplin-9b1c0dbef0b1)
-* Create your one free Zeplin account and ask Staff to add you to your project.
+* Create your one free Zeplin account and ask your PM to add you to your project.
 * As soon as you get your first round of High Fidelity Mockups done, upload them to [Zeplin](https://zeplin.io/) for collaboration with Developers.
