@@ -26,7 +26,7 @@ Use the **User Testing feedback** to iterate and *improve the designs*:
     * [Make your own](https://www.designcrispy.com/use-pen-tool-sketch-master-easy-steps/)
   * Photos
     * [Unsplash.com](unsplash.com) for free high-quality photos
-    * Provide your own
+    * Provide your own / from your partner
 
 **A note on teamwork**: the more solid your style guide is, the better time you'll have in splitting up pages to divide and conquer. Don't be afraid to over-share your progress (especially half-baked ideas) to stay on the same page with the other designer(s).
   * Use shared symbols wherever possible to minimize work down the line when updating elements.
@@ -34,5 +34,5 @@ Use the **User Testing feedback** to iterate and *improve the designs*:
 
 ## Integrate Designs with Zeplin
 * Learn how to integrate your designs with Zeplin with this [handy guide!](https://medium.com/dali-lab/a-guide-to-zeplin-9b1c0dbef0b1)
-* Create your one free Zeplin account and ask your PM to add you to your project.
-* As soon as you get your first round of High Fidelity Mockups done, upload them to [Zeplin](https://zeplin.io/) for collaboration with Developers.
+* Create your one free [Zeplin](https://zeplin.io/) account and ask your PM to add you to your group project.
+* As soon as you get your first round of High Fidelity Mockups done, upload them to your team project for collaboration with Developers.
