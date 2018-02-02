@@ -17,11 +17,11 @@ Settle on a style guide and apply to all screens, including insights gained from
 * [ ] [Data and component wiring](data-and-component-wiring.md)
 
 ### Des:
-* [ ] [Style Guide](style-guide.md)
 * [ ] [High Fidelity Mockups](high-fidelity-mockups.md)
+* [ ] [Style Guide](style-guide.md)
 
 ### Wednesday Deliverables:
-  * Style Guide and Hi-Fi mockups  
+  * Initial Hi-Fi mockups and Style Guide  
 
 ### Wednesday Activity:
-  * Share and get feedback on initial Style Guide and High Fidelity Mockups
+  * Share and get feedback on the UI

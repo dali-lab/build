@@ -4,9 +4,11 @@ title: Style Guide
 published: true
 ---
 
-The earlier you settle on a style guide, the better, since this is the document that determines the look and feel of the project. Decide on color, fonts, and grid before applying them to your High Fidelity Mockups. Continue to update as you make final decisions in context.
+The earlier you settle on a style guide, the better, since this is the document that determines the look and feel of the project.
+Decide on color, fonts, and grid before working on the bulk of your High Fidelity Mockups.
+Continue to update as you make final decisions in context.
 
-Look around for inspiration, and use a format that matches the look and feel of your product. Begin to create Symbols or Components in your design library so you can easily apply changes to your entire design right from your Style Guide. The more connected you are with your Style Guide early on, the better.
+Begin to create Symbols or Components in your design library so you can easily apply changes to your entire design right from your Style Guide. The more connected you are with your Style Guide early on, the better.
 Some tips on [setting up this system](https://medium.com/ux-power-tools/5-things-to-do-before-you-start-your-next-design-file-in-sketch-or-preparing-your-design-mise-en-ff7ea9fe3722).
 
 
