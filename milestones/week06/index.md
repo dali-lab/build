@@ -20,5 +20,8 @@ Refine designs and have basic functionality in place.
 ### Des:
 * [ ] [Refine designs](refine-design.md)
 
+### Wednesday Deliverables:
+  * Completed Hi-Fi mockups in a click through prototype
+
 ### Wednesday Activity:
-  * Share team progress <!-- science fair style -->
+  * Share team progress science fair style

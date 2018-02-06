@@ -20,8 +20,8 @@ Solidify designs and add in delightful features and interactions. Focus on funct
 * [ ] [MVP functionality](mvp-functionality.md)
 
 ### Des:
-* [ ] Solidify Designs
 * [ ] [Add Delight](add-delight.md)
+* [ ] Finalize Designs
 
 ### Wednesday Activity
   * Dog-fooding/QA testing with a buddy group
