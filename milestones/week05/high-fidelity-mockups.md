@@ -31,17 +31,16 @@ Know that in moving to the UI phase of any project, you are progressing from "ho
 
 
 **Teamwork and Feedback**: the more solid your style guide is, the better time you'll have in splitting up pages to divide and conquer. Don't be afraid to over-share your progress (especially half-baked ideas) to stay on the same page with the other designer(s).
-
-    1. Consolidate your designs into *ONE (1) Figma project*. This means one URL, one link, one source of truth for all designs and designers on the project. This will help with file management, comments, and with Zeplin.
-      * Use shared symbols wherever possible to minimize work down the line when updating elements.
-    2. Keep all process artboards in this Figma project - just make a note that it is *PROCESS* somewhere at the top of that area, and move it to the side. This will help you explain how you arrived at a solution, if asked about a particular approach.
-    3. On the pages that you want to share and get feedback on, mark them with a *FOR FEEDBACK* section.
-    4. Then next to or below each page you want feedback on, write a few comments to help the reviewer understand:
-       * What you feel is working on this page / what you’re happy about :smile:
-       * What you feel needs work on this page :flushed:
-       * A question or two for another designer to help you with (can be UX or UI related) :thinking_face:
-           * i.e. “I’m not sure if this is the best treatment of these elements” or “I can’t seem to find the right shade of green”
-    5. When showing the work, use the “Play” feature (top right) to make the pages nice and large for your reviewer and then use the “*comment - C*” button (top left) to leave a specific note in a specific place
+1. Consolidate your designs into **ONE (1) Figma project**. This means one URL, one link, one source of truth for all designs and designers on the project. This will help with file management, comments, and with Zeplin.
+  * Use shared symbols wherever possible to minimize work down the line when updating elements.
+2. Keep all process artboards in this Figma project - just make a note that it is **PROCESS** somewhere at the top of that area, and move it to the side. This will help you explain how you arrived at a solution, if asked about a particular approach.
+3. On the pages that you want to share and get feedback on, mark them with a **FOR FEEDBACK** section.
+4. Then next to or below each page you want feedback on, write a few comments to help the reviewer understand:
+  * What you feel is working on this page / what you’re happy about
+  * What you feel needs work on this page
+  * A question or two for another designer to help you with (can be UX or UI related)
+     * i.e. “I’m not sure if this is the best treatment of these elements” or “I can’t seem to find the right shade of green”
+5. When showing the work, use the “Play” feature (top right) to make the pages nice and large for your reviewer and then use the “*comment - C*” button (top left) to leave a specific note in a specific place
 
 
 ## Integrate Designs with Zeplin
