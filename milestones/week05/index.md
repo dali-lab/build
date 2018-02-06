@@ -21,7 +21,7 @@ Settle on a style guide and apply to all screens, including insights gained from
 * [ ] [Style Guide](style-guide.md)
 
 ### Wednesday Deliverables:
-  * Initial Hi-Fi mockups and Style Guide  
+  * Initial Hi-Fi mockups and Style Guide
 
 ### Wednesday Activity:
   * Share and get feedback on the UI
