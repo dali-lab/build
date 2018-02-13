@@ -22,6 +22,7 @@ Some tips on [setting up this system](https://medium.com/ux-power-tools/5-things
 
 * Typography:
   * **Include the name of the typeface, sizes, styles, and colors**
+  * Start here on [learning font design](https://www.canva.com/learn/font-design/)
   * Read up on everything related to [typography](https://practicaltypography.com/)
   * Be cautious about mixing Serif (Formal, Old, Wise, Classy) with San Serif (Modern, Simple, Clean)
   * Find your font using Font Kits
