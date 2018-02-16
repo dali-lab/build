@@ -37,14 +37,14 @@ Refine designs and have basic functionality in place.
 
 
 [**Week 7: Add Delight, Bughunt**](week07/)<br>
-Solidify designs and add in delightful features and interactions. Focus on function over form to get MVP functionality complete. Finish MVP functionality and participate in a bughunt. Help other teams find bugs in the demos!
+Solidify designs and add in delightful features and interactions. Focus on function over form to get MVP functionality complete. Participate in a bughunt. Help other teams find bugs in the demos!
 
 
 [**Week 8: Design Package and Bug Fixes**](week08/)<br>
 Create design documentation including packaged files, style archive, and demo video. Iterate fixing bugs from bug-hunt.
 
 
-[**Week 9: DEMOS and User Feedback **](week09/)<br>
+[**Week 9: DEMOS and User Feedback**](week09/)<br>
 MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Science fair style. Open to public.
 
 

@@ -11,4 +11,4 @@ This week you’ll be gathering all relevant design information and packaging it
 * **Packaged assets:** fonts, images (as png), icons (as svg)
 * **Style archive:** the final polished version of the style guide
   * Some things to include: typefaces and weights, text attributes, colors, grid spacing, button styling, button states, and logo. Take care to create your style archive in the same design language as your product, so that they could be presented together seamlessly. You’ll submit this as a sketch file.
-* **Demo video:** show off your finished product as a click through of key features. Use Quicktime to capture a clean screen recording of the interactions. Add narration/voice over, text, or music. Keep at 30 seconds to a minute. Work with your partner to determine the features they want to show. 
+* **Demo video:** show off your finished product as a click through of key features. Use Quicktime to capture a clean screen recording of the interactions. Add narration/voice over, text, or music. Keep at 30 seconds to a minute. Work with your partner to determine the features they want to show.

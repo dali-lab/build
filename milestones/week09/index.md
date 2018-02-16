@@ -5,24 +5,17 @@ published: true
 ---
 
 
-## Design Docs and Bug Fixes
+## DEMOS and User Feedback
 
-Create design documentation such as style guides and demo videos. Iterate fixing bugs from bug-hunt.
+MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Science fair style. Open to public.
+
+### Everyone:
+* [ ] Show off your work!
+* [Important Demo information](demos.md)
 
 ### PM:
-* [ ] Prep for DALI Demos (Technigala)
-  * How can you make your demo interesting and fun for viewers?
-  * Make demo equipment requests to Theo (if needed)
-* [ ] Final Partner meeting
-  * Wrap up lingering questions
-  * Clarify Handoff process
-
-### Dev:
-* [ ] Bug-fixing and refinement
-
-### Des:
-* [ ] Assist Dev with identifying bugs
-* [ ] [Design Package](design-package.md)
-
-### Wednesday Activity:
-* Team checkins with Natalie and Tim <!-- putting out fires, check presentations -->
+* [ ] Finish any lingering issues
+* [ ] Wrap up handoff documents
+* [ ] Send Handoff documents to partner (after approval from staff)
+* [ ] Celebrate and post-mortem with the team
+  * Like a second Retrospective – what did you all learn from this term? What did you accomplish? What would’ve you done differently?
