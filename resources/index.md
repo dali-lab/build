@@ -16,6 +16,7 @@ This is an compilation of various developer resources that the lab has created o
 * [Becoming familiar with git](https://github.com/dali-lab/gitivity)
 * [Setting up Travis CI for automating tests in your code base](./dev-resources/travis.md)
 * [Setting up a repo for best practices](./dev-resources/repo-setup.md)
+* [Git Flow! Use it!](./dev-resources/git-flow)
 * Google Script Guides
   * [DALI's Google Apps Script](./dev-resources/googlescript.md)
   * [Developer Guide for DALI's Google Scripts](./dev-resources/googlescript-dev.md)
