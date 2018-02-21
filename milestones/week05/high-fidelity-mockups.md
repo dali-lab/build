@@ -29,6 +29,7 @@ Know that in moving to the UI phase of any project, you are progressing from "ho
     * [Unsplash.com](unsplash.com) for free high-quality photos
     * Provide your own / from your partner
 
+If designing for mobile, it's great to actually see your work on the device! Download the Figma or Sketch Mirror app on your phone to view your designs on your device and make sure text sizes/button clicking areas are optimal.
 
 **Teamwork and Feedback**: the more solid your style guide is, the better time you'll have in splitting up pages to divide and conquer. Don't be afraid to over-share your progress (especially half-baked ideas) to stay on the same page with the other designer(s).
 1. Consolidate your designs into **ONE (1) Figma project**. This means one URL, one link, one source of truth for all designs and designers on the project. This will help with file management, comments, and with Zeplin.
