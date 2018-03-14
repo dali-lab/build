@@ -23,9 +23,9 @@ Interview users to understand their problem, and create personas. Conduct code e
 * [ ] [Code Experiment 0](code-experiment-0.md)
 
 ### Des:
-* [ ] [User Research](user-research.md)
-* [ ] [Inspiration Board](inspiration-board.md)
-* [ ] [Optional Current-State User Journey](current-state-user-journey.md)
+* [ ] [User Research](user-research.md) - discover what the problem is
+* [ ] [Inspiration Board](inspiration-board.md) - see what's out there
+* [ ] [Optional Current-State User Journey](current-state-user-journey.md) - map how it's currently done
 
 ### Everyone:
 * [ ] [Personas](personas.md): based on the user research. Aim to create these together in your team meeting!

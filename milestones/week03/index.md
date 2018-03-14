@@ -28,8 +28,9 @@ Define the core features and sketch those features as a team. Present sketched o
 
 
 ### Des:
-* [ ] [Connecting Features](connecting-features.md)
-* [ ] [Paper Sketches](paper-sketches.md) - option to do the first step as a group!
+* [ ] Categorize the problems you uncovered
+* [ ] [Connecting Features](connecting-features.md) - sketch out possible connections + solutions for the problems you identified
+* [ ] [Paper Sketches](paper-sketches.md) - start associating these features with the device in mind
 
 ### Wednesday Deliverables:
   * Paper sketches

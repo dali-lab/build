@@ -31,4 +31,4 @@ In Week 1, work with your partner and team to understand the problem, stakeholde
 
 ### Wednesday Activities:
   * Introduce projects
-  * Share competitive research
+  * Share competitive research in pitch format - what is exciting about this?

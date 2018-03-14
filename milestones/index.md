@@ -13,7 +13,6 @@ title: DALI Milestones
 
 [**Week 1: Kick-off Meeting**](week01/)<br>
 Work with your partner and team to understand the problem, stakeholder and partner requirements, and the project scope.
-<!---(share research in pitch format - what is exciting about this?)--->
 
 
 [**Week 2: Research and Code Experiment**](week02/)<br>
@@ -40,18 +39,19 @@ Refine designs and have basic functionality in place.
 Solidify designs and add in delightful features and interactions. Focus on function over form to get MVP functionality complete. Participate in a bughunt. Help other teams find bugs in the demos!
 
 
-[**Week 8: Design Package and Bug Fixes**](week08/)<br>
-Create design documentation including packaged files, style archive, and demo video. Iterate fixing bugs from bug-hunt.
+[**Week 8: Design and Bug Fixes**](week08/)<br>
+Final visual sweep of all pages for consistency. Iterate fixing bugs from bug-hunt.
 
 
-[**Week 9: DEMOS and User Feedback**](week09/)<br>
-MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Science fair style. Open to public.
+[**Week 9: Technigala and Handoff**](week09/)<br>
+The Technigala is science fair style, open to public. Show off your demos and collect + document user feedback. Complete Handoff documentation including packaged files, style archive, and demo video.
 
-<br><br>
+<br>
+<br>
 
 ## Second Term Project Milestones
 
-# Everyone:
+### Everyone:
 * [ ] Work through First Term Week 1 Milestones
 * Planning Meeting:
   * [ ] Self reflection (what are your goals)
@@ -63,16 +63,14 @@ MVP demos and testing of the projects for this term. The main focus will be on g
   * [ ] Is anything broken? Report new bugs in Git
   * [ ] Does the code look like the designs? Mark inconsistencies in Git
 
-<br>
-# Dev:
+### Dev:
 QA review showed code needs more work:
 * [ ] Work with your PM and Core Mentor to determine the scope. Identify a week number by which you stop addressing fixes and start working on new design work. Keep in mind “Technical Debt”: How much time spent fixing little bugs before the project needs to be redesigned.
 
 QA review showed no additional work necessary:
 * [ ] Follow Term 1 Milestones
 
-<br>
-# Des:
+### Des:
 Follow Term 1 Milestones with these additions:
 
 Week 2

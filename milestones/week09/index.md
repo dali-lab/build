@@ -5,9 +5,10 @@ published: true
 ---
 
 
-## DEMOS and User Feedback
+## Technigala and Handoff
 
-MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Science fair style. Open to public.
+The Technigala is science fair style, open to public. Show off your demos and collect + document user feedback. Complete Handoff documentation including packaged files, style archive, and demo video.
+
 
 ### Everyone:
 * [ ] Show off your work!
@@ -15,7 +16,10 @@ MVP demos and testing of the projects for this term. The main focus will be on g
 
 ### PM:
 * [ ] Finish any lingering issues
-* [ ] Wrap up handoff documents
-* [ ] Send Handoff documents to partner (after approval from staff)
+* [ ] [Complete Handoff Material](project-handoff.md)
+* [ ] Send Handoff to partner (after approval from staff)
 * [ ] Celebrate and post-mortem with the team
   * Like a second Retrospective – what did you all learn from this term? What did you accomplish? What would’ve you done differently?
+
+### Design:
+* [ ] [Design Package](design-package.md)
