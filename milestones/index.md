@@ -9,7 +9,7 @@ title: DALI Milestones
 *Milestone weeks run from Wednesday to Wednesday*
 
 <br>
-**First Wednesday Meeting**: Welcome back DALI! Kickoff Week 1
+**First Wednesday Meeting**: Welcome DALI! Kickoff Week 1
 
 [**Week 1: Kick-off Meeting**](week01/)<br>
 Work with your partner and team to understand the problem, stakeholder and partner requirements, and the project scope.
@@ -47,41 +47,41 @@ Create design documentation including packaged files, style archive, and demo vi
 [**Week 9: DEMOS and User Feedback**](week09/)<br>
 MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Science fair style. Open to public.
 
+<br><br>
 
+## Second Term Project Milestones
 
-<!--
-## Continuing Term Project Milestones TBD
+# Everyone:
+* [ ] Work through First Term Week 1 Milestones
+* Planning Meeting:
+  * [ ] Self reflection (what are your goals)
+  * [ ] Review previous term’s handoff document
+  * [ ] Get familiar with the documents, Drive folder, design files
+  * [ ] Incorporate feedback and user testing from previous term into a cohesive doc and keep handy for Feature Spec in Week 3.
+* QA review:
+  * [ ] Review any outstanding issues in Git
+  * [ ] Is anything broken? Report new bugs in Git
+  * [ ] Does the code look like the designs? Mark inconsistencies in Git
 
-* **Planning Meeting** (week 1):<br>
-  Incorporate feedback and user testing from previous term into a cohesive milestone plan for the term.
-  * Everyone: milestone plan, goals
+<br>
+# Dev:
+QA review showed code needs more work:
+* [ ] Work with your PM and Core Mentor to determine the scope. Identify a week number by which you stop addressing fixes and start working on new design work. Keep in mind “Technical Debt”: How much time spent fixing little bugs before the project needs to be redesigned.
 
-* **User Testing Plan** (week 2):<br>
-  Create a testing goal and plan for the term.
+QA review showed no additional work necessary:
+* [ ] Follow Term 1 Milestones
 
-* **Implement** (week 3):<br>
-  Code, Build, Design.
-  * Dev: implement code test framework
+<br>
+# Des:
+Follow Term 1 Milestones with these additions:
 
-* **Test** (week 4):<br>
-  Do user testing based on plan.
+Week 2
+* Current Product Audit:
+  * [ ] Conduct a review of the previous design work. Get familiar with the design flow, file, and features. Especially in preparation for Rapid User Testing.
+* User Research with User Testing:
+  * [ ] After conducting the user research, keep the users and conduct additional rapid user testing of the previous designs (follow [Rapid User Testing](rapid-user-testing.md) for guidelines)
 
-* **Implement** (week 5):<br>
-  Code, Build, Design
+Week 3
+* [ ] Determine features that can be added. Build instead of rebuild, and be careful not to scrap other work just because it's easier.
 
-* **Test** (week 6):<br>
-  Do user testing based on plan. External users.
-
-* **Implement** (week 7):<br>
-  Code, Build, Design
-
-* **Bug Hunt** (week 8):<br>
-  Finish MVP functionality and participate in a bughunt. Help other teams find bugs in the demos!
-
-* **Design Documentation & Bug Fixing** (week 9):<br>
-  Create design documentation such as style guides and demo videos.  Iterate fixing bugs from bughunt.
-
-* **Term Demos and Testing** (week 10):<br>
-  MVP demos and testing of the projects for this term. The main focus will be on getting user feedback. Science fair style. Open to public.
-
-  -->
+Overall, substitute any "extra" time (not needing a new style guide for example) with additional higher fidelity prototyping and user testing of new features.
