@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DALI Demo Information
+title: DALI Technigala
 published: true
 ---
 

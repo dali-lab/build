@@ -5,12 +5,18 @@ published: true
 ---
 
 
-Time to put your concepts to the test! Find a minimum of 3 users that closely fit your Personas. Test your designs using InVision or Figma Prototype.
+Time to put your concepts to the test! Use InVision or Figma Prototype mode to keep it as real as possible for the user.
+
+**Mandatory dry run** with someone in the lab. Come by anytime and ask someone to user test. Record that person's name and answers in your testing notes document.
+
+Now, update your questions and/or prototype if you had issues, and find a minimum of 3 users that closely fit your Personas.
 
 ## Preparation:
-Within your design tool, **build your prototype** by connecting frames via nodes (in [Sketch](https://www.sketchapp.com/), use [Craft Prototype](https://vimeo.com/217893619) and upload your flow to [InVision](https://www.invisionapp.com/)). Give the prototype (on Do Not Disturb) to your user to interact with while you observe.
+Within your design tool, **build your prototype** by connecting frames via nodes (in [Sketch](https://www.sketchapp.com/), use [Craft Prototype](https://vimeo.com/217893619) and upload your flow to [InVision](https://www.invisionapp.com/)). Give the prototype (on Do Not Disturb) to your user to interact with while you observe. Better yet, have a link ready that you can share with them - and have users test on their OWN devices. It helps them act more naturally, with more confidence.
 
-Copy this [User Research/Testing Template](https://docs.google.com/spreadsheets/d/1gKQyrXQKgv_zLd7S20WOh8IB6I9i2WX_XkQ5Kq0MYDk/edit?usp=sharing) and populate with your specific questions (to help you keep on track, ensure consistency between researchers, and help note taking). Use the second tab at the bottom for User Testing.
+## Use this Template
+To make your life easier, the Design Resident made a [User Research + User Testing Template](https://docs.google.com/spreadsheets/d/1gKQyrXQKgv_zLd7S20WOh8IB6I9i2WX_XkQ5Kq0MYDk/edit?usp=sharing) for you. Copy the sheet to your Drive and populate with your specific questions. Use the *second tab* for User Testing.
+
 
 ## User Testing Tips:
 * Set the tone

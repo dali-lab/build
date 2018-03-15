@@ -21,6 +21,8 @@ Research questions to keep in mind:
   * be sure to probe to get to the WHY
 * what do users need to achieve their goal?
 
+Restrict yourself from asking leading questions and looking for confirmation of your personal opinions.
+
 
 ## Use this Template
 To make your life easier, the Design Resident made a [User Research + User Testing Template](https://docs.google.com/spreadsheets/d/1gKQyrXQKgv_zLd7S20WOh8IB6I9i2WX_XkQ5Kq0MYDk/edit?usp=sharing) for you. Copy the sheet to your Drive and populate with your specific questions. Use the *first tab* for User Research and reference the *second tab* for User Testing (in week 4).

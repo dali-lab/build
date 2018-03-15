@@ -9,6 +9,10 @@ published: true
 
 Define the core features and sketch those features as a team. Present sketched options to your partner for feedback and a design direction. Conduct code experiment 1.
 
+### Everyone:
+* [ ] [Feature Spec](feature-specification.md)
+
+
 ### PM:
 * [ ] Set up a time for Team dinner/meal/activity
 * [ ] Evaluate progress and milestones to-date
@@ -19,7 +23,6 @@ Define the core features and sketch those features as a team. Present sketched o
   * The partner is 100% responsible for the content. Work with them to get all of it and help them refine it if need be. This includes any wording (paragraphs, buttons, etc.), data, photos, videos, etc.
 * [ ] Set up Rapid User Testing for next week
   * As before, reach out to new users and schedule times to conduct Rapid User Testing during week 3.
-  * Now that you have a good understanding of the project, the [Feature Spec](https://docs.google.com/document/d/1pWNzAXyMH1gEyB6JDcAEkzpnNypdZPcqe3v6B2Uov7w/edit#heading=h.b1z22ibegd3m) is where devs and designers will put their heads together to hammer out the details.
 
 ### Dev:
 * [ ] [Code Experiment 1](code-experiment-1.md)
@@ -28,7 +31,7 @@ Define the core features and sketch those features as a team. Present sketched o
 
 
 ### Des:
-* [ ] Categorize the problems you uncovered
+* [ ] [Research Prioritization](research-prioritization.md) - synthesize user research and prioritize features
 * [ ] [Connecting Features](connecting-features.md) - sketch out possible connections + solutions for the problems you identified
 * [ ] [Paper Sketches](paper-sketches.md) - start associating these features with the device in mind
 
