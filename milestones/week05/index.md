@@ -5,9 +5,9 @@ published: true
 ---
 
 
-## Style Guide, Rudimentary Functionality
+## Start on UI, Rudimentary Functionality
 
-Settle on a style guide and apply to all screens, including insights gained from user testing. Connect all necessary code components together. Rudimentary functionality in place and components are connected and exchange data.
+Begin strategic use of UI, include insights gained from user testing to push designs further. Connect all necessary code components together. Rudimentary functionality in place and components are connected and exchange data.
 
 ### PM:
 * [ ] [Team Retrospective](retrospective.md)
@@ -18,10 +18,9 @@ Settle on a style guide and apply to all screens, including insights gained from
 
 ### Des:
 * [ ] [High Fidelity Mockups](high-fidelity-mockups.md)
-* [ ] [Style Guide](style-guide.md)
 
 ### Wednesday Deliverables:
-  * Initial Hi-Fi mockups and Style Guide
+  * Initial Hi-Fi mockups
 
 ### Wednesday Activity:
   * Share and get feedback on the UI

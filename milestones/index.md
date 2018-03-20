@@ -27,19 +27,19 @@ Define the core features and sketch those features as a team. Present sketched o
 Create Grayscales™ for the main screens. Conduct rapid user testing to validate design solutions. Setup initial code scaffolding with tools and frameworks chosen.
 
 
-[**Week 5: Style Guide, Rudimentary Functionality**](week05/)<br>
-Settle on a style guide and apply to all screens, including insights gained from user testing. Connect all necessary code components together. Rudimentary functionality in place and components are connected and exchange data.
+[**Week 5: Start on UI, Rudimentary Functionality**](week05/)<br>
+Begin strategic use of UI, include insights gained from user testing to push designs further. Connect all necessary code components together. Rudimentary functionality in place and components are connected and exchange data.
 
 
-[**Week 6: Refine and Functionality**](week06/)<br>
-Refine designs and have basic functionality in place.
+[**Week 6: Style Guide and Functionality**](week06/)<br>
+Settle on a style guide and apply to all screens. Have basic functionality in place.
 
 
 [**Week 7: Add Delight, Bughunt**](week07/)<br>
 Solidify designs and add in delightful features and interactions. Focus on function over form to get MVP functionality complete. Participate in a bughunt. Help other teams find bugs in the demos!
 
 
-[**Week 8: Design and Bug Fixes**](week08/)<br>
+[**Week 8: Design Sweep and Bug Fixes**](week08/)<br>
 Final visual sweep of all pages for consistency. Iterate fixing bugs from bug-hunt.
 
 

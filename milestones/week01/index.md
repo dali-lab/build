@@ -11,7 +11,7 @@ In Week 1, work with your partner and team to understand the problem, stakeholde
 ### Everyone:
   * [ ] [Review the Partner Brief](https://docs.google.com/a/dali.dartmouth.edu/spreadsheets/d/1WupDeKa8iItEG2MxqrYrkQHMEJeLwVJhNsaBjGkZtII/edit?usp=sharing)
   * [ ] [Team Meeting](team-meeting.md)
-  * [ ] [Kickoff Meeting](partner-kickoff.md)
+  * [ ] [Partner Kickoff](partner-kickoff.md)
   * [ ] [Reframe the Problem](reframe.md)
   * [ ] [Competitive Research](competitive-research.md)
 

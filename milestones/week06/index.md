@@ -5,9 +5,9 @@ published: true
 ---
 
 
-## Refine and Functionality
+## Style Guide and Functionality
 
-Refine designs and have basic functionality in place.
+Settle on a style guide and apply to all screens. Have basic functionality in place.
 
 ### PM:
 * [ ] Triage bugs that arose from testing
@@ -18,7 +18,8 @@ Refine designs and have basic functionality in place.
 * [ ] [Basic functionality](basic-functionality.md)
 
 ### Des:
-* [ ] [Refine designs](refine-design.md)
+* [ ] [Style Guide](style-guide.md)
+* [ ] [Refine designs](refine-design.md) and add hot spots
 
 ### Wednesday Deliverables:
   * Completed Hi-Fi mockups in a click through prototype

@@ -5,7 +5,7 @@ published: true
 ---
 
 
-## Design and Bug Fixes
+## Design Sweep and Bug Fixes
 
 Final visual sweep of all pages for consistency. Iterate fixing bugs from bug-hunt.
 

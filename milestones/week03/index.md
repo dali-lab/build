@@ -27,7 +27,7 @@ Define the core features and sketch those features as a team. Present sketched o
 ### Dev:
 * [ ] [Code Experiment 1](code-experiment-1.md)
 *OR*
-* [ ] [start on Code Scaffolding](../week04/code-scaffolding.md)
+* [ ] [Start on Code Scaffolding](../week04/code-scaffolding.md)
 
 
 ### Des:
