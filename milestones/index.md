@@ -49,19 +49,8 @@ The Technigala is science fair style, open to public. Show off your demos and co
 <br>
 <br>
 
-## Second Term Project Milestones
 
-### Everyone:
-* [ ] Work through First Term Week 1 Milestones
-* Planning Meeting:
-  * [ ] Self reflection (what are your goals)
-  * [ ] Review previous term’s handoff document
-  * [ ] Get familiar with the documents, Drive folder, design files
-  * [ ] Incorporate feedback and user testing from previous term into a cohesive doc and keep handy for Feature Spec in Week 3.
-* QA review:
-  * [ ] Review any outstanding issues in Git
-  * [ ] Is anything broken? Report new bugs in Git
-  * [ ] Does the code look like the designs? Mark inconsistencies in Git
+## Second Term Project Milestones
 
 ### Dev:
 QA review showed code needs more work:
@@ -69,17 +58,3 @@ QA review showed code needs more work:
 
 QA review showed no additional work necessary:
 * [ ] Follow Term 1 Milestones
-
-### Des:
-Follow Term 1 Milestones with these additions:
-
-Week 2
-* Current Product Audit:
-  * [ ] Conduct a review of the previous design work. Get familiar with the design flow, file, and features. Especially in preparation for Rapid User Testing.
-* User Research with User Testing:
-  * [ ] After conducting the user research, keep the users and conduct additional rapid user testing of the previous designs (follow [Rapid User Testing](rapid-user-testing.md) for guidelines)
-
-Week 3
-* [ ] Determine features that can be added. Build instead of rebuild, and be careful not to scrap other work just because it's easier.
-
-Overall, substitute any "extra" time (not needing a new style guide for example) with additional higher fidelity prototyping and user testing of new features.

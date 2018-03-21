@@ -33,3 +33,10 @@ are a great way to visualize a user's emotions and get the team on the same page
 Make one Empathy Map per user interviewed to articulate what you learned, and help team members understand the user’s mindset. Populate the spaces based on the impression you got from the interview, not from direct questioning.
 
 [![](img/empathymap.png)](img/empathymap.pdf)
+
+
+
+## Term 2 Additions:
+
+* User Testing:
+  * [ ] After conducting the user research, keep the users to conduct additional rapid user testing of the previous designs (follow [Rapid User Testing](rapid-user-testing.md) for guidelines)

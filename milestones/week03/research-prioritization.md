@@ -45,3 +45,11 @@ She sets her *alarm time* for 7:00 and sees that she'll be getting 8 hours of sl
 [analysis page]
 She briefly checks how much she slept the night before, and how well, before activating the monitor sleep mode and putting her phone to charge by her bed.
 [sleeping mode]"
+
+
+
+
+## Term 2 Additions:
+
+* Determine which features should be added to stick to the goals set in week 1.
+* Build instead of rebuild, and be careful not to scrap other work just because it's easier.
