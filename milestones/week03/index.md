@@ -35,8 +35,7 @@ Define the core features and sketch those features as a team. Present sketched o
 * [ ] [Paper Sketches](paper-sketches.md) - start associating these features with the device in mind
 
 ### Wednesday Deliverables:
-  * Feature Spreadsheet
-  * Feature Story
+  * Feature Spec
   * 2-3 clean sketches of each main feature on device paper
   * Code experiment 1
 

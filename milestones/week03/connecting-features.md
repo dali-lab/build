@@ -4,8 +4,19 @@ title: Connecting Features
 published: true
 ---
 
+Now that you have listened to the user, you have quite a challenge: what insights to act on, which ones to prioritize, and how?
 
-In tandem with creating the Feature Spec, you can start to lace together a high level understanding of how these features connect. Here are some options to move forward with this:
+* [ ] List out all features (from your partner and from user research)
+* [ ] Review the "additional guidance" below.
+* [ ] Go through that list and mark a 1, 2, or 3 for priority, with guidance from your partner.
+* [ ] Focus on the top 5-10 "core features".
+
+
+In tandem with creating the Feature Spec, lace together a high level understanding of **how these core features connect**.
+
+<br>
+
+#### Here are some options to move forward with this:
 
 <br>
 ### Create a Flow Diagram:
