@@ -27,10 +27,35 @@ Hurray! You've made it half way through the term. Now we can start progressing f
   * [7 rules for creating gorgeous UI](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
   * [How to avoid visual messes](http://www.visualmess.com/)
 
-#### UI Elements:
+#### UI Principles:
+  * Color
+    * 60-30-10 Rule: 60% is your dominant color, 30% is secondary, and 10% is the accent.
+    * Be extra careful of color contrast when choosing a [Dark Theme](https://dribbble.com/erikdkennedy/buckets/160688-Dark-themes)
+    * Never use pure black
+    * A nice [gradient finder](uigradients.com)
+
+  * Typography
+    * Start here on [learning font design](https://www.canva.com/learn/font-design/)
+    * Read up on everything related to [typography](https://practicaltypography.com/)
+    * Be cautious about mixing Serif (Formal, Old, Wise, Classy) with San Serif (Modern, Simple, Clean)
+    * Find your font using Font Kits
+      * [Google Fonts](https://fonts.google.com/) - The largest repository of completely free fonts in the world
+      * [Typekit](https://typekit.com/) - Adobe's font service, free with an Adobe Creative Cloud account
+      * Determine the character sizes with the [Modular Scale](http://www.modularscale.com/)
+
+  * Grids
+    * [Grids](https://spec.fm/specifics/8-pt-grid) are most commonly made in multiples of 8 (because most devices are divisible by 8)
+    * Full Width: A full-width design is edge-to-edge of the screen.
+    * Floating: A floating design adheres to a fixed-width grid (typically centered).
+    * Use this equation to determine the fixed-width grid: **(12 Columns x Column Width) + (11 Gutters x Gutter Width) = Total Layout Width**
+    * Make sure your gutters and columns both divisible by 8.
+      * NOTE: The default Nudge+Shift distance in Sketch is 10px. Not great when you’re working on an 8px grid. Change that to 8px in preferences.
+    * Spacing: use the same nudge increment for vertical spacing between elements.
+
   * Icons
     * Use open source libraries (like [entypo.com](http://www.entypo.com/)/ and [material.io/icons](https://material.io/icons/))
     * [Make your own](https://www.designcrispy.com/use-pen-tool-sketch-master-easy-steps/)
+
   * Photos
     * [Unsplash.com](unsplash.com) for free high-quality photos
     * Provide your own / from your partner
