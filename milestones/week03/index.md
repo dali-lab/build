@@ -5,7 +5,7 @@ published: true
 ---
 
 
-## Define and Code Experiment
+## Prioritize. Sketch. Code experiment 1.
 
 Define the core features and sketch those features as a team. Present sketched options to your partner for feedback and a design direction. Conduct code experiment 1.
 

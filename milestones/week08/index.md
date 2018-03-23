@@ -5,7 +5,7 @@ published: true
 ---
 
 
-## Design Sweep and Bug Fixes
+## Final design cleanup. Fixing bugs.
 
 Final visual sweep of all pages for consistency. Iterate fixing bugs from bug-hunt.
 
@@ -24,7 +24,7 @@ Final visual sweep of all pages for consistency. Iterate fixing bugs from bug-hu
 ### Des:
 * [ ] Review all designs in a final consistency sweep. Check for pixel perfection, broken prototype links or dead ends, and outstanding Figma comments.
 * [ ] Assist Dev with identifying and closing UX/UI bugs
-* [ ] Make a demo video to show at Technigala, and get a head start on the rest of the [Design Package](design-package.md)
+* [ ] Make a demo video to show at Technigala, and get a head start on the rest of the Design Package.
 
 
 ### Wednesday Activity:

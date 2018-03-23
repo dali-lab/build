@@ -5,7 +5,7 @@ published: true
 ---
 
 
-## Add Delight, Bughunt
+## Prototype interactions. Bughunt.
 
 Solidify designs and add in delightful features and interactions. Focus on function over form to get MVP functionality complete. Participate in a bughunt. Help other teams find bugs in the demos!
 

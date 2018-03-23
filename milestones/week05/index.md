@@ -5,7 +5,7 @@ published: true
 ---
 
 
-## Start on UI, Rudimentary Functionality
+## Initial Hi-Fi Mockups. Connect code components.
 
 Begin strategic use of UI, include insights gained from user testing to push designs further. Connect all necessary code components together. Rudimentary functionality in place and components are connected and exchange data.
 

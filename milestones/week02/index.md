@@ -5,7 +5,7 @@ published: true
 ---
 
 
-## Research and Code Experiment
+## User Research. Code experiment 0.
 
 Interview users to understand their problem, and create personas. Conduct code experiment 0.
 

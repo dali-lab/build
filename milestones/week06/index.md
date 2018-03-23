@@ -5,7 +5,7 @@ published: true
 ---
 
 
-## Style Guide and Functionality
+## Completed Hi-Fi Mockups. Basic functionality.
 
 Settle on a style guide and apply to all screens. Have basic functionality in place.
 
