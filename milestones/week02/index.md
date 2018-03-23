@@ -33,7 +33,7 @@ Interview users to understand their problem, and create personas. Conduct code e
 ### Wednesday Deliverables:
   * Code Experiment 0
   * Inspiration Board
-  * Personas
+  * 2-4 Personas
 
 ### Wednesday Activity:
   * Share inspiration board and code experiments in teams

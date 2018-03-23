@@ -27,7 +27,7 @@ In Week 1, work with your partner and team to understand the problem, stakeholde
 
 ### Wednesday Deliverables:
   * Discovery Phase worksheet (Send to your mentors and Erica)
-  * Competitive Research
+  * Competitive Research InVision Board
 
 ### Wednesday Activities:
   * Introduce projects

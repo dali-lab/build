@@ -12,39 +12,39 @@ title: DALI Milestones
 **First Wednesday Meeting**: Welcome DALI! Start of Week 1.
 
 [**Week 1:**](week01/)<br>
-Work with your partner and team to understand the problem, stakeholder and partner requirements, and the project scope.
+Kickoff. Understand the requirements.
 
 
 [**Week 2:**](week02/)<br>
-Interview users to understand their problem, and create personas. Conduct code experiment 0.
+User Research. Code experiment 0.
 
 
 [**Week 3:**](week03/)<br>
-Define the core features and sketch those features as a team. Present sketched options to your partner for feedback and a design direction. Conduct code experiment 1.
+Prioritize. Sketch. Code experiment 1.
 
 
 [**Week 4:**](week04/)<br>
-Create Grayscales™ for the main screens. Conduct rapid user testing to validate design solutions. Setup initial code scaffolding with tools and frameworks chosen.
+Grayscales™. Rapid user testing. Initial code scaffolding.
 
 
 [**Week 5:**](week05/)<br>
-Begin strategic use of UI, include insights gained from user testing to push designs further. Connect all necessary code components together. Rudimentary functionality in place and components are connected and exchange data.
+Initial Hi-Fi Mockups. Connect code components.
 
 
 [**Week 6:**](week06/)<br>
-Settle on a style guide and apply to all screens. Have basic functionality in place.
+Completed Hi-Fi Mockups. Basic functionality.
 
 
 [**Week 7:**](week07/)<br>
-Solidify designs and add in delightful features and interactions. Focus on function over form to get MVP functionality complete. Participate in a bughunt. Help other teams find bugs in the demos!
+Prototype interactions. Bughunt.
 
 
 [**Week 8:**](week08/)<br>
-Final visual sweep of all pages for consistency. Iterate fixing bugs from bug-hunt.
+Final design cleanup. Fixing bugs.
 
 
 [**Week 9:**](week09/)<br>
-The Technigala is science fair style, open to public. Show off your demos and collect + document user feedback. Complete Handoff documentation including packaged files, style archive, and demo video.
+Technigala. User feedback. Handoff.
 
 <br>
 <br>

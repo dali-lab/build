@@ -9,7 +9,7 @@ Decide on color, fonts, and grid before working on the bulk of your High Fidelit
 Continue to update as you make final decisions in context.
 
 Begin to create Symbols or Components in your design library so you can easily apply changes to your entire design right from your Style Guide. The more connected you are with your Style Guide early on, the better.
-Some tips on [setting up this system](https://medium.com/ux-power-tools/5-things-to-do-before-you-start-your-next-design-file-in-sketch-or-preparing-your-design-mise-en-ff7ea9fe3722).
+Some tips on [setting up this system.](https://medium.com/ux-power-tools/5-things-to-do-before-you-start-your-next-design-file-in-sketch-or-preparing-your-design-mise-en-ff7ea9fe3722)
 
 
 * Color:

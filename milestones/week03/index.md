@@ -31,12 +31,13 @@ Define the core features and sketch those features as a team. Present sketched o
 
 
 ### Des:
-* [ ] [Research Prioritization](research-prioritization.md) - synthesize user research and prioritize features
-* [ ] [Connecting Features](connecting-features.md) - sketch out possible connections + solutions for the problems you identified
+* [ ] [Connecting Features](connecting-features.md) - consolidate user research and sketch out possible connections + solutions to the problems you identified
 * [ ] [Paper Sketches](paper-sketches.md) - start associating these features with the device in mind
 
 ### Wednesday Deliverables:
-  * Paper sketches
+  * Feature Spreadsheet
+  * Feature Story
+  * 2-3 clean sketches of each main feature on device paper
   * Code experiment 1
 
 ### Wednesday Activity:

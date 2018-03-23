@@ -9,7 +9,7 @@ Time to take the abstract to concrete. Sketch rough layouts of screens focused o
 **Step 1:** Generate options as a group
 * Review your design artifacts created thus far (personas, user journeys, flows)
 * Answer any pressing questions, voice any concerns or challenges to keep in mind
-* Determine which **(2-5) main features** you will sketch that are essential to your product (e.g. the feed, leaderboard, comments, etc)
+* Determine which **(3-6) main features** you will sketch that are essential to your product (e.g. the feed, leaderboard, comments, etc)
 * Get thick markers, printer paper, and designate a timekeeper
 * Allow for **5 minutes of individual sketching per feature**, working on as many unfiltered iterations as possible in that time limit. Treat this much like improv - try not to self-edit or rule out anything just yet.
 * After each round, compare sketches and create a few group versions that incorporates the best of all the ideas. Actively agree/disagree with specific elements. Aim for **2-3 versions per feature**. Save these for Step 2.

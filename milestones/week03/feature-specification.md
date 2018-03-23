@@ -5,22 +5,52 @@ published: true
 ---
 
 
-Create a document outlining the list of features and functionality of the proposed solution. This is an iterative document that will change over time, and is required before moving to the next step.
-Your entire group should be involved in creating this, not just your PM or design team.
+### What is a Feature Spec?
+The feature spec is a document that is a walk-though story of your project from the users perspective. This is the **master story for your prototype**.
+  * It provides a listing of all the features you are envisioning for the product.
+  * It functions as your overall plan for the project.
+  * It is as an opportunity to think through your product in detail.
+  * It may change later as your ideas about the project mature.
+  * It involves your entire team.
 
-The Feature Spec must be **submitted** to and **approved** by the DALI Staff.
+## Requirements:
 
-The feature spec is a document that is a walk-though of your project from the users perspective. It provides a listing of all the features you are envisioning for the product. The feature spec functions as your overall plan for the project. Rather than thinking about it as locking you in, use this as an opportunity to think through your product in detail.
+* [ ] Identify the **5 and 10 core features** to focus on in the first design sprint. (Use the Connecting Features task to help select which features.)
 
-Think of it as a living document, don’t be afraid to change it later as your ideas about the project mature. This should not be longer than a page for most projects.  It’s really the story of what using the app is like from the end user perspective.
+Example:
+* Alarm options (sounds, wakeup timeframe)
+* Snooze options (sounds, time, interactions to snooze again)
+* Community space - for posting/answering/upvoting better wake up experiences
+* Sleep Pattern Analysis
+* How it works breakdown
+* Contact customer service
+
+
+* [ ] Break down the functionality by view for example:
+* login page
+* profile with name, birthday, photo
+
+* [ ] Lace together all the features from your feature list into a cohesive script.
+  * Solidify the concept, the user, and the setting.
+  * Add detail to rely on later in the design phase (i.e. user testing, prototype creation, narration for the demo video).
+  * Define what happens on which pages.
+
+Example:
+* Just before shutting off the light to go to sleep, Susan opens her Wake Up app.
+* [loading page]
+* [home page]
+* She sets her *alarm time* for 7:00 and sees that she'll be getting 8 hours of sleep, a bit more than average.
+* [analysis page]
+* She briefly checks how much she slept the night before, and how well, before activating the monitor sleep mode and putting her phone to charge by her bed.
+* [sleeping mode]
+
+
+
+* [ ] Submit your Feature Spec for **approval** by the DALI Staff.
+
 
 
 [EXAMPLE Feature Spec ](https://docs.google.com/document/d/1pWNzAXyMH1gEyB6JDcAEkzpnNypdZPcqe3v6B2Uov7w)
-
-
-Break down the functionality by view for example:
-* login page
-* profile with name, birthday, photo
 
 
 These should all be expressed as Github/Zenhub issues:
@@ -34,3 +64,11 @@ We'll use this opportunity to get your first project repo started! You should ha
 We'll be using github wikis to keep track of some project documentation. If you haven't used it before [here's how](https://help.github.com/articles/about-github-wikis/). And some tips on using [markdown](https://guides.github.com/features/mastering-markdown/).
 
 🚀 [Initialize your wiki now](https://help.github.com/articles/about-github-wikis/).
+
+
+
+
+## Term 2 Additions:
+
+* Determine which features should be added to stick to the goals set in week 1.
+* Build instead of rebuild, and be careful not to scrap other work just because it's easier.

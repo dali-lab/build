@@ -20,7 +20,9 @@ Begin strategic use of UI, include insights gained from user testing to push des
 * [ ] [High Fidelity Mockups](high-fidelity-mockups.md)
 
 ### Wednesday Deliverables:
-  * Initial Hi-Fi mockups
+  * At least one page with final look and feel (UI)
+  * Rough Draft of Style Guide
+  * A created Zeplin team project with all members added
 
 ### Wednesday Activity:
   * Share and get feedback on the UI

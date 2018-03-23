@@ -24,7 +24,7 @@ Create Grayscales™ for each main interaction and screen. Conduct rapid user te
 
 ### Wednesday Deliverables:
   * Code scaffolding
-  * Grayscales
+  * Grayscale Prototype (a fully linked Figma prototype of your Grayscales)
   * User Testing Summary
 
 ### Wednesday Activity:

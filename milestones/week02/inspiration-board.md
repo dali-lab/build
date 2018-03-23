@@ -4,7 +4,9 @@ title: Inspiration Board
 published: true
 ---
 
-Develop your InVision Board to include a section for inspiration. Look at art, digital products, other design forms, and the environment for inspiration - even if it does not directly relate to the problem at hand.
+* [ ] Expand your InVision Board to include a section for **inspiration**.
+
+Look at art, digital products, other design forms, and the environment for inspiration - even if it does not directly relate to the problem at hand.
 
 At your next meeting with your partner - show the inspiration board and discuss. Observe how they respond and what they like or dislike. Use this as fuel for your future design work.
 
