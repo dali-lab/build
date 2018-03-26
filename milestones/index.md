@@ -52,9 +52,37 @@ Technigala. User feedback. Handoff.
 
 ## Second Term Project Milestones
 
-### Dev:
-QA review showed code needs more work:
-* [ ] Work with your PM and Core Mentor to determine the scope. Identify a week number by which you stop addressing fixes and start working on new design work. Keep in mind “Technical Debt”: How much time spent fixing little bugs before the project needs to be redesigned.
+[**Week 1:**](week21/)<br>
+Kickoff. Understand the requirements.
 
-QA review showed no additional work necessary:
-* [ ] Follow Term 1 Milestones
+
+[**Week 2:**](week22/)<br>
+User Research. Code experiment 0.
+
+
+[**Week 3:**](week23/)<br>
+Prioritize. Sketch. Code experiment 1.
+
+
+[**Week 4:**](week24/)<br>
+Grayscales™. Rapid user testing. Initial code scaffolding.
+
+
+[**Week 5:**](week25/)<br>
+Initial Hi-Fi Mockups. Connect code components.
+
+
+[**Week 6:**](week26/)<br>
+Completed Hi-Fi Mockups. Basic functionality.
+
+
+[**Week 7:**](week27/)<br>
+Prototype interactions. Bughunt.
+
+
+[**Week 8:**](week28/)<br>
+Final design cleanup. Fixing bugs.
+
+
+[**Week 9:**](week29/)<br>
+Technigala. User feedback. Handoff.
