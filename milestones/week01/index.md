@@ -23,7 +23,8 @@ In Week 1, work with your partner and team to understand the problem, stakeholde
   * [ ] Set up User Research to be conducted next week
     * Your partner should help find people with whom to conduct User Research. It is your job to contact research participants and set up times for designers to interview them. Depending on the user group, interviews can stake a week to schedule. Prevent this bottleneck and start reaching out early!
 
-
+### Dev:
+  * [ ] [Code Experiment 0](code-experiment-0.md)
 
 ### Wednesday Deliverables:
   * Discovery Phase worksheet (Send to your mentors and Erica)

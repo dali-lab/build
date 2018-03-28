@@ -24,10 +24,6 @@ Define the core features and sketch those features as a team. Present sketched o
 * [ ] Set up Rapid User Testing for next week
   * As before, reach out to new users and schedule times to conduct Rapid User Testing during week 3.
 
-### Dev:
-* [ ] [Code Experiment 1](code-experiment-1.md)
-*OR*
-* [ ] [Start on Code Scaffolding](../week04/code-scaffolding.md)
 
 
 ### Des:

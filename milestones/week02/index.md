@@ -19,9 +19,6 @@ Interview users to understand their problem, and create personas. Conduct code e
 * [ ] Create Backlog
   * Populate the backlog with upcoming Epics and issues. Work several weeks out and always keep in mind the overarching milestone dates.
 
-### Dev:
-* [ ] [Code Experiment 0](code-experiment-0.md)
-
 ### Des:
 * [ ] [User Research](user-research.md) - discover what the problem is
 * [ ] [Inspiration Board](inspiration-board.md) - see what's out there
@@ -29,6 +26,12 @@ Interview users to understand their problem, and create personas. Conduct code e
 
 ### Everyone:
 * [ ] [Personas](personas.md): based on the user research. Aim to create these together in your team meeting!
+
+### Dev:
+* [ ] [Code Experiment 1](code-experiment-1.md)
+*OR*
+* [ ] [Start on Code Scaffolding](../week04/code-scaffolding.md)
+
 
 ### Wednesday Deliverables:
   * Code Experiment 0
