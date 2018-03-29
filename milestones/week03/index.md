@@ -7,7 +7,7 @@ published: true
 
 ## Prioritize. Sketch. Code experiment 1.
 
-Define the core features and sketch those features as a team. Present sketched options to your partner for feedback and a design direction. Conduct code experiment 1.
+Define the core features and sketch those features as a team. Present sketched options to your partner for feedback and a design direction.
 
 ### Everyone:
 * [ ] [Feature Spec](feature-specification.md)
@@ -25,7 +25,6 @@ Define the core features and sketch those features as a team. Present sketched o
   * As before, reach out to new users and schedule times to conduct Rapid User Testing during week 3.
 
 
-
 ### Des:
 * [ ] [Connecting Features](connecting-features.md) - consolidate user research and sketch out possible connections + solutions to the problems you identified
 * [ ] [Paper Sketches](paper-sketches.md) - start associating these features with the device in mind
@@ -33,7 +32,7 @@ Define the core features and sketch those features as a team. Present sketched o
 ### Wednesday Deliverables:
   * Feature Spec
   * 2-3 clean sketches of each main feature on device paper
-  * Code experiment 1
+
 
 ### Wednesday Activity:
   * Share out paper sketches <!-- science fair style -->

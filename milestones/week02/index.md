@@ -5,9 +5,9 @@ published: true
 ---
 
 
-## User Research. Code experiment 0.
+## User Research. Code experiment 1.
 
-Interview users to understand their problem, and create personas. Conduct code experiment 0.
+Interview users to understand their problem, and create personas. Conduct code experiment 1 or start code scaffolding.
 
 
 ### PM:
@@ -34,7 +34,7 @@ Interview users to understand their problem, and create personas. Conduct code e
 
 
 ### Wednesday Deliverables:
-  * Code Experiment 0
+  * Code Experiment 1 or code scaffolding.
   * Inspiration Board
   * 2-4 Personas
 

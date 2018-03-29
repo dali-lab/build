@@ -16,7 +16,7 @@ Kickoff. Understand the requirements. Code experiment 0.
 
 
 [**Week 2:**](week02/)<br>
-User Research. Code experiment or code scaffolding
+User Research. Code experiment 1 or code scaffolding.
 
 
 [**Week 3:**](week03/)<br>
@@ -32,7 +32,7 @@ Initial Hi-Fi Mockups. Basic functionality.
 
 
 [**Week 6:**](week06/)<br>
-Completed Hi-Fi Mockups.  Bughunt.
+Completed Hi-Fi Mockups. Bughunt.
 
 
 [**Week 7:**](week07/)<br>
@@ -53,35 +53,35 @@ Technigala. User feedback. Handoff.
 ## Second Term Project Milestones
 
 [**Week 1:**](week21/)<br>
-Kickoff. Understand the requirements.
+Kickoff. Understand the requirements. Code experiment 0.
 
 
 [**Week 2:**](week22/)<br>
-User Research. Code experiment 0.
+User Research. Code experiment or code scaffolding
 
 
 [**Week 3:**](week23/)<br>
-Prioritize. Sketch. Code experiment 1.
+Prioritize. Sketch. Initial code scaffolding.
 
 
 [**Week 4:**](week24/)<br>
-Grayscales™. Rapid user testing. Initial code scaffolding.
+Grayscales™. Rapid user testing. Connect code components.
 
 
 [**Week 5:**](week25/)<br>
-Initial Hi-Fi Mockups. Connect code components.
+Initial Hi-Fi Mockups. Basic functionality.
 
 
 [**Week 6:**](week26/)<br>
-Completed Hi-Fi Mockups. Basic functionality.
+Completed Hi-Fi Mockups. Bughunt.
 
 
 [**Week 7:**](week27/)<br>
-Prototype interactions. Bughunt.
+Prototype interactions. Fixing bugs.
 
 
 [**Week 8:**](week28/)<br>
-Final design cleanup. Fixing bugs.
+Final design cleanup. Iterate.
 
 
 [**Week 9:**](week29/)<br>

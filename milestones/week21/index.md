@@ -9,21 +9,23 @@ published: true
 In Week 1, work with your partner and team to understand the problem, stakeholder and partner requirements, and the project scope.
 
 ### Everyone:
-  * [ ] [follow steps in week1](../week01/)
-  * Planning Meeting:
+  * Kickoff Week 1
+    * [ ] [Follow all steps in Week 1](../week01/)
+  * Additions to First Team Meeting:
     * [ ] [Self reflection](project-self-reflection.md) (what are your goals)
     * [ ] Review previous term’s handoff document      
     * [ ] Get familiar with the documents, Drive folder, design files
-    * [ ] Incorporate feedback and user testing from previous term into a cohesive doc and keep handy for Feature Spec in Week 3.
-  * QA review:
+    * [ ] Incorporate feedback and user testing from previous term into a cohesive doc. Keep handy for Feature Spec in Week 3.
+  * QA Review Meeting:
     * [ ] Review any outstanding issues in Git
     * [ ] Is anything broken? Report new bugs in Git
     * [ ] Does the code look like the designs? Mark inconsistencies in Git
 
+### Des:
+* Current Product Audit:
+  * [ ] Conduct a review of the previous design work.
+    * Get familiar with the design flow, file, and features.
+    * Understand what problem the designers were solving, and where they left off.
+    * Identify places you'd like to understand better, that you'd like to test in Rapid User Testing next week.
 
-### Dev:
-    QA review showed code needs more work:
-    * [ ] Work with your PM and Core Mentor to determine the scope. Identify a week number by which you stop addressing fixes and start working on new design work. Keep in mind “Technical Debt”: How much time spent fixing little bugs before the project needs to be redesigned.
-
-    QA review showed no additional work necessary:
-    * [ ] Follow Term 1 Milestones
+* Work with your PM and Core Mentor to determine the Term 2 project scope. Identify a week number by which Devs stop addressing fixes and start working on new Des work. Keep in mind “Technical Debt”: How much time spent fixing little bugs before the project needs to be redesigned.

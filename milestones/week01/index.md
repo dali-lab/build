@@ -28,24 +28,8 @@ In Week 1, work with your partner and team to understand the problem, stakeholde
 
 ### Wednesday Deliverables:
   * Discovery Phase worksheet (Send to your mentors and Erica)
+  * Code Experiment 0
   * Competitive Research InVision Board
 
 ### Wednesday Activities:
-  * Introduce projects
-  * Share competitive research in pitch format - what is exciting about this?
-
-
-<br/>
-
-## Term 2 Additions:
-
-### Everyone:
-  * Planning Meeting:
-    * [ ] Self reflection (what are your goals)
-    * [ ] Review previous term’s handoff document      
-    * [ ] Get familiar with the documents, Drive folder, design files
-    * [ ] Incorporate feedback and user testing from previous term into a cohesive doc and keep handy for Feature Spec in Week 3.
-  * QA review:
-    * [ ] Review any outstanding issues in Git
-    * [ ] Is anything broken? Report new bugs in Git
-    * [ ] Does the code look like the designs? Mark inconsistencies in Git
+  * Introduce projects to each other in pitch format - what is exciting about this?
