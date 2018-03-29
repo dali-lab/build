@@ -11,4 +11,4 @@ Create Grayscales™ for each main interaction and screen. Conduct rapid user te
 
 ### Everyone:
   * Week 4
-    * [ ] [Follow all steps in Week 4](../week04/)
+    * [ ] [Follow all steps in Week 4](milestones/week04/index.md)

@@ -12,4 +12,4 @@ Solidify designs and add in delightful features and interactions. Focus on funct
 
 ### Everyone:
   * Week 7
-    * [ ] [Follow all steps in Week 7](../week07/)
+    * [ ] [Follow all steps in Week 7](milestones/week07/index.md)

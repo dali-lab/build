@@ -12,4 +12,4 @@ The Technigala is science fair style, open to public. Show off your demos and co
 
 ### Everyone:
   * Week 9
-    * [ ] [Follow all steps in Week 9](../week02/)
+    * [ ] [Follow all steps in Week 9](milestones/week09/index.md)
