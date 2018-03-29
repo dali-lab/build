@@ -21,11 +21,8 @@ Interview users to understand their problem, and create personas. Conduct code e
 
 ### Des:
 * [ ] [User Research](user-research.md) - discover what the problem is
-* [ ] [Inspiration Board](inspiration-board.md) - see what's out there
 * [ ] [Optional Current-State User Journey](current-state-user-journey.md) - map how it's currently done
-
-### Everyone:
-* [ ] [Personas](personas.md): based on the user research. Aim to create these together in your team meeting!
+* [ ] [Personas](personas.md) - Aim to create these together in your team meeting based on insights from User Research
 
 ### Dev:
 * [ ] [Code Experiment 1](code-experiment-1.md)
@@ -35,7 +32,6 @@ Interview users to understand their problem, and create personas. Conduct code e
 
 ### Wednesday Deliverables:
   * Code Experiment 1 or code scaffolding.
-  * Inspiration Board
   * 2-4 Personas
 
 ### Wednesday Activity:

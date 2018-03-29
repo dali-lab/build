@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Competitive/Comparative research
+title: Competitive research
 published: true
 ---
 
-## Competitive Research
 Competitive products solve a similar problem.
 
 Before any designing happens, it’s critical to first understand what similar products exist, and how they work.

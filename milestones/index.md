@@ -4,8 +4,6 @@ title: DALI Milestones
 ---
 
 
-## DALI Project Milestones
-
 *Milestone weeks run from Wednesday to Wednesday*
 
 <br>

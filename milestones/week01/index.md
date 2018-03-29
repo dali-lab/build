@@ -13,7 +13,6 @@ In Week 1, work with your partner and team to understand the problem, stakeholde
   * [ ] [Team Meeting](team-meeting.md)
   * [ ] [Partner Kickoff](partner-kickoff.md)
   * [ ] [Reframe the Problem](reframe.md)
-  * [ ] [Competitive Research](competitive-research.md)
 
 ### PM:
   * [ ] [Populate backlog with tasks for the next two weeks](populate-backlog.md)
@@ -23,13 +22,17 @@ In Week 1, work with your partner and team to understand the problem, stakeholde
   * [ ] Set up User Research to be conducted next week
     * Your partner should help find people with whom to conduct User Research. It is your job to contact research participants and set up times for designers to interview them. Depending on the user group, interviews can stake a week to schedule. Prevent this bottleneck and start reaching out early!
 
+### Des:
+* [ ] [Competitive Research](competitive-research.md)
+* [ ] [Inspiration Board](inspiration-board.md)
+
 ### Dev:
   * [ ] [Code Experiment 0](code-experiment-0.md)
 
 ### Wednesday Deliverables:
   * Discovery Phase worksheet (Send to your mentors and Erica)
   * Code Experiment 0
-  * Competitive Research InVision Board
+  * InVision Board with Competitive Research + Inspiration
 
 ### Wednesday Activities:
   * Introduce projects to each other in pitch format - what is exciting about this?
