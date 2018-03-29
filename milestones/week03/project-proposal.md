@@ -4,8 +4,6 @@ title: Project Proposal
 published: true
 ---
 
-
-
 How has your research changed the scope, scale, or implementation of the proposed solution?
 
 This is a document outlining statement of purpose, stakeholders, proposed solution, & timeline.

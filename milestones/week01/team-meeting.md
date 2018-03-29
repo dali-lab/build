@@ -23,7 +23,7 @@ Good team dynamics are super important. Temptation is to blow through the ‘sof
     * Set up your meeting times ASAP. This is the biggest blocker to getting a team moving. If the team’s schedules are in chaos because of adding/dropping classes, at least establish meeting times for the next week or two.
     * Use [when2meet.com](https://www.when2meet.com/) to coordinate everyone’s schedules. Everyone should input ALL their available time (i.e. don’t mark ‘busy’ during desired nap times).
   * **Project Briefing**
-    * Discuss the project with your team: Important to do some deep thinking about the project before meeting with the partner to come with your own ideas and opinions. Everydone should come prepared by re-reading existing [partner communication/application](https://docs.google.com/a/dali.dartmouth.edu/spreadsheets/d/1WupDeKa8iItEG2MxqrYrkQHMEJeLwVJhNsaBjGkZtII/edit?usp=sharing).
+    * Discuss the project with your team: Important to do some deep thinking about the project before meeting with the partner to come with your own ideas and opinions. Everyone should come prepared by re-reading existing [partner communication/application](https://docs.google.com/a/dali.dartmouth.edu/spreadsheets/d/1WupDeKa8iItEG2MxqrYrkQHMEJeLwVJhNsaBjGkZtII/edit?usp=sharing).
       * Based on this current understanding of the problem and project, what do you see as solutions?
       * What would you keep/change?
       * What questions do you have for the partner?

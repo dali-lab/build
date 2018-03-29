@@ -55,7 +55,7 @@ Kickoff. Understand the requirements. Code experiment 0.
 
 
 [**Week 2:**](week22/)<br>
-User Research. Code experiment or code scaffolding
+User Research. Code experiment 1 or code scaffolding
 
 
 [**Week 3:**](week23/)<br>
