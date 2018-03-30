@@ -24,6 +24,8 @@ In Week 1, work with your partner and team to understand the problem, stakeholde
     * Identify a week number by which Devs stop addressing fixes and start working on new Des work. Keep in mind “Technical Debt”: How much time spent fixing little bugs before the project needs to be redesigned.
 
 ### Des:
+* In reviewing all the Term 1 Week 1 steps, consider what about the project has evolved and what has stayed the same. New members should go through the Term 1 Milestones and/or get familiar with the documents already completed such that they can contribute at the same level as continuing members. If this is the last term in lab, keep in mind that going through another cycle of design Milestones means that the developers also need to be ready for that amount of work. You might just have specific pages and states that need to get completed - and if that's the case, focus less on "new features" and more on a high quality hand-off. 
+
 * Current Product Audit:
   * [ ] Conduct a review of the previous design work.
     * Get familiar with the design flow, file, and features.
