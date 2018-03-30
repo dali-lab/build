@@ -11,4 +11,5 @@ Final visual sweep of all pages for consistency. Iterate fixing bugs from bug-hu
 
 ### Everyone:
   * Week 8
-    * [ ] [Follow all steps in Week 8](milestones/week08/index.md)
+    * [ ] [Follow all steps in Week 8](../week08/)
+    

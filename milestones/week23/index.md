@@ -11,7 +11,7 @@ Define the core features and sketch those features as a team. Present sketched o
 
 ### Everyone:
   * Week 3
-    * [ ] [Follow all steps in Week 3](milestones/week03/index.md)
+    * [ ] [Follow all steps in Week 3](../week03/)
   * Adding Features
     * Revisit the goals set in week 1.
     * Realign new features with these goals.
