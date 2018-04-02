@@ -25,5 +25,12 @@ markdown: kramdown
 kramdown:
   parse_block_html: true
 
-gems:
+plugins:
   - jemoji
+
+algolia:
+  application_id: ULR5P4BGRV
+  index_name:     jekyll
+  # Actually index the index.html/index.md pages
+  files_to_exclude: []
+  search_only_api_key: 75a2cd9f634cf6881abd71c6239ff867
