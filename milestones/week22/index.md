@@ -17,5 +17,5 @@ Interview users to understand their problem, and create personas. Conduct code e
 ### Des:
 * Additional User Testing:
   * [ ] After conducting the user research, keep the users to conduct additional rapid user testing of the previous designs
-    * Follow [Rapid User Testing](milestones/week04/rapid-user-testing.md) for guidelines
+    * Follow [Rapid User Testing](../week04/rapid-user-testing) for guidelines
     * Be specific with which parts of the project need more user testing (compared to the insights that were shared last term)

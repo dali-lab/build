@@ -25,11 +25,11 @@ Restrict yourself from asking leading questions and looking for confirmation of 
 
 
 ## Use this Template
-To make your life easier, the Design Resident made a [User Research + User Testing Template](https://docs.google.com/spreadsheets/d/1gKQyrXQKgv_zLd7S20WOh8IB6I9i2WX_XkQ5Kq0MYDk/edit?usp=sharing) for you. Copy the sheet to your Drive and populate with your specific questions. Use the *first tab* for User Research and reference the *second tab* for User Testing (in week 4).
+To make your life easier, Natalie made a [User Research + User Testing Template](https://docs.google.com/spreadsheets/d/1gKQyrXQKgv_zLd7S20WOh8IB6I9i2WX_XkQ5Kq0MYDk/edit?usp=sharing) for you. Copy the sheet to your Drive and populate with your specific questions. Use the *first tab* for User Research and reference the *second tab* for User Testing (in week 4).
 
 
 ## Empathy Maps
-are a great way to visualize a user's emotions and get the team on the same page. According to the Nielsen Norman Group, it also ["reveals any holes in existing user data"](https://www.nngroup.com/articles/empathy-mapping/).
+A great way to visualize a user's emotions and get the team on the same page. According to the Nielsen Norman Group, it also ["reveals any holes in existing user data"](https://www.nngroup.com/articles/empathy-mapping/).
 
 Make one Empathy Map per user interviewed to articulate what you learned, and help team members understand the user’s mindset. Populate the spaces based on the impression you got from the interview, not from direct questioning.
 
