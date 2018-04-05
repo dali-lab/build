@@ -24,7 +24,7 @@ Interview users to understand their problem, and create personas. Conduct code e
 ### Dev:
 *   [Code Experiment 1](code-experiment-1.md)
 *OR*
-*   [Start on Code Scaffolding](../week04/code-scaffolding.md)
+*   [Start on Code Scaffolding](../week03/code-scaffolding.md)
 
 
 ### Wednesday Deliverables:

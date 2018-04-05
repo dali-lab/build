@@ -10,9 +10,9 @@ published: true
 Define the core features and sketch those features as a team. Present sketched options to your partner for feedback and a design direction.
 
 ### Everyone:
-* 1. Write [Project Proposal](https://docs.google.com/document/d/1eUOWSDpmRE9037nOym1h5oGvgmbrT-mZnaj9arZcxyQ/edit)
+* 1: Write [Project Proposal](https://docs.google.com/document/d/1eUOWSDpmRE9037nOym1h5oGvgmbrT-mZnaj9arZcxyQ/edit)
   * Must be approved by DALI staff before sending to partner
-* 2. [Feature Spec](feature-specification.md)
+* 2: [Feature Spec](feature-specification.md)
 
 
 ### PM:
@@ -32,9 +32,15 @@ Define the core features and sketch those features as a team. Present sketched o
 * [Paper Sketches](paper-sketches.md) - give these features a shape and form to get on the same page
 
 
+### Dev:
+* [Code scaffolding](code-scaffolding.md)
+
+
+
 ### Wednesday Deliverables:
   * Feature Spec
   * 2-3 clean sketches of each main feature on device paper, scanned and uploaded to your InVision Board
+  * Completed Code Scaffolding
 
 
 ### Wednesday Activity:

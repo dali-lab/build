@@ -15,17 +15,20 @@ Create Grayscales™ for each main interaction and screen. Conduct rapid user te
 *   Write a brief team update for DALI PR
   * DALI fans want to hear about your project! Write a 1-paragraph blurb for the DALI newsletter and/or website about your project thus far. Could talk about your process, your ideas, project goals, why is the project important, etc.
 
-### Dev:
-*   [Code scaffolding](code-scaffolding.md)
 
 ### Des:
 *   [Grayscales™](grayscales.md)
 *   [Rapid User Testing](rapid-user-testing.md)
 
+
+### Dev:
+*   [Data and component wiring](data-and-component-wiring.md)
+
+
 ### Wednesday Deliverables:
-  * Code scaffolding
   * Grayscale Prototype (a fully linked Figma prototype of your Grayscales)
   * User Testing Summary
+
 
 ### Wednesday Activity:
   * Share code scaffolding

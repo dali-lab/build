@@ -13,16 +13,20 @@ Begin strategic use of UI, include insights gained from user testing to push des
 *   [Team Retrospective](retrospective.md)
 *   Check in with team about their individual goals
 
-### Dev:
-*   [Data and component wiring](data-and-component-wiring.md)
 
 ### Des:
 *   [High Fidelity Mockups](high-fidelity-mockups.md)
+
+
+### Dev:
+*   [Initial Basic functionality](../week06/basic-functionality.md)
+
 
 ### Wednesday Deliverables:
   * At least one page with final look and feel (UI)
   * Rough Draft of Style Guide
   * A created Zeplin team project with all members added
+
 
 ### Wednesday Activity:
   * Share and get feedback on the UI
