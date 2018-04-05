@@ -5,9 +5,9 @@ published: true
 ---
 
 
-## Initial Hi-Fi Mockups. Connect code components.
+## Initial Hi-Fi Mockups. Basic functionality.
 
-Begin strategic use of UI, include insights gained from user testing to push designs further. Connect all necessary code components together. Rudimentary functionality in place and components are connected and exchange data.
+Begin strategic use of UI, include insights gained from user testing to push designs further. Have basic functionality in place.
 
 ### PM:
 *   [Team Retrospective](retrospective.md)
@@ -19,7 +19,7 @@ Begin strategic use of UI, include insights gained from user testing to push des
 
 
 ### Dev:
-*   [Initial Basic functionality](../week06/basic-functionality.md)
+*   [Basic functionality](basic-functionality.md)
 
 
 ### Wednesday Deliverables:

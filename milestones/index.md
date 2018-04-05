@@ -18,7 +18,7 @@ User Research. Code experiment 1 or code scaffolding.
 
 
 [**Week 3:**](week03/)<br>
-Prioritize. Sketch. Initial code scaffolding.
+Prioritize. Sketch. Code scaffolding.
 
 
 [**Week 4:**](week04/)<br>
@@ -30,7 +30,7 @@ Initial Hi-Fi Mockups. Basic functionality.
 
 
 [**Week 6:**](week06/)<br>
-Completed Hi-Fi Mockups. Bughunt.
+Completed Hi-Fi Mockups. MVP Functionality. Bughunt.
 
 
 [**Week 7:**](week07/)<br>
@@ -55,11 +55,11 @@ Kickoff. Understand the requirements. Code experiment 0.
 
 
 [**Week 2:**](week22/)<br>
-User Research. Code experiment 1 or code scaffolding
+User Research. Code experiment 1 or code scaffolding.
 
 
 [**Week 3:**](week23/)<br>
-Prioritize. Sketch. Initial code scaffolding.
+Prioritize. Sketch. Code scaffolding.
 
 
 [**Week 4:**](week24/)<br>
@@ -71,7 +71,7 @@ Initial Hi-Fi Mockups. Basic functionality.
 
 
 [**Week 6:**](week26/)<br>
-Completed Hi-Fi Mockups. Bughunt.
+Completed Hi-Fi Mockups. MVP Functionality. Bughunt.
 
 
 [**Week 7:**](week27/)<br>

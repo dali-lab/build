@@ -5,9 +5,14 @@ published: true
 ---
 
 
-## Completed Hi-Fi Mockups. Basic functionality.
+## Completed Hi-Fi Mockups. MVP Functionality. Bughunt.
 
-Settle on a style guide and apply to all screens. Have basic functionality in place.
+Settle on a style guide and apply to all screens. Focus on function over form to get MVP functionality complete. Participate in a bughunt. Help other teams find bugs in the demos!
+
+
+### Everyone:
+*   [Bughunt](bughunt.md)
+
 
 ### PM:
 *   Triage bugs that arose from testing
@@ -21,12 +26,12 @@ Settle on a style guide and apply to all screens. Have basic functionality in pl
 
 
 ### Dev:
-*   [Basic functionality](basic-functionality.md)
+*   [MVP functionality](mvp-functionality.md)
 
 
 ### Wednesday Deliverables:
   * Completed Hi-Fi mockups in a click through prototype
-  * Completed Basic functionality 
+  * Completed Basic functionality
 
 
 ### Wednesday Activity:

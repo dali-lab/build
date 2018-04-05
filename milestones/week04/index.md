@@ -5,9 +5,10 @@ published: true
 ---
 
 
-## Grayscales™. Rapid user testing. Initial code scaffolding.
+## Grayscales™. Rapid user testing. Connect code components.
 
-Create Grayscales™ for each main interaction and screen. Conduct rapid user testing to validate design solutions. Setup initial code scaffolding with tools and frameworks chosen.
+Create Grayscales™ for each main interaction and screen. Conduct rapid user testing to validate design solutions. Rudimentary functionality in place and components and exchange data are connected.
+
 
 ### PM:
 *   Evaluate team velocity
@@ -26,10 +27,9 @@ Create Grayscales™ for each main interaction and screen. Conduct rapid user te
 
 
 ### Wednesday Deliverables:
-  * Grayscale Prototype (a fully linked Figma prototype of your Grayscales)
+  * Grayscale Prototype (a fully linked Figma prototype of your Grayscales™)
   * User Testing Summary
 
 
 ### Wednesday Activity:
-  * Share code scaffolding
-  * Share user testing insights with grayscales
+  * Share user testing insights with Grayscales™

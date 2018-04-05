@@ -5,13 +5,9 @@ published: true
 ---
 
 
-## Prototype interactions. Bughunt.
+## Prototype interactions. Fixing Bugs.
 
-Solidify designs and add in delightful features and interactions. Focus on function over form to get MVP functionality complete. Participate in a bughunt. Help other teams find bugs in the demos!
-
-
-### Everyone:
-*   [Bughunt](bughunt.md)
+Solidify designs and add in delightful features and interactions. Fixing bugs.
 
 
 ### PM:
@@ -27,7 +23,7 @@ Solidify designs and add in delightful features and interactions. Focus on funct
 
 
 ### Dev:
-*   [MVP functionality](mvp-functionality.md)
+* Fixing bugs
 
 
 ### Wednesday Activity

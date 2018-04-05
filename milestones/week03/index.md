@@ -5,9 +5,9 @@ published: true
 ---
 
 
-## Prioritize. Sketch Main Features. Code experiment 1.
+## Prioritize. Sketch Main Features. Code scaffolding. 
 
-Define the core features and sketch those features as a team. Present sketched options to your partner for feedback and a design direction.
+Define the core features and sketch those features as a team. Present sketched options to your partner for feedback and a design direction. Setup initial code scaffolding with tools and frameworks chosen.
 
 ### Everyone:
 * 1: Write [Project Proposal](https://docs.google.com/document/d/1eUOWSDpmRE9037nOym1h5oGvgmbrT-mZnaj9arZcxyQ/edit)

@@ -5,7 +5,7 @@ published: true
 ---
 
 
-## User Research. Code experiment 1.
+## User Research. Code experiment 1 or code scaffolding.
 
 Interview users to understand their problem, and create personas. Conduct code experiment 1 or start code scaffolding.
 
