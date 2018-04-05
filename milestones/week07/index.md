@@ -5,9 +5,13 @@ published: true
 ---
 
 
-## Prototype interactions. Fixing Bugs.
+## Prototype interactions. MVP Functionality. Bughunt.
 
-Solidify designs and add in delightful features and interactions. Fixing bugs.
+Solidify designs and add in delightful features and interactions. Participate in a bughunt. Help other teams find bugs in the demos!
+
+
+### Everyone:
+*   [Bughunt](bughunt.md)
 
 
 ### PM:
@@ -23,7 +27,7 @@ Solidify designs and add in delightful features and interactions. Fixing bugs.
 
 
 ### Dev:
-* Fixing bugs
+* MVP Functionality
 
 
 ### Wednesday Activity

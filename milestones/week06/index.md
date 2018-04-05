@@ -5,13 +5,9 @@ published: true
 ---
 
 
-## Completed Hi-Fi Mockups. MVP Functionality. Bughunt.
+## Completed Hi-Fi Mockups. Basic functionality.
 
-Settle on a style guide and apply to all screens. Focus on function over form to get MVP functionality complete. Participate in a bughunt. Help other teams find bugs in the demos!
-
-
-### Everyone:
-*   [Bughunt](bughunt.md)
+Settle on a style guide and apply to all screens. Focus on function over form to work towards MVP functionality. 
 
 
 ### PM:
