@@ -29,9 +29,9 @@ If you follow a tutorial or two just remember to acknowledge this fact in your R
 
 All your projects on github should include a README.md file.  For this milestone all it needs is:
 
-* [ ] Short description of what you attempted to build
-* [ ] What you learned
-* [ ] What didn't work
+*   Short description of what you attempted to build
+*   What you learned
+*   What didn't work
 
 ## Sharing
 

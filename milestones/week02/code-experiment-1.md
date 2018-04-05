@@ -24,7 +24,7 @@ Reminder: You should make sure you have github set up with your [correct github 
 
 All your projects on github should include a README.md file.  For this milestone all it needs is:
 
-* [ ] Short description of what you attempted to build
-* [ ] Who did what
-* [ ] What you learned
-* [ ] What didn't work
+*   Short description of what you attempted to build
+*   Who did what
+*   What you learned
+*   What didn't work

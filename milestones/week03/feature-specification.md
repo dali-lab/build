@@ -17,7 +17,7 @@ The feature spec is a document that is a walk-though story of your project from 
 
 ## Requirements:
 
-* [ ] Identify the **5 and 10 core features** to focus on in the first design sprint.
+*   Identify the **5 and 10 core features** to focus on in the first design sprint.
 
 *Example:*
   * Alarm options (sounds, wakeup timeframe)
@@ -29,7 +29,7 @@ The feature spec is a document that is a walk-though story of your project from 
 
 <br/>
 
-* [ ] Associate these features with specific pages
+*   Associate these features with specific pages
 
 *Example:*
   * Analysis Page
@@ -39,7 +39,7 @@ The feature spec is a document that is a walk-though story of your project from 
 
 <br/>
 
-* [ ] Lace together all the features from your feature list into a cohesive script.
+*   Lace together all the features from your feature list into a cohesive script.
   * Solidify the concept, the user, and the setting.
   * Add detail to rely on later in the design phase (i.e. user testing, prototype creation, narration for the demo video).
   * Define what happens on which pages.
@@ -56,9 +56,9 @@ The feature spec is a document that is a walk-though story of your project from 
 
 <br/>
 
-* [ ] These should all be expressed as Github/Zenhub issues
+*   These should all be expressed as Github/Zenhub issues
 
-* [ ] Submit your Feature Spec for **approval** by the DALI Staff.
+*   Submit your Feature Spec for **approval** by the DALI Staff.
 
 
 

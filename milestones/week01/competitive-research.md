@@ -17,5 +17,5 @@ Benefits of Competitive Research:
   * Design for competitive advantage (find a better implementation)
 
 #### Create a single source for this information
-  * [ ] Take screenshots of your competitive research and post them to your team's InVision Board. Your partner might have offered some examples as well.
-  * [ ] Leave a comment on each example with what works/doesn't.
+  *   Take screenshots of your competitive research and post them to your team's InVision Board. Your partner might have offered some examples as well.
+  *   Leave a comment on each example with what works/doesn't.

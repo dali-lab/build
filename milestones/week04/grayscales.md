@@ -32,13 +32,13 @@ Prepare to **iterate** as you determine the best way to display information, wor
 
 
 ## Guidelines:  
-* [ ] **Design for each unique page.**
+*   **Design for each unique page.**
   * Complex states of those pages can come later in mockups.
   * Mid-fidelity Grayscales™ should include:
     * real-ish content wherever possible (don’t let a content problem hold you back from more designing, but the more realistic the content, the more intelligent you can be with design decisions).
     * DO NOT USE Lorem Ipsum. This leads to space mis-estimation. Make up and synthesize words you think are good enough.
     * DO NOT worry yet about fonts, colors, grid systems, or design elements (i.e. use a basic font like Avenir, three shades of gray, and boxes for images or video placeholders).
-* [ ] Use the **Prototyping tab** to connect pages for testing.
+*   Use the **Prototyping tab** to connect pages for testing.
   * If you have multiple versions of a page, you can A/B test these (make two separate prototypes and see what users like better)
 
 

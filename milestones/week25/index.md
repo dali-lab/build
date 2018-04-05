@@ -11,5 +11,4 @@ Begin strategic use of UI, include insights gained from user testing to push des
 
 ### Everyone:
   * Week 5
-    * [ ] [Follow all steps in Week 5](../week05/)
-    
+    *   [Follow all steps in Week 5](../week05/)

@@ -11,7 +11,7 @@ layout: slides
   </header>
 
   <div class="post-content">
-    {{ content | replace: '<li>[ ]', '<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox">' | replace: '<li>[x]', '<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="" >'  }}
+    {{ content | replace: '<li> ', '<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox">' | replace: '<li>[x]', '<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="" >'  }}
   </div>
 
 </article>
