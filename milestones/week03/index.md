@@ -5,7 +5,7 @@ published: true
 ---
 
 
-## Prioritize. Sketch Main Features. Code scaffolding. 
+## Prioritize. Sketch Main Features. Code scaffolding.
 
 Define the core features and sketch those features as a team. Present sketched options to your partner for feedback and a design direction. Setup initial code scaffolding with tools and frameworks chosen.
 
@@ -28,8 +28,8 @@ Define the core features and sketch those features as a team. Present sketched o
 
 
 ### Des:
-* [Connecting Features](connecting-features.md) - consolidate user research and sketch out possible connections + solutions to the problems you identified
-* [Paper Sketches](paper-sketches.md) - give these features a shape and form to get on the same page
+* [Connecting Features](connecting-features.md) - consolidate features and sketch out possible connections + solutions
+* [Paper Sketches](paper-sketches.md) - give these features a shape and form to get everyone on the same page
 
 
 ### Dev:
@@ -39,7 +39,7 @@ Define the core features and sketch those features as a team. Present sketched o
 
 ### Wednesday Deliverables:
   * Feature Spec
-  * 2-3 clean sketches of each main feature on device paper, scanned and uploaded to your InVision Board
+  * 2-3 clean hand sketches of each main feature on device paper, scanned and uploaded to your InVision Board
   * Completed Code Scaffolding
 
 
