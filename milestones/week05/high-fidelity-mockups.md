@@ -37,6 +37,7 @@ Hurray! You've made it half way through the term. Now we can start progressing f
   * Typography
     * Start here on [learning font design](https://www.canva.com/learn/font-design/)
     * Read up on everything related to [typography](https://practicaltypography.com/)
+    * The [ultimate guide to font sizes](https://learnui.design/blog/ultimate-guide-font-sizes-ui-design.html)
     * Be cautious about mixing Serif (Formal, Old, Wise, Classy) with San Serif (Modern, Simple, Clean)
     * Find your font using Font Kits
       * [Google Fonts](https://fonts.google.com/) - The largest repository of completely free fonts in the world
