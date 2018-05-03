@@ -29,5 +29,10 @@ Final visual sweep of all pages for consistency. Iterate fixing bugs from bug-hu
 *   Bug-fixing and refinement
 
 
+### Wednesday Deliverables:
+  * Demo video
+  * Final design prototype
+
+
 ### Wednesday Activity:
 * Team checkins with Natalie and Tim <!-- putting out fires, check presentations -->

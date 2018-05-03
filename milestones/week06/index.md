@@ -7,7 +7,7 @@ published: true
 
 ## Completed Hi-Fi Mockups. Basic functionality.
 
-Settle on a style guide and apply to all screens. Focus on function over form to work towards MVP functionality. 
+Settle on a style guide and apply to all screens. Focus on function over form to work towards MVP functionality.
 
 
 ### PM:
@@ -18,7 +18,7 @@ Settle on a style guide and apply to all screens. Focus on function over form to
 
 ### Des:
 *   [Style Guide](style-guide.md)
-*   [Refine designs](refine-design.md) and add hot spots
+*   [Apply style guide to all pages](refine-design.md)
 
 
 ### Dev:
@@ -26,6 +26,7 @@ Settle on a style guide and apply to all screens. Focus on function over form to
 
 
 ### Wednesday Deliverables:
+  * Style Guide
   * Completed Hi-Fi mockups in a click through prototype
   * Completed Basic functionality
 

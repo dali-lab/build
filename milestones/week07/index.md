@@ -30,5 +30,10 @@ Solidify designs and add in delightful features and interactions. Participate in
 * MVP Functionality
 
 
+### Wednesday Deliverables:
+  * Moments of delight / animation
+  * MVP for bughunt
+
+
 ### Wednesday Activity
 * Bughunt
