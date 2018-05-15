@@ -16,7 +16,7 @@ The Technigala is science fair style, open to public. Show off your demos and co
 
 ### PM:
 *   Finish any lingering issues
-*   [Complete Handoff Material](project-handoff.md)
+*   [Complete Handoff Material](../week03/project-handoff.md)
 *   Send Handoff to partner (after approval from staff)
 *   Celebrate and post-mortem with the team
   * Like a second Retrospective – what did you all learn from this term? What did you accomplish? What would’ve you done differently?
