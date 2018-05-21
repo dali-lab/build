@@ -22,4 +22,4 @@ The Technigala is science fair style, open to public. Show off your demos and co
   * Like a second Retrospective – what did you all learn from this term? What did you accomplish? What would’ve you done differently?
 
 ### Design:
-*   [Design Package](design-package.md)
+*   Compile and hand off the [Design Package](design-package.md)

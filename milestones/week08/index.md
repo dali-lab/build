@@ -13,7 +13,7 @@ Final visual sweep of all pages for consistency. Iterate fixing bugs from bug-hu
 *   [Prep Handoff Material](project-handoff.md)
 *   Prep for Technigala
   * How can you make your demo interesting and fun for viewers?
-  * Make demo equipment requests to Theo (if needed)
+  * Make demo equipment requests (if needed)
 *   Final Partner meeting
   * Wrap up lingering questions
   * Clarify Handoff process
@@ -22,7 +22,7 @@ Final visual sweep of all pages for consistency. Iterate fixing bugs from bug-hu
 ### Des:
 *   Review all designs in a final consistency sweep. Check for pixel perfection, broken prototype links or dead ends, and outstanding Figma comments.
 *   Assist Dev with identifying and closing UX/UI bugs
-*   Make a demo video to show at Technigala, and get a head start on the rest of the Design Package.
+*   Make a demo video to show at Technigala, and get a head start on the Design Package.
 
 
 ### Dev:
@@ -31,7 +31,7 @@ Final visual sweep of all pages for consistency. Iterate fixing bugs from bug-hu
 
 ### Wednesday Deliverables:
   * Demo video
-  * Final design prototype
+  * Final prototype
 
 
 ### Wednesday Activity:

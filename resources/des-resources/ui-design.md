@@ -63,7 +63,7 @@ published: true
 * [Google.com/fonts](https://www.google.com/fonts)
 * [Talking Type](http://jessicahische.is/talkingtype) - learn about type
 * [Typostrate](http://typostrate.com/) - explore type
-* [Ttyp.io](http://www.typ.io/) - what font goes with what?
+* [Typ.io](http://www.typ.io/) - what font goes with what?
 * [Font Pair](http://fontpair.co/)
 * [Fontface.ninja](http://fontface.ninja/) - what fonts does this website use?
 * [Guide to choosing the right font](http://webdesign.tutsplus.com/articles/choosing-the-right-font-a-practical-guide-to-typography-on-the-web--webdesign-15)
@@ -72,6 +72,15 @@ published: true
 ### Rendering
 * [Free Mockups Generator - any device](https://mockuphone.com)
 * [3D iPhone Mockups](http://threed.io/)
+
+
+### Motion Design
+* [Google Material Design](https://material.io/guidelines/motion/material-motion.html)
+* [IBM Animation Examples](https://www.ibm.com/design/language/experience/animation/elements)
+* [UI Movement](https://uimovement.com/)
+* [Selecting the right UI Prototyping Tool](https://www.cooper.com/prototyping-tools)
+* [Sketch plugin for Proto.io](https://proto.io/en/new-features/photoshop-and-sketch-plugins/) - to export your file for Proto.io
+* [How to import your Sketch file to Proto.io](https://support.proto.io/hc/en-us/articles/221617107-Import-from-Sketch)
 
 
 ### For Fun
