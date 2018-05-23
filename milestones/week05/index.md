@@ -15,8 +15,8 @@ Begin strategic use of UI, include insights gained from user testing to push des
 
 
 ### Des:
-*   [High Fidelity Mockups](high-fidelity-mockups.md)
-
+*   Creating a new **Figma Page** (not project!), start [High Fidelity Mockups](high-fidelity-mockups.md)
+    * Read more on [Figma Pages](https://blog.figma.com/introducing-figma-pages-1363000e6079)
 
 ### Dev:
 *   [Basic functionality](basic-functionality.md)
