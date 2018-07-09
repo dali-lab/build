@@ -4,35 +4,30 @@ title: Week 1
 published: true
 ---
 
-## Welcome, Kick-off Meeting
-
-In Week 1, work with your partner and team to understand the problem, stakeholder and partner requirements, and the project scope.
 
 ### Everyone:
-  *   [Review the Partner Brief](https://docs.google.com/a/dali.dartmouth.edu/spreadsheets/d/1WupDeKa8iItEG2MxqrYrkQHMEJeLwVJhNsaBjGkZtII/edit?usp=sharing)
-  *   [Team Meeting](team-meeting.md)
+  *   [Review the Partner's materials](https://docs.google.com/a/dali.dartmouth.edu/spreadsheets/d/1WupDeKa8iItEG2MxqrYrkQHMEJeLwVJhNsaBjGkZtII/edit?usp=sharing)
+  *   [Initial Team Meeting](team-meeting.md)
   *   [Partner Kickoff](partner-kickoff.md)
-  *   [Reframe the Problem](reframe.md)
+  *   [Discovery Phase Worksheet](reframe.md)
 
 ### PM:
   *   [Populate backlog with tasks for the next two weeks](populate-backlog.md)
   *   [Set up and prep for team meeting](pm-team-meeting.md)
   *   [Set a up a Kickoff meeting with the partner](partner-kickoff.md)
   *   [Set roadmap](goals.md)
-  *   Set up User Research to be conducted next week
-    * Your partner should help find people with whom to conduct User Research. It is your job to contact research participants and set up times for designers to interview them. Depending on the user group, interviews can stake a week to schedule. Prevent this bottleneck and start reaching out early!
+  *   Set up User Research to be conducted next week (ask your partner for help finding people)
 
 ### Des:
-*   [Competitive Research](competitive-research.md)
-*   [Inspiration Board](inspiration-board.md)
+  *   [Research (Competitive and Inspirational)](design-research.md)
 
 ### Dev:
   *   [Code Experiment 0](code-experiment-0.md)
 
-### Wednesday Deliverables:
-  * Discovery Phase worksheet (Send to your mentors and Erica)
+### Deliverables:
+  * Discovery Phase worksheet (Send to your team email for review)
   * Code Experiment 0
-  * InVision Board with Competitive Research + Inspiration
+  * Research (Competitive and Inspirational)
 
-### Wednesday Activities:
+### DALI Meeting Activities:
   * Introduce projects to each other in pitch format - what is exciting about this?

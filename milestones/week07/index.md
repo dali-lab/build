@@ -30,10 +30,10 @@ Solidify designs and add in delightful features and interactions. Participate in
 * Get App on [Testflight](https://medium.com/@dmathewwws/steps-to-put-your-app-on-testflight-and-then-the-ios-app-store-10a7996411b1)/website hosted on [Github pages](https://pages.github.com/). Putting apps on Testflight is done through our Brunch Labs LLC., talk to Tim for access!
 
 
-### Wednesday Deliverables:
+### Deliverables:
   * Moments of delight / animation
   * MVP for bughunt
 
 
-### Wednesday Activity
+### DALI Meeting Activities:
 * Bughunt

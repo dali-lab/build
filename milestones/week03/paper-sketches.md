@@ -5,6 +5,7 @@ published: true
 ---
 
 Time to take the abstract to concrete. Sketch rough layouts of screens focused on **features**.
+ - give these features a shape and form to get everyone on the same page
 
 **Step 1:** Generate options as a group
 * Review your design artifacts created thus far (personas, user journeys, flows)
@@ -39,3 +40,8 @@ Example Device Paper:
 Feel free to use this or make your own, appropriate for the device you are developing for.
 
 [![](img/devicepaper.jpg)](img/devicepaper.pdf)
+
+
+
+#Tasks:
+2-3 sketches of each main feature on device paper, scanned and uploaded to your Figma Project "Week 3"

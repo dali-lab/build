@@ -15,18 +15,15 @@ Begin strategic use of UI, include insights gained from user testing to push des
 
 
 ### Des:
-*   Creating a new **Figma Page** (not project!), start [High Fidelity Mockups](high-fidelity-mockups.md)
-    * Read more on [Figma Pages](https://blog.figma.com/introducing-figma-pages-1363000e6079)
+*   Start [High Fidelity Mockups](high-fidelity-mockups.md)
 
 ### Dev:
 *   [Basic functionality](basic-functionality.md)
 
 
-### Wednesday Deliverables:
+### Deliverables:
   * At least one page with final look and feel (UI)
   * Rough Draft of Style Guide
-  * A created Zeplin team project with all members added
 
-
-### Wednesday Activity:
+### DALI Meeting Activities:
   * Share and get feedback on the UI

@@ -4,12 +4,18 @@ title: Personas
 published: true
 ---
 
-After you have completed User Research, develop your project Personas.
-Personas are hypotheses informed by our research. They capture basic demographics, motivations, and frustrations. The purpose of Personas is to inspire empathy which is the key to understanding irrational responses.
+#Personas
+Personas are hypotheses informed by our research. They capture basic demographics, motivations, and frustrations.
 
-Aim for 2-4 personas that accurately describe the variety of users that will use your product. Use your Empathy Maps to help synthesize.
+Benefits:
+  * defines the user type(s)
+  * inspires empathy for the user(s)
+  * serves as the basis of user-oriented design decisions
 
-Consult this template to fill in details about your users. Feel free to include any additional dimensions that help you think about and understand your user in relation to your project (e.g., knowledge, skills, interest, technique, languages, platform, etc.)
+##Tasks:
+    * Synthesize your User Research notes
+    * Create 2-4 Personas that accurately describe the variety of users - aim to create these together in your team meeting
+    * Consult this template to fill in details about your users. (Feel free to include any additional details that help you think about and understand your user in relation to your project e.g., knowledge, skills, interest, technique, languages, platform, etc.)
 
 [![](img/persona.png)](img/persona.pdf)
 

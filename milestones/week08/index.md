@@ -30,10 +30,10 @@ Final visual sweep of all pages for consistency. Iterate fixing bugs from bug-hu
 *   Bug-fixing and refinement
 
 
-### Wednesday Deliverables:
+### Deliverables:
   * Demo video
   * Final prototype
 
 
-### Wednesday Activity:
+### DALI Meeting Activities:
 * Team checkins with Natalie and Tim <!-- putting out fires, check presentations -->

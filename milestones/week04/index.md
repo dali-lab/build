@@ -26,10 +26,10 @@ Create Grayscales™ for each main interaction and screen. Conduct rapid user te
 *   [Data and component wiring](data-and-component-wiring.md)
 
 
-### Wednesday Deliverables:
+### Deliverables:
   * Grayscale Prototype (a fully linked Figma prototype of your Grayscales™)
   * User Testing Summary
 
 
-### Wednesday Activity:
+### DALI Meeting Activities:
   * Share user testing insights with Grayscales™

@@ -17,19 +17,19 @@ Settle on a style guide and apply to all screens. Focus on function over form to
 
 
 ### Des:
-*   [Style Guide](style-guide.md)
-*   [Apply style guide to all pages](refine-design.md)
+  * [Style Guide](style-guide.md)
+  * [Apply style guide to all pages](refine-design.md)
 
 
 ### Dev:
-*   [MVP functionality](mvp-functionality.md)
+  * [MVP functionality](mvp-functionality.md)
 
 
-### Wednesday Deliverables:
+### Deliverables:
   * Style Guide
   * Completed Hi-Fi mockups in a click through prototype
   * Completed Basic functionality
 
 
-### Wednesday Activity:
+### DALI Meeting Activities:
   * Share team progress science fair style

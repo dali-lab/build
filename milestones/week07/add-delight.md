@@ -18,7 +18,8 @@ Some quick places where you can add motion could be:
     * Identify the *trigger* that initiates the microinteraction, the *rules* to determine what happens, and the *feedback* of what happens. Lastly, determine if it *loops, modulates, or ends* after one event.
 
 The motion can be *directly built in code* by finding examples for developers and tweaking until it feels right.
-For something specific and designed from scratch, use a *prototyping tool* like [Proto.io](https://proto.io/) or an *animation tool* like [Adobe After Effects](https://helpx.adobe.com/after-effects/tutorials.html).
+
+For something specific and designed from scratch (keep the scope small here - think just one little moment or element!), use a *prototyping tool* like [Proto.io](https://proto.io/) or an *animation tool* like [Adobe After Effects](https://helpx.adobe.com/after-effects/tutorials.html).
 
   * System status (keep your user informed about what is going on)
   ![](https://cdn.dribbble.com/users/50261/screenshots/1429143/upload.gif)

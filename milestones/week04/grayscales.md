@@ -12,17 +12,6 @@ Grayscales™ are *GRAY*. Leave out any color or any visual treatments, because 
 Prepare to **iterate** as you determine the best way to display information, work through a flow, or integrate content. Refer back to your Competitive/Comparative for inspiration and interface examples.
 
 
-#### Teamwork:
-1. Work as a team in **ONE (1) Figma project with multiple [Pages](https://blog.figma.com/introducing-figma-pages-1363000e6079)**.
-  * Moving to a design tool will make prototyping faster (yay copy-paste and versioning!), allow comments, and integrate with Zeplin.
-  * This means one URL, one link, one source of truth for all designs and designers on the project.
-  * Use Figma Pages to organize versions. Each Page in should be a week of work, so that you can look back on the progress you made.
-    * The last Page should have your design mentor's name for that mentor to jump in, leave comments, and approve for presentation to partner.
-  * Use shared symbols wherever possible to minimize work down the line when updating elements.
-2. **Keep all process artboards in this Figma project**.
-  * Just make a note that it is **PROCESS** somewhere at the top of that area, and move it to the side.
-  * This will help you explain how you arrived at a solution, if asked about a particular approach.
-
 #### Feedback:
 1. On the screens that you want to share and get feedback on, move them to a custom Page with your mentor's name.
 2. Next to or below each screen you want feedback on, **write a few comments** to help the reviewer understand:

@@ -4,19 +4,12 @@ title: Connecting Features
 published: true
 ---
 
-Now that you have listened to the user, you have quite a challenge: what insights to act on, which ones to prioritize, and how?
-
-*   **List** out all features (from your partner, from user research, and from your own team's brainstorming sessions)
-*   Review the "additional guidance" below.
-*   Go through that list and rate the **priority**
-  * Mark a *1, 2, or 3* to achieve the goals of the project, with guidance from your partner.
-*   Bonus if you also rank those features for **effort**
-  * Mark a *High, Medium, Low* for LOE (level of effort)
-*   **Focus on 5-10 "core features" that are 1 or 2 in priority**
-  * Aim for a balance of LOE (e.g. Low effort but high priority = "quick wins")
-
-
+#Connecting Features
 In tandem with creating the Feature Spec, lace together a high level understanding of **how these core features connect**.
+
+Benefits:
+  * determine and focus on which insights to act on
+  * prioritizes features for build
 
 <br>
 
@@ -43,16 +36,6 @@ Lace together all the features from your feature list into a cohesive script.
   * Solidify the concept, the user, and the setting.
   * Add detail to rely on later in the design phase (i.e. user testing, prototype creation, narration for the demo video).
   * Define what happens on which pages.
-
-> Example:
-* Just before shutting off the light to go to sleep, Susan opens her Wake Up app.
-* [loading page]
-* [home page]
-* She sets her alarm time for 7:00 and sees that she'll be getting 8 hours of sleep, a bit more than average.
-* [analysis page]
-* She briefly checks how much she slept the night before, and how well, before activating the monitor sleep mode and putting her phone to charge by her bed.
-* [sleeping mode]
-
 
 
 <br/>

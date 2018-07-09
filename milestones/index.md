@@ -3,14 +3,11 @@ layout: page
 title: DALI Milestones
 ---
 
-
-*Milestone weeks run from Wednesday to Wednesday*
-
 <br>
 **First Wednesday Meeting**: Welcome DALI! Start of Week 1.
 
 [**Week 1:**](week01/)<br>
-Kickoff. Understand the requirements. Code experiment 0.
+Kickoff. Research. Code experiment 0.
 
 
 [**Week 2:**](week02/)<br>
