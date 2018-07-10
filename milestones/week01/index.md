@@ -19,7 +19,7 @@ published: true
   *   Set up User Research to be conducted next week (ask your partner for help finding people)
 
 ### Des:
-  *   [Research (Competitive and Inspirational)](design-research.md)
+  *   [Design Research (Competitive and Inspirational)](design-research.md)
 
 ### Dev:
   *   [Code Experiment 0](code-experiment-0.md)

@@ -17,6 +17,8 @@ published: true
 * [Brand Style Guides](http://www.logodesignlove.com/brand-identity-style-guides)
 * [Style Guides of 10 Famous Companies](https://www.canva.com/learn/apple-google-starbucks-inside-the-web-design-style-guides-of-10-famous-companies/)
 * [Style Guides of 50 Famous Companies](https://www.canva.com/learn/50-meticulous-style-guides-every-startup-see-launching/)
+* [Google Material Design](https://material.io)
+* [Apple Design](https://developer.apple.com/design/resources/)
 
 
 ### Icons

@@ -4,7 +4,8 @@ title: Style Guide
 published: true
 ---
 
-This is the document that determines the **look and feel** of the project.
+This is the document that determines the look and feel of the project.
+
   * It outlines the color, fonts, spacing, and some UI elements.
   * The earlier you settle on a style guide, the better, since it's a great **resource** for you to reference while working on the bulk of your High Fidelity Mockups.
   * Continue to update as you make final decisions in context.
@@ -34,10 +35,6 @@ This is the document that determines the **look and feel** of the project.
   * Icons
     * Project-specific UI Icons and sizes
 
-
-If you're creating a [Design System](https://blog.prototypr.io/design-system-ac88c6740f53), refer to guides from existing systems for help.
-  * [Google Material Design](https://material.io)
-  * [Apple Design](https://developer.apple.com/design/resources/)
 
 
 Examples:

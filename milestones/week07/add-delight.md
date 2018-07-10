@@ -7,6 +7,7 @@ published: true
 
 Add delight by infusing motion (i.e. **microinteractions**) and thoughtful **copy**.
 
+If you have an interaction-heavy project, start to develop the Interaction Design (IxD). Take care to select the [appropriate prototyping tool](http://www.prototypr.io/prototyping-tools/) for this. For detailed interactions recommended tools are Proto.io, Principle, or Framer. Look ahead to next week where you'll be adding delight, and pace yourself accordingly (i.e. there's time for an animated loading page next week!).
 
 * Motion
 Some quick places where you can add motion could be:

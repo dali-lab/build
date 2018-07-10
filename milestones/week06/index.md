@@ -5,11 +5,6 @@ published: true
 ---
 
 
-## Completed Hi-Fi Mockups. Basic functionality.
-
-Settle on a style guide and apply to all screens. Focus on function over form to work towards MVP functionality.
-
-
 ### PM:
 *   Triage bugs that arose from testing
 *   Address any scope questions and/or changes
@@ -17,18 +12,12 @@ Settle on a style guide and apply to all screens. Focus on function over form to
 
 
 ### Des:
-  * [Style Guide](style-guide.md)
-  * [Apply style guide to all pages](refine-design.md)
+  * Complete [Style Guide](style-guide.md)
+  * Apply style guide to all pages
 
 
 ### Dev:
   * [MVP functionality](mvp-functionality.md)
-
-
-### Deliverables:
-  * Style Guide
-  * Completed Hi-Fi mockups in a click through prototype
-  * Completed Basic functionality
 
 
 ### DALI Meeting Activities:

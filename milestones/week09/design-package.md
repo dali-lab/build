@@ -4,7 +4,11 @@ title: Design Package
 published: true
 ---
 
-This week you’ll be gathering all relevant design information and packaging it in a nice, clean way so it can be sent off to potential future designers and featured/referenced in case studies and portfolios. All final work is stored in the Drive. Create a new folder and title it "Design Package". Include the following:
+Gather all relevant design information and package it so it can be sent off to potential future designers and featured/referenced in case studies and portfolios.
+
+All final work is stored in the **Drive**. Create a new folder and title it *"Design Package"*.
+
+Include the following:
 
 * **PNG mockups**:
   * Export final screens from Figma as jpeg or png (do NOT take screenshots)

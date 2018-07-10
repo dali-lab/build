@@ -7,7 +7,7 @@ title: DALI Milestones
 **First Wednesday Meeting**: Welcome DALI! Start of Week 1.
 
 [**Week 1:**](week01/)<br>
-Kickoff. Research. Code experiment 0.
+Kickoff. Design Research. Code experiment 0.
 
 
 [**Week 2:**](week02/)<br>
@@ -19,23 +19,23 @@ Prioritize. Sketch. Code scaffolding.
 
 
 [**Week 4:**](week04/)<br>
-Grayscales™. Rapid user testing. Connect code components.
+Grayscales™. Connect code components.
 
 
 [**Week 5:**](week05/)<br>
-Initial Hi-Fi Mockups. Basic functionality.
+Rapid user testing. Initial Hi-Fi Mockups. Basic functionality.
 
 
 [**Week 6:**](week06/)<br>
-Completed Hi-Fi Mockups. MVP Functionality. Bughunt.
+Hi-Fi Mockup progress. Incorporate testing feedback. Bughunt.
 
 
 [**Week 7:**](week07/)<br>
-Prototype interactions. Fixing bugs.
+Prototype interactions. MVP Functionality.
 
 
 [**Week 8:**](week08/)<br>
-Final design cleanup. Iterate.
+Final design cleanup. Fixing bugs.
 
 
 [**Week 9:**](week09/)<br>

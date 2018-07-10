@@ -4,7 +4,6 @@ title: Personas
 published: true
 ---
 
-#Personas
 Personas are hypotheses informed by our research. They capture basic demographics, motivations, and frustrations.
 
 Benefits:
@@ -12,7 +11,7 @@ Benefits:
   * inspires empathy for the user(s)
   * serves as the basis of user-oriented design decisions
 
-##Tasks:
+### Tasks:
     * Synthesize your User Research notes
     * Create 2-4 Personas that accurately describe the variety of users - aim to create these together in your team meeting
     * Consult this template to fill in details about your users. (Feel free to include any additional details that help you think about and understand your user in relation to your project e.g., knowledge, skills, interest, technique, languages, platform, etc.)

@@ -4,7 +4,7 @@ title: Research
 published: true
 ---
 
-#Competitive Research
+### Competitive Research
 Before any designing happens, it’s critical to first understand what similar products exist, and how they work.
 
 Benefits:
@@ -16,7 +16,7 @@ Benefits:
 
 
 
-#Inspirational research
+### Inspirational research
 Inspiration can be digital products or other any other artistic or natural form - even if it does not directly relate to the problem at hand.
 
 Benefits:
@@ -26,7 +26,7 @@ Benefits:
   * A resource to turn to when needing inspiration!
 
 
-##Tasks:
+## Tasks:
   * Take screenshots of your research and post them to your team's Figma project page "Week 1". Your partner might have offered some ideas as well - document these.
   * Leave a comment on each example with what works/doesn't.
   * At your next meeting with your partner - show the research and discuss. Use this as fuel for your future design work.

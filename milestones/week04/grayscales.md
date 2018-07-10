@@ -4,34 +4,29 @@ title: Grayscales™
 published: true
 ---
 
+Using the sketches, start to digitize and add fidelity. Grayscales™ are *GRAY*. Think about function first and leave out any visual treatments to not waste time.
 
-Once you have feedback from your partner on your sketches, start to *narrow down your designs and add detail*.
+Benefits:
+  * understand structure while it's early
+  * plan and prepare for the content
+  * set the framework to get feedback early on
 
-Grayscales™ are *GRAY*. Leave out any color or any visual treatments, because ideas still can be scrapped and started again. We don’t want to waste any time with making it pretty.
-
-Prepare to **iterate** as you determine the best way to display information, work through a flow, or integrate content. Refer back to your Competitive/Comparative for inspiration and interface examples.
-
-
-#### Feedback:
-1. On the screens that you want to share and get feedback on, move them to a custom Page with your mentor's name.
-2. Next to or below each screen you want feedback on, **write a few comments** to help the reviewer understand:
-  * What you feel is working on this screen / what you’re happy about
-  * What you feel needs work on this screen
-  * A question or two for another designer to help you with (can be UX or UI related)
-     * i.e. “I’m not sure if this is the best treatment of these elements” or “I can’t seem to find the right shade of green”
-3. When showing the work, use the “Play” feature (top right) to make the screens nice and large for your reviewer and then use the **“*comment - C*” button** (top left) to leave a specific note in a specific place
-
-
-## Guidelines:  
-*   **Design for each unique screen.**
-  * Complex states of those screens can come later in mockups.
-  * Mid-fidelity Grayscales™ should include:
-    * real-ish content wherever possible (don’t let a content problem hold you back from more designing, but the more realistic the content, the more intelligent you can be with design decisions).
-    * DO NOT USE Lorem Ipsum. This leads to space mis-estimation. Make up and synthesize words you think are good enough.
-    * DO NOT worry yet about fonts, colors, grid systems, or design elements (i.e. use a basic font like Avenir, three shades of gray, and boxes for images or video placeholders).
-*   Use the **Prototyping tab** to connect screens for testing.
-  * If you have multiple versions of a screen, you can A/B test these (make two separate prototypes and see what users like better)
+Rules:
+  * Iterate. Never settle for your first solution.
+  * Refer back to your research for inspiration.
+  * Include real-ish content wherever possible.
+    * The more realistic the content, the more intelligent you can be with design decisions.
+    * Make up and synthesize words you think are good enough (no Lorem Ipsum).
+  * Don’t waste any time making it pretty.
+    * Use a basic font, three shades of gray, and boxes for image/video placeholders.
+  * Create states for just the basic pages.
+    * Complex states of those screens can come later in high-fidelity mockups.
 
 
+## Tasks
+* Create Grayscales for each main screen
+* Get feedback from your partner and narrow down your designs
+* Link together a Prototype in Figma - ready for user testing
 
+<br/>
 ![](img/grayscales.png)

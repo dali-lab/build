@@ -5,11 +5,6 @@ published: true
 ---
 
 
-## Prototype interactions. MVP Functionality. Bughunt.
-
-Solidify designs and add in delightful features and interactions. Participate in a bughunt. Help other teams find bugs in the demos!
-
-
 ### Everyone:
 *   [Bughunt](bughunt.md)
 
@@ -22,17 +17,13 @@ Solidify designs and add in delightful features and interactions. Participate in
 
 ### Des:
 *   [Add Delight](add-delight.md)
+*   Create final click through prototype
 *   Close out open comments and feedback
 
 
 ### Dev:
 * MVP Functionality
 * Get App on [Testflight](https://medium.com/@dmathewwws/steps-to-put-your-app-on-testflight-and-then-the-ios-app-store-10a7996411b1)/website hosted on [Github pages](https://pages.github.com/). Putting apps on Testflight is done through our Brunch Labs LLC., talk to Tim for access!
-
-
-### Deliverables:
-  * Moments of delight / animation
-  * MVP for bughunt
 
 
 ### DALI Meeting Activities:

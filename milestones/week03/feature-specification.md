@@ -4,8 +4,8 @@ title: Feature Specification
 published: true
 ---
 
-##Feature Spec
-Your Feature Spec provides a listing of all the features you are envisioning for the product. It may change later as your ideas about the project mature.
+## Feature Spec
+Your Feature Spec is a listing of all the features you are envisioning for the product. It may change later as your ideas about the project mature.
 
 Benefits:
   * It functions as your overall plan for the project.
@@ -13,15 +13,16 @@ Benefits:
   * It is as an opportunity to think through your product in detail.
 
 
-##Tasks:
-  *   List out all features (from your partner, from user research, and from your own team's brainstorming sessions)
-  *   Go through that list and rate the **priority** *1, 2, or 3*
-    * Bonus if you also rank those features for **effort**
-    * Mark a *High, Medium, Low* for LOE (level of effort)
-    * Focus on 5-10 "core features" that are 1 or 2 in priority
-      * Aim for a balance of LOE (e.g. Low effort but high priority = "quick wins")
-  * These should all be expressed as Github/Zenhub issues
+### Tasks:
+  * List out all features (from your partner, from user research, and from your own team brainstorming)
+  * Go through those features and rate the **priority for completion** *1, 2, or 3*
+    * 1 - what you start with - necessary for handoff
+    * 2 - you might/might not get to, depending on complexity
+    * 3 - your icebox and likely not tackled this term
+  * Rank those features for **estimate (of effort)** with *1-10* (10 being most difficult)
+  * Create Github/Zenhub issues for each feature (include the "estimate" number)
   * Submit your Feature Spec for **approval** by the DALI Staff.
+
 
 
 ### Github Markdown Files and Repo

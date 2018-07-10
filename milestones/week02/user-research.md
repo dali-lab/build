@@ -4,7 +4,6 @@ title: User Research
 published: true
 ---
 
-#User Research
 Uncover the user needs and pain points, ultimately helping you design for the user.
 
 Benefits:
@@ -17,7 +16,7 @@ Techniques:
   * Ask the partner: They know their target user, and might have some people already available to contact.
   * Workshop: For an extra challenge (and a fun time!), consider conducting a “Co-Creation” Workshop and invite the users to discuss and solve their own problems.
 
-##Tasks:
+### Tasks:
   * Determine your user types
   * Identify users for interview that fit these types
   * Draft a questioning guide

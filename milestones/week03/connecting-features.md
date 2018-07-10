@@ -4,18 +4,21 @@ title: Connecting Features
 published: true
 ---
 
-#Connecting Features
-In tandem with creating the Feature Spec, lace together a high level understanding of **how these core features connect**.
+In tandem with the Feature Spec, develop a high level understanding of how these features relate.
 
 Benefits:
-  * determine and focus on which insights to act on
+  * determine which features to focus on and how they come together
   * prioritizes features for build
 
+Here are some options:
+
+### Write a Story:
+Lace together all the features from your feature list into a cohesive script.
+  * Solidify the concept, the user, and the setting.
+  * Add detail to rely on later in the design phase (i.e. scenario-based user testing and narration for the demo video).
+
 <br>
 
-#### Here are some options to move forward with this:
-
-<br>
 ### Create a Flow Diagram:
 A flow diagram documents the tasks the user will perform, in relation to each other and over time. Create flows for the primary tasks, but keep this in sketch or text form (best to not dwell on how it looks at this stage but rather how these elements connect to each other).
 
@@ -23,19 +26,10 @@ A flow diagram documents the tasks the user will perform, in relation to each ot
 
 <br>
 ### Sketch the Site Architecture:
-Another method to determining this network would be to quickly jot down the architecture of the project. Marking pages or features horizontally shows relative breadth, while nesting pages or features below those pages shows depth. This helps describe how “flat” or “deep” an experience would be.
+Another method to determining this network would be to quickly jot down the architecture of the project. Marking pages or features horizontally shows relative breadth, while nesting pages or features below those pages shows depth. This helps describe how “flat” or “deep” an experience would be. While you should keep these sketches loose and freehand, checkout what a [polished version](https://speckyboy.com/collection-inspiring-sitemaps-user-flow-maps/) looks like for some inspiration.
 
 ![](img/sitearchitecture.png)
 
-
-While you should keep these sketches loose and freehand, checkout what a [polished version](https://speckyboy.com/collection-inspiring-sitemaps-user-flow-maps/) looks like for some inspiration.
-
-<br>
-### Create a Story:
-Lace together all the features from your feature list into a cohesive script.
-  * Solidify the concept, the user, and the setting.
-  * Add detail to rely on later in the design phase (i.e. user testing, prototype creation, narration for the demo video).
-  * Define what happens on which pages.
 
 
 <br/>
