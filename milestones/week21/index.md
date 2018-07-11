@@ -4,10 +4,6 @@ title: Week 1
 published: true
 ---
 
-## Welcome, Kick-off Meeting
-
-In Week 1, work with your partner and team to understand the problem, stakeholder and partner requirements, and the project scope.
-
 ### Everyone:
   * Kickoff Week 1
     *   [Follow all steps in Week 1](../week01/)

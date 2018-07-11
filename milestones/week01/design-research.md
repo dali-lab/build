@@ -4,7 +4,7 @@ title: Research
 published: true
 ---
 
-### Competitive Research
+### Competitive research
 Before any designing happens, it’s critical to first understand what similar products exist, and how they work.
 
 Benefits:

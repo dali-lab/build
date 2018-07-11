@@ -12,6 +12,7 @@ published: true
 
 
 ### Des:
+  * Incorporate User Testing feedback
   * Complete [Style Guide](style-guide.md)
   * Apply style guide to all pages
 

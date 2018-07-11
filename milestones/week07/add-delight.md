@@ -4,24 +4,30 @@ title: Add Delight
 published: true
 ---
 
+Merge the user’s interactions with the interface, both stylistically and functionality. Add delight by infusing motion (i.e. **microinteractions**) and thoughtful **copy**.
 
-Add delight by infusing motion (i.e. **microinteractions**) and thoughtful **copy**.
+Benefits:
+  * helps guide the user between states, adding focus between elements
+  * infuses fun and delight for the user
 
-If you have an interaction-heavy project, start to develop the Interaction Design (IxD). Take care to select the [appropriate prototyping tool](http://www.prototypr.io/prototyping-tools/) for this. For detailed interactions recommended tools are Proto.io, Principle, or Framer. Look ahead to next week where you'll be adding delight, and pace yourself accordingly (i.e. there's time for an animated loading page next week!).
+Guidelines:
+* Motion can be **directly built in code** by finding examples for developers and tweaking until it feels right.
+* For something specific and **designed from scratch**
+  * Use a prototyping tool like [Proto.io](https://proto.io/) or an animation tool like [Adobe After Effects](https://helpx.adobe.com/after-effects/tutorials.html).
+  * Identify the *trigger* that initiates the microinteraction, the *rules* to determine what happens, and the *feedback* of what happens.
+  * Determine if it *loops, modulates, or ends* after one event.
 
-* Motion
-Some quick places where you can add motion could be:
-  * Transitions (content changes/user moves to another screen)
-  * Graphical animations (like the a spirit animal dance)
-  * Microinteractions
-    * These are tiny details of useful feedback that can help the user love interacting with your product.
-    * Present when the user is interacting with an element or waiting for an action to complete.
-    * Identify the *trigger* that initiates the microinteraction, the *rules* to determine what happens, and the *feedback* of what happens. Lastly, determine if it *loops, modulates, or ends* after one event.
+## Tasks:
+  * Introduce intentional moments of motion
+    * Transitions - content changes/user moves to another screen
+    * Graphical animations - like the a spirit animal dance
+    * Microinteractions - tiny details of useful feedback that can help the user love interacting with your product.
+  * Clean up copy
+      * Personalize the text to unify the "feel" of the product
+      * Add microcopy - little unexpected moments of text, like a voiceover
+      * Alleviate worry - custom messages to the user go a long way
 
-The motion can be *directly built in code* by finding examples for developers and tweaking until it feels right.
-
-For something specific and designed from scratch (keep the scope small here - think just one little moment or element!), use a *prototyping tool* like [Proto.io](https://proto.io/) or an *animation tool* like [Adobe After Effects](https://helpx.adobe.com/after-effects/tutorials.html).
-
+### Examples:
   * System status (keep your user informed about what is going on)
   ![](https://cdn.dribbble.com/users/50261/screenshots/1429143/upload.gif)
 
@@ -30,10 +36,3 @@ For something specific and designed from scratch (keep the scope small here - th
 
   * Visualize input (input is quite boring, so jazzing it up makes it special)
   ![](https://cdn.dribbble.com/users/111932/screenshots/2098475/400.gif)
-
-
-
-* Copy
-  * Personalize it for the "feel" of the product
-  * Add microcopy (little unexpected moments of text, like a voiceover)
-  * Alleviate worry (custom messages to the user go a long way)

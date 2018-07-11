@@ -4,21 +4,14 @@ title: Rapid User Testing
 published: true
 ---
 
+Ask the users themselves about the initial experience. Challenge your assumptions and clarify user needs.
 
-Time to put your concepts to the test! Use InVision or Figma Prototype mode to keep it as real as possible for the user.
+Benefits:
+* Catch possible issues with the designs
+* Incorporate the needs of the users
 
-**Mandatory dry run** with someone in the lab. Come by anytime and ask someone to user test. Record that person's name and answers in your testing notes document.
-
-Now, update your questions and/or prototype if you had issues, and find a minimum of 3 users that closely fit your Personas.
-
-## Preparation:
-Within your design tool, **build your prototype** by connecting frames via nodes (in [Sketch](https://www.sketchapp.com/), use [Craft Prototype](https://vimeo.com/217893619) and upload your flow to [InVision](https://www.invisionapp.com/)). Give the prototype (on Do Not Disturb) to your user to interact with while you observe. Better yet, have a link ready that you can share with them - and have users test on their OWN devices. It helps them act more naturally, with more confidence.
-
-## Use this Template
-To make your life easier, the Design Resident made a [User Research + User Testing Template](https://docs.google.com/spreadsheets/d/1gKQyrXQKgv_zLd7S20WOh8IB6I9i2WX_XkQ5Kq0MYDk/edit?usp=sharing) for you. Copy the sheet to your Drive and populate with your specific questions. Use the *second tab* for User Testing.
-
-
-## User Testing Tips:
+Rules:
+* Give the prototype (on Do Not Disturb) to your user to interact with while you observe **OR** have a link ready to share and have the users test on their OWN devices (it helps them act more naturally).
 * Set the tone
   * tell the user that this is a prototype, so not everything is working
   * assure the user that they are only helping by giving frank feedback
@@ -35,4 +28,9 @@ To make your life easier, the Design Resident made a [User Research + User Testi
 
 
 ## Tasks
-    * User Testing Summary
+  * Use this [User Testing Template](https://docs.google.com/spreadsheets/d/1gKQyrXQKgv_zLd7S20WOh8IB6I9i2WX_XkQ5Kq0MYDk/edit?usp=sharing) to prepare your questions and record your findings.
+    * The *second tab* is for User Testing. Copy the sheet to your Drive and populate with your specific questions.
+  * **Mandatory dry run** with someone in the lab.
+    * Record that person's name and answers in your testing notes document.
+  * Update your questions and/or prototype from the dry run
+  * Test a minimum of 3 users that closely fit your Personas

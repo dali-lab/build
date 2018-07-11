@@ -15,7 +15,7 @@ User Research. Code experiment 1 or code scaffolding.
 
 
 [**Week 3:**](week03/)<br>
-Prioritize. Sketch. Code scaffolding.
+Feature Spec. Sketch. Code scaffolding.
 
 
 [**Week 4:**](week04/)<br>
@@ -27,7 +27,7 @@ Rapid user testing. Initial Hi-Fi Mockups. Basic functionality.
 
 
 [**Week 6:**](week06/)<br>
-Hi-Fi Mockup progress. Incorporate testing feedback. Bughunt.
+Incorporate testing feedback. Hi-Fi Mockup progress. Bughunt.
 
 
 [**Week 7:**](week07/)<br>
@@ -48,7 +48,7 @@ Technigala. User feedback. Handoff.
 ## Second Term Project Milestones
 
 [**Week 1:**](week21/)<br>
-Kickoff. Understand the requirements. Code experiment 0.
+Kickoff. Design Research. Code experiment 0.
 
 
 [**Week 2:**](week22/)<br>
@@ -56,27 +56,27 @@ User Research. Code experiment 1 or code scaffolding.
 
 
 [**Week 3:**](week23/)<br>
-Prioritize. Sketch. Code scaffolding.
+Feature Spec. Sketch. Code scaffolding.
 
 
 [**Week 4:**](week24/)<br>
-Grayscales™. Rapid user testing. Connect code components.
+Grayscales™. Connect code components.
 
 
 [**Week 5:**](week25/)<br>
-Initial Hi-Fi Mockups. Basic functionality.
+Rapid user testing. Initial Hi-Fi Mockups. Basic functionality.
 
 
 [**Week 6:**](week26/)<br>
-Completed Hi-Fi Mockups. MVP Functionality. Bughunt.
+Incorporate testing feedback. Hi-Fi Mockup progress. Bughunt.
 
 
 [**Week 7:**](week27/)<br>
-Prototype interactions. Fixing bugs.
+Prototype interactions. MVP Functionality.
 
 
 [**Week 8:**](week28/)<br>
-Final design cleanup. Iterate.
+Final design cleanup. Fixing bugs.
 
 
 [**Week 9:**](week29/)<br>

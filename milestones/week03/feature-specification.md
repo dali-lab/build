@@ -4,7 +4,6 @@ title: Feature Specification
 published: true
 ---
 
-## Feature Spec
 Your Feature Spec is a listing of all the features you are envisioning for the product. It may change later as your ideas about the project mature.
 
 Benefits:
@@ -13,7 +12,7 @@ Benefits:
   * It is as an opportunity to think through your product in detail.
 
 
-### Tasks:
+## Tasks:
   * List out all features (from your partner, from user research, and from your own team brainstorming)
   * Go through those features and rate the **priority for completion** *1, 2, or 3*
     * 1 - what you start with - necessary for handoff
