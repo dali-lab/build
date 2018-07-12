@@ -16,7 +16,7 @@ published: true
 ### Des:
 *   [Grayscales™](grayscales.md)
 *   User Testing script.
-  * Prepare your questions for next week's User Testing. [User Testing Template](https://docs.google.com/spreadsheets/d/1gKQyrXQKgv_zLd7S20WOh8IB6I9i2WX_XkQ5Kq0MYDk/edit?usp=sharing). 
+    * Prepare your questions for next week's User Testing. You can copy this [User Testing Template](https://docs.google.com/spreadsheets/d/1gKQyrXQKgv_zLd7S20WOh8IB6I9i2WX_XkQ5Kq0MYDk/edit?usp=sharing) to get a head start.
 
 
 ### Dev:
