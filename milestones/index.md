@@ -27,11 +27,11 @@ Rapid user testing. Initial Hi-Fi Mockups. Basic functionality.
 
 
 [**Week 6:**](week06/)<br>
-Incorporate testing feedback. Hi-Fi Mockup progress. Bughunt.
+Incorporate testing feedback. Hi-Fi Mockups.
 
 
 [**Week 7:**](week07/)<br>
-Prototype interactions. MVP Functionality.
+Bughunt. MVP Functionality. Design interactions.
 
 
 [**Week 8:**](week08/)<br>
