@@ -38,7 +38,10 @@ function onSlideToggle(event) {
     $mainContent.hide();
     remark.create({
       source: $('.slide').text(),
-      highlightStyle: 'tomorrow'
+      highlightStyle: 'tomorrow',
+      navigation: {
+        scroll: false
+      }
     });
     fixToggle();
     // looks like needs to be reattached
@@ -47,7 +50,7 @@ function onSlideToggle(event) {
     // reload codepen so it picks up changes
     // could do this more automatically perhaps with arrivejs
     // reloadScript(codepenScript);
-    
+
     // render the math
     var slideAreas = $('.remark-slides-area');
     if (slideAreas.length > 0) {

@@ -31,10 +31,14 @@ permalink: /workshops/
 
 ### 07.31.17: Figma Workshop
 
-  * [Intro to Figma](figma_intro.md)
+  * [Intro to Figma](figma_intro)
 
 
 ### [WebVR](vr)
+
+
+### [What is DALI?](what-is-dali)
+
 
   <!-- * 6/28 [git map workshop](git) -->
   <!-- * 6/30 [bootstrap](https://github.com/dado3212/cs52-workshop-1/tree/gh-pages) -->
