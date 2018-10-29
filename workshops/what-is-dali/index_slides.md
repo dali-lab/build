@@ -344,3 +344,14 @@ name:  Workshops
 
 ???
 * sign up for maillist
+
+
+
+---
+name:  Apply
+
+.large[![](imgs/workshop-swift.jpg)]
+
+
+???
+* sign up for maillist
