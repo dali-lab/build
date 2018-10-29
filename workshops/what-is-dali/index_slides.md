@@ -409,10 +409,13 @@ name:  Workshops
 ---
 name:  Join Us
 
-.small[![](imgs/phil.jpg)]
+.left[
+.large[![](imgs/phil.jpg)]
+]
+.small[![](imgs/chance.jpeg)]
 
 
-* http://dali.dartmouth.edu
+http://dali.dartmouth.edu
 
 ???
 * sign up for maillist
