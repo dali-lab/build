@@ -123,14 +123,13 @@ name: DALI's Mission
 ---
 name: DALI's Mission
 
-.fancy.medium[![](imgs/to-be-gangsta.jpg)]
+.fancy.medium[![](imgs/or-not-to-be.jpg)]
 
 * Foster the skills and mindset of creativity, innovation and leadership
 * Augment classroom learning and turn theory into practice
 
 ???
-* to be gangsta
-* shit wrong slide
+*
 
 
 ---
@@ -154,7 +153,7 @@ name:  Lab Structure
 
 
 ---
-name:  DALI Process:
+name:  DALI Process
 
 .fancy.medium_small[![](imgs/dali-process.jpeg)]
 .fancy.medium_small[![](imgs/steps.jpg)]
@@ -170,7 +169,22 @@ name:  DALI Process:
 
 
 ---
-name: Changing Behavior
+name:  DALI Projects
+
+.fancy.medium_small[![](imgs/ice-cream-matters.jpg)]
+
+* icecream
+* VR, AR, 2d/3d
+* Mobile Apps, Web Apps
+* Visualizations and Tools
+
+
+???
+*
+
+
+---
+name: Projects: To Change Behavior
 
 <iframe width="285" height="508" src="https://www.youtube.com/embed/Giqr89pYeJU?controls=0&autoplay=1&loop=1&playlist=Giqr89pYeJU&rel=0&showinfo=0&modestbranding=1&theme=light" frameborder="0" allow="autoplay; loop; encrypted-media" allowfullscreen></iframe>
 
@@ -182,7 +196,7 @@ name: Changing Behavior
 
 
 ---
-name: Mobile Apps
+name: Projects: That Build Community
 
 .medium[![](imgs/college-pulse.png)]
 
@@ -192,7 +206,7 @@ name: Mobile Apps
 
 
 ---
-name: Mobile Apps
+name: Projects: That Are Fun
 
 .fancy.tinyer[![](imgs/lineatkaf.gif)]
 
@@ -202,7 +216,7 @@ name: Mobile Apps
 
 
 ---
-name: Teaching
+name: Projects: That Pass On Knowledge
 
 <iframe style="transform: scale(0.8) translateX(-150px) translateY(-125px) " width="1000" height="700" src="http://arsenic.dali.dartmouth.edu/" frameborder="0" allowfullscreen></iframe>
 
@@ -260,6 +274,18 @@ name: Exploration
 
 
 ---
+name: Deep Collaboration
+
+.small[![](imgs/dali-white-board.jpg)]
+.small[![](imgs/deep-collaboration.jpg)]
+
+* learn how to work with others
+
+???
+*
+
+
+---
 name:  What We Look For, in students
 
 .medium[![](imgs/apples.jpeg)]
@@ -278,16 +304,32 @@ name:  What We Look For, in students
 ---
 name:  What We Look For, in projects
 
-.medium[![](imgs/partner-outreach.jpg)]
+.medium[![](imgs/light-bulb.jpg)]
 
 * Impact
 * Innovation
 * Scope
 * Educational/Interesting to work on
-* Passionate and Committed **Partners**
 
 ???
 *
+
+
+
+---
+name:  What We Look For, in partners
+
+.medium[![](imgs/partner-outreach.jpg)]
+
+* Passion
+* Commitment
+* Domain Expertise
+
+???
+* teaching
+* working on their part of the project at the same time
+
+
 
 
 ---
@@ -352,8 +394,11 @@ name:  Workshops
 ---
 name:  Apply
 
-.large[![](imgs/workshop-swift.jpg)]
+.small[![](imgs/dali-logo-sign.jpg)]
+.small[![](imgs/we-want-you.jpg)]
 
+
+* http://dali.dartmouth.edu
 
 ???
 * sign up for maillist
