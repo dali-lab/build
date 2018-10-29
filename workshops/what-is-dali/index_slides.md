@@ -202,7 +202,7 @@ name: Projects: That Build Community
 
 
 ???
-* How many of you have used this?
+* dali is how you get into yc
 
 
 ---
@@ -213,6 +213,21 @@ name: Projects: That Are Fun
 
 ???
 * coming out next week!
+
+
+---
+name: Projects: That Push Boundaries
+
+.left[
+.fancy.large[![](imgs/dress.jpg)]
+]
+.fancy.small[![](imgs/ar.jpg)]
+.fancy.small[![](imgs/vr.jpg)]
+
+
+???
+* coming out next week!
+
 
 
 ---
@@ -304,7 +319,7 @@ name:  What We Look For, in students
 ---
 name:  What We Look For, in projects
 
-.medium[![](imgs/light-bulb.jpg)]
+.medium[![](imgs/ewp.png)]
 
 * Impact
 * Innovation
@@ -392,10 +407,9 @@ name:  Workshops
 
 
 ---
-name:  Apply
+name:  Join Us
 
-.small[![](imgs/dali-logo-sign.jpg)]
-.small[![](imgs/we-want-you.jpg)]
+.small[![](imgs/phil.jpg)]
 
 
 * http://dali.dartmouth.edu
