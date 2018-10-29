@@ -156,12 +156,14 @@ name:  Lab Structure
 ---
 name:  DALI Process:
 
-.medium[![](imgs/steps.jpg)]
+.fancy.medium_small[![](imgs/dali-process.jpeg)]
+.fancy.medium_small[![](imgs/steps.jpg)]
 
-* Discovery
-* Definition
+* Discover
+* Define
 * Design + Develop
 * Deliver
+
 
 ???
 *
