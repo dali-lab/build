@@ -8,7 +8,7 @@ published: true
 ### What is UX Design
 * [UX Mastery on YouTube](https://www.youtube.com/watch?v=Ovj4hFxko7c)
 * [UX Booth: Beginner's Guide to UX](http://www.uxbooth.com/articles/complete-beginners-guide-to-interaction-design/)
-* [The *only* UX Reading list](https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff) - updated often!
+* [The UX Reading list](https://airtable.com/shr8I9oWiYngztMXC/tblZr9j5AXj4u4wwo/viwyAQJvQ5ZyLFDvu) - updated often!
 
 
 ### Process and Method
