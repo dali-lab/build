@@ -4,8 +4,7 @@ title: KNK
 ---
 
 
-
-# Klik N' Kut #
+# Klik N' Kut
 
 ## How to use the mat cutter tool
 
