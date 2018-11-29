@@ -29,6 +29,7 @@ Design resources to help with process, theory, and technical skills. Always evol
 * [UX Design](./des-resources/ux-design.md)
 * [UI Design](./des-resources/ui-design.md)
 * [Newsletters and Blogs](./des-resources/blogs.md)
+* [How to use the KNK Force cutter tool](./des-resources/knk.md)
 
 # PM resources
 
