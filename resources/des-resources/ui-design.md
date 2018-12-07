@@ -40,11 +40,11 @@ published: true
 * [Adobe Color CC](https://color.adobe.com/)
 * [Coolors.co](https://coolors.co/)
 * [Gradient picker](https://www.grabient.com/)
-* [Gradient finder](uigradients.com)
+* [Gradient finder](https://www.uigradients.com)
 
 
 ### Inspiration
-* [Dribbble](dribbble.com)
+* [Dribbble](https://www.dribbble.com)
 * [Information is Beautiful](http://www.Informationisbeautiful.net)
 * [Awwwards](http://www.awwwards.com/)
 * [BrandNew](https://www.underconsideration.com/brandnew/)
