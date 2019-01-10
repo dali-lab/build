@@ -1,11 +1,9 @@
 ---
 layout: page
-title: DALI Milestones
+title: DALI Workflow
 ---
 
 <br>
-**First Wednesday Meeting**: Welcome DALI! Start of Week 1.
-
 [**Week 1:**](week01/)<br>
 Kickoff. Design Research. Code experiment 0.
 
@@ -23,7 +21,7 @@ Grayscales™. Connect code components.
 
 
 [**Week 5:**](week05/)<br>
-Rapid user testing. Initial Hi-Fi Mockups. Basic functionality.
+Midpoint rapid user testing live. Initial Hi-Fi Mockups. Basic functionality.
 
 
 [**Week 6:**](week06/)<br>

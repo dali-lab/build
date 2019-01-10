@@ -4,7 +4,7 @@ title: Building The Backlog
 published: true
 ---
 
-Pre-populating the backlog will get your team using the right processes right off the bat and understand how to use the board. You will be able to point to this as you teach them the ins-and-outs of Zenhub. Before you begin, familiarize yourself with the workings of [Zenhub](https://www.zenhub.com/guides#getting-started).
+Pre-populating the backlog will get your team using the right processes right off the bat and understand how to use the board. You will be able to point to this as you teach them the ins-and-outs of Zenhub. Before you begin, familiarize yourself with the workings of [Zenhub](https://help.zenhub.com/support/solutions/43000042875).
 
 To get you started, these are some items that should be in your backlog for the first couple of weeks:
 
@@ -14,7 +14,7 @@ To get you started, these are some items that should be in your backlog for the 
   * Establish meeting norms
   * Choosing a weekly meeting time
   * Kickoff meeting with partner
-  * Completing the discovery phase worksheet
+  * Completing the discovery phase worksheet and put on github wiki
   * User research (Make this an Epic — the individual interviews, etc. will be issues)
   * Write Project Proposal
   * Write Feature Spec
