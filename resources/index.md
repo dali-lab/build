@@ -4,6 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
+[Subject Matter Experts](./smes.md)
 
 # Dev Resources
 
