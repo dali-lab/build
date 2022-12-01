@@ -40,6 +40,7 @@ published: true
 * [Sip App](http://www.sipapp.io/)
 * [Adobe Color CC](https://color.adobe.com/)
 * [Coolors.co](https://coolors.co/)
+* [Branition Colors](https://branition.com/colors)
 * [Gradient picker](https://www.grabient.com/)
 * [Gradient finder](https://www.uigradients.com)
 
